@@ -1,0 +1,4621 @@
+{
+  "common": {
+    "sandbox": "The Sandbox",
+    "$sand": "$SAND",
+    "sand": "SAND",
+    "land": "land",
+    "location": "location",
+    "size": "size",
+    "parcel": "parcels",
+    "estate": "estate",
+    "unique": "unique",
+    "back": "back",
+    "new": "New",
+    "save": "Save",
+    "email": "Email",
+    "nickname": "Nickname",
+    "price": "Price",
+    "catalyst": {
+      "title": "Catalyst",
+      "legendary": "legendary",
+      "epic": "epic",
+      "rare": "rare",
+      "common": "common",
+      "none": "none"
+    },
+    "gems": {
+      "title": "Gems",
+      "power": "power",
+      "defense": "defense",
+      "speed": "speed",
+      "magic": "magic",
+      "luck": "luck"
+    },
+    "catalystGemShopTitle": "Catalyst & Gem Shop",
+    "catalystGemShopDesc": "",
+    "tax": "fee",
+    "duration": "Duration",
+    "day": "day",
+    "days": "日",
+    "hours": "hours",
+    "minutes": "minutes",
+    "seconds": "seconds",
+    "referred": "紹介",
+    "3d": {
+      "preview": "Preview",
+      "view": "View 3D",
+      "idle": "Idle",
+      "deathPose": "Death pose",
+      "eat": "Eat",
+      "fly": "Flying",
+      "take": "Take off",
+      "glide": "Glide",
+      "death": "Death",
+      "fall": "Falling",
+      "hit": "Get hit",
+      "taunt": "Taunt",
+      "attack": "Attack",
+      "landing": "Landing",
+      "skyAttack": "Sky attack",
+      "idleFly": "Idle flying",
+      "walk": "Walk"
+    },
+    "gameExperiences": {
+      "title": "Game Experiences",
+      "cards": {
+        "1": {
+          "title": "Hack the tao",
+          "description": "Hack the Tao is the first art game experience designed by the Italian artist duo, Hackatao, for The Sandbox Game"
+        },
+        "2": {
+          "title": "Shinytures: Finding The Lost Creatures",
+          "description": "Shinytures: Finding The Lost Creatures it’s an adventure where you can get mesmerized by accomplishing the missions you are giving as a member of the spatial organization."
+        },
+        "3": {
+          "title": "Viking Fjord",
+          "description": "Enter into the Vikings atmosphere as a real explorer. Our players have been traveling back in time to experience Fjord´s life."
+        },
+        "4": {
+          "title": "Dethrone",
+          "description": "Dethrone is a fantasy RPG adventure game where the player’s mission is to restore order in the region by completing missions given by the mysterious sovereign."
+        },
+        "5": {
+          "title": "Mushroom Mania",
+          "description": "Mushroom Mania is a collect-a-thon platformer set in an oversized fantasy mushroom world."
+        },
+        "6": {
+          "title": "Tombs of Treasures",
+          "description": "Tombs of Treasures is an action platform-adventure walking simulator. In the game, the adventurer Liu Fogel arrives in the jungle to find the treasures."
+        },
+        "7": {
+          "title": "Sweet village",
+          "description": "This is Rex. Many legends were told by ancient yummy bears but certainly, nobody could answer how Rex got into this candy world. Who knows, maybe he ate too many candies and showed up here."
+        },
+        "8": {
+          "title": "3D Print your life",
+          "description": "Have you ever tried a 3D printer? Based on the CNC concept (Computer Numerical Control) a 3D printer helps you to build solid objects. 3D printing has been around for several years but only in more recent years has it become more accessible for everyday people."
+        }
+      },
+      "buttonText": "Pre-Register"
+    },
+    "articles": {
+      "title": "参考記事（英文記事あり）",
+      "link": "最新ニュースを見る！",
+      "cards": {
+        "0": {
+          "title": "The Sandbox",
+          "description": "2Dから3Dへ"
+        },
+        "1": {
+          "title": "ERC-1155",
+          "description": "新しい基準"
+        },
+        "2": {
+          "title": "マインクラフト",
+          "description": "作品をインポートする"
+        },
+        "3": {
+          "title": "NFTs",
+          "description": "ユーザー作成コンテンツ"
+        }
+      }
+    },
+    "roadmapTitle": "沿革",
+    "yes": "Yes",
+    "no": "No",
+    "from": "From",
+    "to": "To",
+    "time": "Time",
+    "seeMore": "See more",
+    "learnMore": "Learn more",
+    "website": "Website",
+    "congratulations": "おめでとうございます！",
+    "finish": "Finish",
+    "shareIn": "Share in",
+    "ok": "OK",
+    "continue": "Continue",
+    "cancel": "Cancel",
+    "buy": "buy",
+    "sell": "sell",
+    "amountTo": "Amount to",
+    "premium": "Premium",
+    "publish": "Publish",
+    "published": "Published",
+    "unpublished": "Unpublished",
+    "clearFilters": "Clear filters",
+    "play": "Play",
+    "copy": "Copy",
+    "copies": "Copies",
+    "amountCopies": "Amount of copies",
+    "soldout": "Sold Out",
+    "doNotShow": "Do not show again",
+    "goToHome": "Go To Home",
+    "daysMonths": {
+      "day": "Day",
+      "SUN": "SUN",
+      "MON": "MON",
+      "TUE": "TUE",
+      "WED": "WED",
+      "THU": "THU",
+      "FRI": "FRI",
+      "SAT": "SAT",
+      "JAN": "JAN",
+      "FEB": "FEB",
+      "MAR": "MAR",
+      "APR": "APR",
+      "MAY": "MAY",
+      "JUN": "JUN",
+      "JUL": "JUL",
+      "AUG": "AUG",
+      "SEP": "SEP",
+      "OCT": "OCT",
+      "NOV": "NOV",
+      "DEC": "DEC"
+    },
+    "assetAuction": {
+      "viewAssetDetail": "View asset detail",
+      "catalyst": "Catalyst",
+      "gems": "Gems",
+      "amountTo": "Amount to",
+      "buy": "buy",
+      "sell": "sell",
+      "copies": "Copies:",
+      "price": "Price",
+      "priceIn": "Price in",
+      "sand": "SAND",
+      "priceDisclaimerSell": "A 5% in terms of commissions for The Sandbox will be added to the price of your asset once put on sale.",
+      "priceDisclaimerCancel": "A 5% in terms of commissions for The Sandbox has been added to the price of your asset on the market.",
+      "putOnSale": "Put on Sale",
+      "cancel": "Cancel",
+      "continue": "Continue",
+      "noCopies": "No copies available for sale at the moment",
+      "yourAsset": "Your asset",
+      "wasPosted": "was posted on sale successfully. In a few minutes you will view it on the market.",
+      "finish": "Finish",
+      "datePickerStep": {
+        "date-from": "Date from",
+        "date-to": "Date to",
+        "noPastDates": "The start date should be +5 min from now",
+        "confirmDates": "Confirm",
+        "nextDate": "Next"
+      }
+    }
+  },
+  "layout": {
+    "topbar": {
+      "signin": "サインイン",
+      "buy": {
+        "title": "Buy now!",
+        "cards": {
+          "binance": "Buy SAND on Binance",
+          "uniswap": "Buy SAND on Uniswap",
+          "simplex": "Buy SAND on Simplex"
+        },
+        "values": {
+          "binance": "Binance",
+          "uniswap": "Uniswap",
+          "simplex": "Simplex"
+        },
+        "how": "How to buy SAND",
+        "about": "ETH will be used to pay the necessary amount of Gas, it will affect the price depending on the transaction speed.",
+        "buy": "Buy ETH on",
+        "out": "Out of $SAND",
+        "requiredAmount1": "You need",
+        "requiredAmount2": "to complete the transaction"
+      },
+      "lottery": {
+        "inPreseason": "In Alpha",
+        "outPreseason": "Not in Alpha",
+        "balance": {
+          "balance": "Your Current Balance",
+          "noLandsText": "You have lost the Land that allows you to enjoy all the Pre-Season content. You need to have a Land to unlock it",
+          "preRegistered": "You are already successfully Pre-Register",
+          "go": "Go To The Pre-Season"
+        }
+      },
+      "title": "ブログ"
+    }
+  },
+  "home": {
+    "meta": {
+      "title": "The Sandbox Game - User-Generated Crypto & Blockchain Games",
+      "description": "Take your creative freedom to the next level in The Sandbox. Monetize your voxel art in the blockchain! Create & Play!",
+      "keywords": "sandbox, voxel art, 3D voxel game, voxel artists, 3D online PC game, community, blockchain dapp, PC voxel game, PC voxel art, decentralized game",
+      "og": {
+        "title": "A Decentralized Gaming Platform Made By Players",
+        "description": "The Sandbox is a decentralized community-driven gaming ecosystem for creators to monetize voxel assets and gaming experiences in the blockchain!",
+        "url": "https://sandbox.game",
+        "site_name": "The Sandbox",
+        "image": "https://www.sandbox.game/media/The-Sandbox-Banner1-1200px.png"
+      },
+      "twitter": {
+        "title": "A Decentralized Gaming Platform Made By Players.",
+        "description": "The Sandbox is a decentralized community-driven gaming ecosystem for creators to monetize voxel assets and gaming experiences in the blockchain!",
+        "card": "A Decentralized Gaming Platform Made By Players.",
+        "site": "@thesandboxgame",
+        "creator": "@thesandboxgame",
+        "image": "https://www.sandbox.game/media/The-Sandbox-Banner1-1200px.png"
+      }
+    },
+    "header": {
+      "title": "ようこそ",
+      "description": "Play, Create, Own, and Govern a virtual world made by players\n",
+      "preseason": "Discover our very first season",
+      "buttonText": "Pre-Register",
+      "discover": "Snoop Dogg",
+      "howToJoin": "How do I join it?",
+      "buyLand": "Buy Land"
+    },
+    "discover": {
+      "title": "Discover The Sandbox",
+      "description": "The Sandbox is a virtual world where players can play, build, own, and monetize their virtual experiences. We empower artists, creators, and players to build the platform they always envisioned, providing the means to unleash your creativity.",
+      "buttonText": "Pre-Register"
+    },
+    "nft": {
+      "title": "NFTs",
+      "description": "Non-Fungible Tokens (NFTs) are virtual tokens minted on the blockchain for digital scarcity, security, and authenticity. They are unique, indivisible, and non-interchangeable - allowing true digital ownership of in-game assets.",
+      "buttonText": "Buy Assets"
+    },
+    "land": {
+      "title": "CREATE IN YOUR OWN LAND",
+      "description": "Non-Fungible Tokens (NFTs) are virtual tokens minted on the blockchain for digital scarcity, security, and authenticity. They are unique, indivisible, and non-interchangeable - allowing true digital ownership of in-game assets.",
+      "buttonText": "Buy Lands",
+      "discoverMap": "Discover The Map"
+    },
+    "sand": {
+      "title": "Why SAND ?",
+      "description": "$SAND is our main utility token that allows you to buy and sell LANDS and ASSETS in The Sandbox metaverse.",
+      "buttonText": "Buy "
+    },
+    "snoopDogg": {
+      "title": "From tha streets 2 tha Sandbox",
+      "paragraph1": "Snoop Dogg is entering the Metaverse",
+      "paragraph2": "Get your Snoop Dogg Private Party Pass and get access to his mansion",
+      "button": "Find out more"
+    }
+  },
+  "season": {
+    "menu": {
+      "play": "Play",
+      "rewards": "Rewards",
+      "alpha": "Alpha"
+    },
+    "play": {
+      "selectAvatar": "Select your avatar",
+      "enter": "Enter to Metaverse",
+      "learnMore": "Learn more about the alpha",
+      "legend": "Get your LAND to create your own experience",
+      "sendFeedback": "Send feedback",
+      "alpha": {
+        "title": "Welcome to the TSB internal Alpha!",
+        "description": "The Metaverse is slowly opening its door and we are counting on you to help us make it the crypto-place-to-be! You can earn 1000 SANDs by filling up our feedback form here ! We hope you will have a great time!",
+        "buttonText": "Here"
+      },
+      "sidebarRight": {
+        "progressTitle": "Latest Progress",
+        "noProgress": "You do not have progress to claim",
+        "unlockedTitle": "Last experiences unlocked",
+        "noUnlocked": "There are no unlocked experiences yet",
+        "schedule": "Reveal Schedule",
+        "scheduleText": "Click on days to see new experience releases & scheduled social events rewarding SAND!",
+        "ready": "Are you ready?",
+        "noEvents": "There are no scheduled events",
+        "moreExperiences": "More experiences incoming"
+      },
+      "welcome": {
+        "back": "Back",
+        "next": "Next",
+        "understood": "Understood",
+        "slide1": {
+          "title": "Welcome!",
+          "description": "Let me show you around! Are you ready to start?"
+        },
+        "slide2": {
+          "title": "Select an Experience",
+          "description": "Click on an experience on the map to see its details."
+        },
+        "slide3": {
+          "title": "Ready to Play",
+          "description": "Click on 'More details' if you want to find out more, or press 'Play' to jump into the game!"
+        }
+      },
+      "pass": {
+        "dontOwn": "You don't own a season pass.",
+        "endingSoon": "The Alpha is ending soon",
+        "welcomeAlpha": "Welcome to the Alpha",
+        "findOpensea": "Find it on Opensea",
+        "seeRewards": "See rewards"
+      },
+      "tooltips": {
+        "pendingExplore": "Not Visited",
+        "explored": "Visited",
+        "locked": "Locked",
+        "multiplayer": "Multiplayer",
+        "singleplayer": "Singleplayer"
+      },
+      "details": {
+        "progress": "Season progress",
+        "creator": "Creator"
+      },
+      "loading": {
+        "title": "The Sandbox is loading now..",
+        "description": "Get ready to enter the Metaverse !"
+      },
+      "download": {
+        "title": "It's time to play The Sandbox!",
+        "alpha": "Get the Game Maker Alpha",
+        "downloadInstall": "Download and install",
+        "downloadGameMaker": "Download Game Maker"
+      },
+      "thanks": {
+        "title": "Thanks for playing The Sandbox",
+        "step1": "Click to run The Sandbox installer.",
+        "step2": "Right-Click and choose “Run as administrator”.",
+        "step3": "Click in “Finish” to end the install process.",
+        "step4": "After installation, click Play below!"
+      }
+    },
+    "pass": {
+      "title": "Rewards",
+      "subtitle": "Season Pass",
+      "level": "Level",
+      "season": {
+        "reward": "REWARD",
+        "totalSand": "1,000 SAND",
+        "totalPool": "The total price pool is",
+        "maximumTotal": "Maximum Total Reward",
+        "totalDescription": "Each player can win up to 1,000 SAND.",
+        "outTitle": "Do you want to get these rewards?",
+        "outDescription": "You need a Season Pass to join the Alpha. One of the Season Pass winners might put theirs for sale on OpenSea.",
+        "findOpen": "Find it on Opensea",
+        "howToTitle": "How to level up and earn rewards",
+        "howToDescription": "Complete the levels by visiting experiences in the metaverse and earn rewards! Check the",
+        "howToDescription2": "Season Map and the Calendar",
+        "howToDescription3": "to know where to go and when new experiences are released.",
+        "useThis": "Use this NFT in the ",
+        "gameMaker": "Game Maker"
+      },
+      "rewards": {
+        "description": "You must have a Season Pass in your inventory to claim the rewards at the end of the Alpha",
+        "claim": "Claim",
+        "alpha": "Alpha",
+        "alphaRegistration": "Alpha Registration",
+        "alphaEnded": "ALPHA ENDED",
+        "inProgress": "IN PROGRESS",
+        "endingSoon": "ENDING SOON",
+        "timeLeft": "TIME LEFT",
+        "timeLeftToClaim": "TIME LEFT TO CLAIM",
+        "getAChance": "Get a chance to be one of the firsts to play and earn in the Alpha! Registering to win a Season Pass",
+        "seasonOver": "Our first season is over!",
+        "seasonOverDescription": "Congratulations! In a while you will be able to claim all your earned rewards."
+      },
+      "experienceToVisit": "Experience to visit"
+    },
+    "info": {
+      "title": "Alpha",
+      "pass": {
+        "title1": "How to",
+        "title2": "Participate?",
+        "text1": "- LANDs owners can register for a lottery to win one of the 1000 Season Pass NFT available.",
+        "text2": "- If a lottery winner decides to sell their Season Pass, anybody can buy it on OpenSea.",
+        "text3": "- Anybody with a Season Pass can participate!"
+      },
+      "revealed": {
+        "title1": "What is there",
+        "title2": "To do?",
+        "text1": "- Discover formidable experiences, new ones are released everyday!",
+        "text2": "- Complete objectives by exploring the metaverse!",
+        "text3": "- Participate in scheduled Social Events and get a chance to win Extra Rewards!",
+        "text4": "- Meet other players and make new friends!"
+      },
+      "journey": {
+        "title1": "What can",
+        "title2": "I earn?",
+        "text1": "- 7 exclusive Alpha NFT rewards",
+        "text2": "- 500 SAND",
+        "text3": "- Extra Rewards during scheduled Social Events",
+        "text4": "- …and some good memories!"
+      }
+    },
+    "levelUp": {
+      "levelUp": "Level Up!",
+      "youReachedLevel": "You reached Level ",
+      "line1": "Claim the rewards at the end of The Season",
+      "goToTheMap": "Go to the Map",
+      "backToTheSandboxHub": "Latest Progress"
+    },
+    "seasonCompleted": {
+      "title": "Completed all season levels!",
+      "youReachedLevel": "You unlocked all rewards and ",
+      "line1": "Claim the rewards at the end of The Season",
+      "continue": "Continue"
+    },
+    "seasonLocked": {
+      "title": "Season Pass is locked",
+      "subtitle": "You need to own the following NFTs to unlock the content",
+      "text1": "Owning that NFTS unlocks the Season Pass Rewards.",
+      "text2": "You need to keep it to continue enjoying this content, separating from the NFTs will cause you to lose access to the content.",
+      "text3": "Some of them might be for sale on the marketplace depending on if some users are willing to part with it",
+      "button": "Find them in our Marketplace"
+    },
+    "seasonOver": {
+      "seasonOver": "The season is over!",
+      "claimAll": "Now you can claim all your unlocked rewards",
+      "claim": "Claim"
+    },
+    "level": "Level"
+  },
+  "assets": {
+    "meta": {
+      "description": "Buy a [name] as an NFT on The Sandbox blockchain NFT marketplace.",
+      "keywords": "sandbox, nft, marketplace, assets, creators, collections, atari, smurfs, binance, the walking dead, land, entity",
+      "og": {
+        "description": "Buy a [name] as an NFT on The Sandbox blockchain NFT marketplace.",
+        "site_name": "The Sandbox",
+        "image": "https://www.sandbox.game/images/logo.png"
+      },
+      "twitter": {
+        "description": "Buy a [name] as an NFT on The Sandbox blockchain NFT marketplace.",
+        "site": "@thesandboxgame",
+        "creator": "@thesandboxgame",
+        "image": "https://www.sandbox.game/images/logo.png"
+      }
+    },
+    "smart": "Smart-Contract",
+    "loadMoreUsers": "Load more users",
+    "filterByName": "Filter by name",
+    "ban": "ban",
+    "unban": "Unban",
+    "view": "View",
+    "banAsset": "Ban ASSET?",
+    "youAreAboutTo": "You are about to",
+    "anAsset": "an ASSET",
+    "title": "ASSETS",
+    "sell": {
+      "title": "Asset to sale",
+      "viewDetails": "View asset details",
+      "priceIn": "Price in",
+      "putOnSale": "Put on sale",
+      "disclaimer": {
+        "sell": "A 5% in terms of commissions for The Sandbox will be added to the price of your asset once put on sale.",
+        "cancel": "A 5% in terms of commissions for The Sandbox has been added to the price of your asset on the market."
+      }
+    }
+  },
+  "shop": {
+    "meta": {
+      "title": "The Sandbox Shop - Blockchain NFT Marketplace",
+      "description": "The Sandbox Marketplace is an NFT marketplace where you can search and buy creator's ASSETS with SAND to incorporate them into your LAND.",
+      "keywords": "sandbox, nft, marketplace, assets, creators, collections, atari, smurfs, binance, the walking dead, land, entity",
+      "og": {
+        "title": "The Sandbox | The Sandbox Shop - Blockchain NFT Marketplace",
+        "description": "The Sandbox Marketplace is an NFT marketplace where you can search and buy creator's ASSETS with SAND to incorporate them into your LAND.",
+        "url": "https://sandbox.game/shop/",
+        "site_name": "The Sandbox",
+        "image": "https://www.sandbox.game/images/logo.png"
+      },
+      "twitter": {
+        "title": "The Sandbox Shop - Blockchain NFT Marketplace",
+        "description": "The Sandbox Marketplace is an NFT marketplace where you can search and buy creator's ASSETS with SAND to incorporate them into your LAND.",
+        "card": "The Sandbox Shop - Blockchain NFT Marketplace",
+        "site": "@thesandboxgame",
+        "creator": "@thesandboxgame",
+        "image": "https://www.sandbox.game/images/logo.png"
+      }
+    },
+    "collectionsMeta": {
+      "title": "The Sandbox Shop - ",
+      "description": "Buy [name] NFTs on The Sandbox blockchain NFT marketplace.",
+      "keywords": "sandbox, nft, marketplace, assets, creators, collections, atari, smurfs, binance, the walking dead, land, entity",
+      "og": {
+        "title": "The Sandbox Shop - ",
+        "description": "Buy a [name] as an NFT on The Sandbox blockchain NFT marketplace.",
+        "url": "https://sandbox.game/shop/",
+        "site_name": "The Sandbox",
+        "image": "https://www.sandbox.game/images/logo.png"
+      },
+      "twitter": {
+        "title": "The Sandbox Shop - ",
+        "description": "Buy [name] NFTs on The Sandbox blockchain NFT marketplace.",
+        "card": "The Sandbox Shop",
+        "site": "@thesandboxgame",
+        "creator": "@thesandboxgame",
+        "image": "https://www.sandbox.game/images/logo.png"
+      }
+    },
+    "shopTitle": "Shop",
+    "welcomeTo": "Welcome to",
+    "nftCollections": "NFT Collections",
+    "onSale": "On sale",
+    "title": "ショップへようこそ",
+    "subtitle": "ショップはThe Sandboxのマーケットプレイスです。クリエイターが制作したASSETの売買をする場所です。SANDで購入したASSETはLANDで使うことができます。",
+    "fluid": "Fluid",
+    "transparency": "Transparency",
+    "search": "検索する",
+    "attributesTitle": "Attributes",
+    "noCopies": "No copies available for sale at the moment",
+    "collections": {
+      "title": "NFT Collections",
+      "sandbox": "The Sandbox",
+      "featured": "Featured"
+    },
+    "nftTypes": {
+      "title": "NFT タイプ",
+      "all": "全て",
+      "land": "Lands",
+      "entity": "エンティティ",
+      "equipment": "Equipment",
+      "wearable": "Wearable",
+      "art": "Art"
+    },
+    "rarities": {
+      "title": "Catalyst",
+      "legendary": "レジェンダリー",
+      "epic": "エピック",
+      "rare": "レア",
+      "common": "コモン",
+      "none": "none"
+    },
+    "attributes": {
+      "title": "Gems",
+      "power": "power",
+      "defense": "defense",
+      "speed": "speed",
+      "magic": "magic",
+      "luck": "luck"
+    },
+    "behaviours": {
+      "title": "Behaviours",
+      "allyFighter": "Ally Fighter",
+      "animatedDecoration": "Animated decoration",
+      "assetSpawner": "Asset spawner",
+      "avatar": "Avatar",
+      "basicPlatform": "Basic platform",
+      "bird": "Bird",
+      "button": "Button",
+      "citizen": "Citizen",
+      "door": "Door",
+      "enemyFighter": "Enemy fighter",
+      "farmer": "Farmer",
+      "groundPredator": "Ground predator",
+      "groundProtector": "Ground protector",
+      "groundPrey": "Ground prey",
+      "healer": "Healer",
+      "messageBroadcaster": "Message broadcaster",
+      "replaceAsset": "Replace asset",
+      "void": "Void",
+      "multi": "Multi",
+      "plant": "Plant",
+      "question": "Questio"
+    },
+    "slots": {
+      "title": "Slots",
+      "head": "Head",
+      "torso": "Torso",
+      "legs": "Legs",
+      "feet": "Feet"
+    },
+    "themes": {
+      "title": "Biomes",
+      "atari": "Atari",
+      "city": "City",
+      "fantasy": "Fantasy",
+      "heroes": "Heroes",
+      "horror": "Horror",
+      "magic": "Magic",
+      "medieval": "Medieval",
+      "nature": "Nature",
+      "none": "NONE",
+      "pirates": "Pirates",
+      "realistic": "Realistic",
+      "retro": "Retro",
+      "rural": "Rural",
+      "sci-fi": "Sci-Fi",
+      "oracles": "Oracles",
+      "scientists": "Scientists",
+      "theSandbox": "The Sandbox"
+    },
+    "categories": {
+      "title": "Tags",
+      "animal": "Animal",
+      "building": "建物",
+      "city": "City",
+      "decoration": "Decoration",
+      "electric": "Electric",
+      "fantasy": "ファンタジー",
+      "furniture": "家具",
+      "hazard": "Hazard",
+      "horror": "ホラー",
+      "humanoid": "Humanoid",
+      "machine": "Machine",
+      "magic": "魔法",
+      "medieval": "Medieval",
+      "metal": "Metal",
+      "monster": "Monster",
+      "nature": "自然",
+      "pirates": "海賊",
+      "plant": "工場",
+      "retro": "レトロ",
+      "rural": "Rural",
+      "sci-fi": "Sci-Fi",
+      "sports": "Sports",
+      "stone": "Stone",
+      "technology": "Technology",
+      "terrain": "Terrain",
+      "tool": "Tool",
+      "vehicle": "Vehicle",
+      "weapon": "Weapon",
+      "wood": "Wood",
+      "sports_0": "Sports 1",
+      "sports_1": "Sports 2"
+    },
+    "coordinates": {
+      "title": "Coordinates",
+      "first": "First land",
+      "last": "Last land"
+    },
+    "filters": {
+      "all": "All",
+      "sale": "For sale",
+      "notSale": "Not for sale"
+    },
+    "sorts": {
+      "title": "Sort by",
+      "newest": "Newest",
+      "oldest": "Oldest",
+      "lowerPrice": "Lower price",
+      "highPrice": "Highest price",
+      "leastAmount": "Least amount",
+      "highAmount": "High amount"
+    },
+    "sizes": {
+      "title": "Sizes",
+      "1x1": "1x1",
+      "3x3": "3x3",
+      "6x6": "6x6",
+      "12x12": "12x12",
+      "24x24": "24x24"
+    },
+    "enties": "NFTs entities",
+    "land": "NFTs land on Opensea",
+    "results": "results",
+    "price": {
+      "current": "Current price",
+      "by": "By",
+      "buttonText": "Buy now"
+    },
+    "token": "Token ID",
+    "minted": "minted",
+    "sale": "for sale",
+    "owner": "owner",
+    "owners": "owners",
+    "description": "Description",
+    "allSales": "All sales",
+    "noResults": "No results",
+    "clearFilters": "Clear filters",
+    "share": {
+      "text": "Share in",
+      "creator": "Creator",
+      "nft": "NFT from creator",
+      "more": "See more"
+    },
+    "creator": {
+      "title": "Created by",
+      "nft": "NFT from creator",
+      "more": "See more"
+    },
+    "create": {
+      "title": "ASSETを作成する",
+      "text1": "クリエイターがASSETのデザインをするとき、選択した属性に対してポイントを分配する必要があります。",
+      "text2": "クリエーターは、ASSETの制作中に属性のポイント配分を変更できます。",
+      "text3": "Game Makerのアップデートがリリースされると、新しいメカニックは、既存の属性または新しい属性の使用ができます。",
+      "cards": {
+        "player": {
+          "title": "プレイヤー側",
+          "values": {
+            "1": "属性はゲーム内でボーナスを付与します。",
+            "2": "属性がない場合でも、プレーができないことはありません。",
+            "3": "ゲーム説明欄に使用されている属性が表示されます。"
+          }
+        },
+        "creator": {
+          "title": "クリエーター側",
+          "values": {
+            "1": "ゲームメカニックには、プリセットの属性がついてきます。",
+            "2": "ASSETをゲームメカニックで使用するに必須の属性があります。",
+            "3": "クリエイターは、ゲームメカニックが必要とする属性の変更ができます。"
+          }
+        }
+      },
+      "text4": "このシステムは、クリエイター（ゲーム開発、調整）とプレーヤー（プレイ、報酬の対象）の両サイドに対して柔軟に対応致します。"
+    },
+    "buy": {
+      "asset": "Asset to buy",
+      "amount": "Amount to buy",
+      "copies": "Copies",
+      "price": "Price",
+      "buttonText": "Continue"
+    },
+    "cart": {
+      "title": "Shopping cart",
+      "add": "Add to cart",
+      "added": "has been successfully added to your cart",
+      "remove": "Remove from cart",
+      "removed": "has been successfully removed to your cart",
+      "item": "item",
+      "items": "items",
+      "description": "Add items to your cart and start to buy!",
+      "emptyButtonText": "Go to market",
+      "goToCart": "Go to cart",
+      "total": "Total cart",
+      "buy": "Buy now",
+      "notes": {
+        "text1": "* The price and availability of items at The Sandbox are subject to change. The Cart is a temporary place to store a list of your items and reflects each item's most recent price.",
+        "text2": "* When buying multiple assets, you might need to confirm each asset individually on your wallet."
+      },
+      "menu": {
+        "item": "Item",
+        "tier": "Tier",
+        "seller": "Seller",
+        "amount": "Amount",
+        "price": "Price",
+        "status": "Status"
+      }
+    },
+    "assets": {
+      "noGems": "This asset doesn't have any gems.",
+      "noAttributes": "This asset doesn't have attributes",
+      "inRange": "Attributes will go in a range. They will be assigned a final number after minting."
+    },
+    "removing": {
+      "title": "All attributes are going to be removed.",
+      "description": " Do you wish to continue?"
+    },
+    "opensea": {
+      "disclaimerPart1": "All LANDs listed here are sold directly by other users on OpenSea with SAND set as the currency. All displayed prices are set by users directly and not linked to The Sandbox’s primary LAND sales. If you want to have your LAND visible here, please list it on",
+      "disclaimerPart2": "and set SAND as currency"
+    },
+    "claim": {
+      "claim": "Claim",
+      "alreadyClaim": "Already claimed",
+      "putOnSale": "Put on Sale",
+      "saleQuestion": "Do you want to sell this NFT in our Marketplace ?"
+    }
+  },
+  "create": {
+    "meta": {
+      "title": "Build your own games in The Sandbox",
+      "description": "The Sandbox offers a unique way to create, assemble and share 3D voxel models. Make your own 3D voxel objects, animate them, and publish/sell them in our worldwide marketplace, for free!",
+      "keywords": "sandbox, create, create voxel art, 3D voxel game, voxel artists, voxel game art, voxel market, blockchain dapp, PC voxel game, PC voxel art",
+      "og": {
+        "title": "The Sandbox | Create, Animate, Publish and Sell 3D Voxel objects",
+        "description": "The Sandbox offers a unique way to create, assemble and share 3D voxel models. Make 3D voxel objects, animate them, and publish/sell them in our worldwide marketplace.",
+        "url": "https://sandbox.game/create/",
+        "site_name": "The Sandbox",
+        "image": "https://www.sandbox.game/media/The-Sandbox-VoxEdit-Character-Preview.gif"
+      },
+      "twitter": {
+        "title": "The Sandbox | Create, Animate, Publish and Sell 3D Voxel objects",
+        "description": "The Sandbox offers a unique way to create, assemble and share 3D voxel models. Make your own 3D voxel objects, animate them, and publish/sell them in our worldwide marketplace.",
+        "card": "Create in a Decentralized Gaming Ecosystem.",
+        "site": "@thesandboxgame",
+        "creator": "@thesandboxgame",
+        "image": "https://www.sandbox.game/media/The-Sandbox-VoxEdit-Character-Preview.gif"
+      }
+    },
+    "menu": {
+      "gameMaker": "Game Maker",
+      "voxedit": "VoxEdit",
+      "avatar": "Avatar"
+    },
+    "gamemaker": {
+      "meta": {
+        "title": "The Sandbox Game",
+        "description": "Create exciting new voxel universes in The Sandbox. Make or import models from the marketplace to start creating your own voxel world to share with friends and community!",
+        "keywords": "sandbox, 3D voxel game, voxel market, community, blockchain dapp, PC voxel game, PC voxel art",
+        "og": {
+          "title": "The Sandbox | Create and Play in Exciting Voxel Universes",
+          "description": "Create exciting new voxel universes in The Sandbox. Make or import models from the marketplace to start creating your own voxel world to share with friends and community!",
+          "url": "https://sandbox.game/game/",
+          "site_name": "The Sandbox",
+          "image": "https://www.sandbox.game/images/proposals-1.png"
+        },
+        "twitter": {
+          "title": "The Sandbox | Create and Play in Exciting Voxel Universes",
+          "description": "Create exciting new voxel universes in The Sandbox. Make or import models from the marketplace to start creating your own voxel world to share with friends and community!",
+          "card": "Create and Play in a Gaming Ecosystem Made By Players.",
+          "site": "@thesandboxgame",
+          "creator": "@thesandboxgame",
+          "image": "https://www.sandbox.game/images/proposals-1.png"
+        }
+      },
+      "header": {
+        "title": "Craft your game. Coding not required",
+        "description": "The toolbox you need for your imagination to come to life",
+        "buttonText": "ダウンロード"
+      },
+      "metaverse": {
+        "title": "Building games for the Metaverse",
+        "description": "Anyone can build 3D games for free. No coding required. Contribute to a vast metaverse, filled with amazing creations and experiences.",
+        "buttonText": "ダウンロード"
+      },
+      "create": {
+        "1": {
+          "title": "Create for free",
+          "description": "Create awesome 3D games for free using thousands of voxel models (NFTs) made by the community with VoxEdit.",
+          "image": "block 1.png"
+        },
+        "2": {
+          "title": "Build And Share",
+          "description": "It's just as fun to build your game as it is to play. Share in the gallery to your friends and make something they will remember forever.",
+          "image": "block 2.png"
+        },
+        "3": {
+          "title": "No Code Required",
+          "description": "Easy to learn. Creating behaviors and editing attributes are simple and intuitive",
+          "image": "block 3.png"
+        }
+      },
+      "play": {
+        "title": "Play-to-Earn",
+        "description": "Free to Playの時代から、ついにPlay to Earnの時代がやってきた！The Sandboxで作成したゲームを収益化しましょう！Play to Earnは、プレイヤーとクリエイター間の仮想通貨の安全な取引を保証があった上で成り立っています",
+        "listTitle": "How to earn in The Sandbox ?",
+        "earn": {
+          "1": "GAMEを遊び、報酬を稼ぐ",
+          "2": "GAMEを構築し、マネタイズする",
+          "3": "ASSETを作成し、マーケットで販売する"
+        }
+      },
+      "videos": "Gallery Videos",
+      "requirementsTitle": "システム条件",
+      "requirements": {
+        "minimum": {
+          "title": "必要条件",
+          "text": {
+            "bits": "64ビットプロセッサ",
+            "os": "Windows 7 以上のOS",
+            "cpu": "デュアルコア2GHz メモリ",
+            "ram": "4GB RAM グラフィックス",
+            "gpu": "512MB VRAM DirectX",
+            "directx": "バージョン11 ストレージ",
+            "storage": "2GB空き容量"
+          }
+        },
+        "recommended": {
+          "title": "推奨",
+          "text": {
+            "bits": "64ビットプロセッサ",
+            "os": "Windows 10 以上のOS",
+            "cpu": "デュアルコア2GHz メモリ",
+            "ram": "8GB RAM グラフィックス",
+            "gpu": "2GB VRAM DirectX",
+            "directx": "バージョン11 ストレージ",
+            "storage": "2GB空き容量"
+          }
+        }
+      },
+      "changelog": "変更履歴",
+      "gameExperiences": "Games built with The Sandbox",
+      "download": {
+        "title": "Download Game Maker"
+      },
+      "end": {
+        "text": "あなたのアセットをセットし、The Sandboxの世界観を体験してみましょう！",
+        "buttonText": "事前登録する"
+      }
+    },
+    "voxedit": {
+      "meta": {
+        "title": "The Sandbox - VoxEdit",
+        "description": "Create, animate, and play in The Sandbox. VoxEditor is the first software that allows you to create your own voxel models, rig them, and animate them in no time.",
+        "keywords": "sandbox, voxeditor, voxedit, voxel editor, voxel art, 3D voxel game, voxel artists, voxel game art, voxel market, blockchain dapp, PC voxel game, PC voxel art",
+        "og": {
+          "title": "The Sandbox | Create and Animate Voxel Assets Using VoxEditor",
+          "description": "Create, animate, and play in The Sandbox. VoxEditor is the first software that allows you to create your own voxel models, rig them, and animate them in no time.",
+          "url": "https://sandbox.game/editor/",
+          "site_name": "VoxEdit",
+          "image": "https://www.sandbox.game/media/VoxEdit-Create-Animate-Play.jpg"
+        },
+        "twitter": {
+          "title": "The Sandbox | Create and Animate Voxel Assets Using VoxEditor",
+          "description": "Create, animate, and play in The Sandbox. VoxEditor is the first software that allows you to create your own voxel models, rig them, and animate them in no time.",
+          "card": "A Decentralized Gaming Platform Made By Players.",
+          "site": "@voxedit",
+          "creator": "@voxedit",
+          "image": "https://www.sandbox.game/media/VoxEdit-Create-Animate-Play.jpg"
+        }
+      },
+      "header": {
+        "title": "VoxEdit - NFT Creator",
+        "description": "The leading software that allows you to create, rig, and animate your own voxel-based NFTs. Sell them on The Sandbox's marketplace and discover a new world."
+      },
+      "models": {
+        "title": "Create your own Vox Models",
+        "cards": {
+          "1": "作品をアップロードするには、クリエイターファンドのアーティスト登録をする必要があります。申請をする。",
+          "2": "VoxEditはマーケットプレイスにASSETをエクスポートすることのできる唯一のソフトウェアです。VoxEditをダウンロードし、ASSETの制作をする。",
+          "3": "作品が完成したら、次の手順で簡単にマーケットプレイスにエクスポートする。"
+        },
+        "link": "Learn more",
+        "buttonText": "Download VoxEdit"
+      },
+      "features": {
+        "title": "VoxEditの機能",
+        "cards": {
+          "1": {
+            "title": "モデラー",
+            "description": "初心者からエキスパートまで、誰でもアートの制作ができます！クリエイティビティを最大限に発揮してみてください！"
+          },
+          "2": {
+            "title": "アニメーター",
+            "description": "VoxEditのスケルトン システムを使用し、キーフレーミングモードでタイムラインを使い、ボクセルアートに必要なものをリギングし、アニメーション化します。"
+          },
+          "3": {
+            "title": "NFT Maker",
+            "description": "Sell, trade, and buy VoxEdit assets on The Sandbox's marketplace and monetize your creations. 95% of all transactions goes to you, the creator!"
+          }
+        }
+      },
+      "artists": {
+        "title": "アーティストが制作中のアート"
+      },
+      "quotes": {
+        "title": "ボクセルアーティスト達の声",
+        "cards": {
+          "0": {
+            "text": "「VoxEditは、すべてが同じソフトウェア内にあり、特にモデリングとアニメーションシステムが融合していることに感銘を受けました。」",
+            "job": "プロボクセルアーティスト",
+            "author": "William Santacruz"
+          },
+          "1": {
+            "text": "VoxEdit is a game changer for voxel artists looking to animate, being the only dedicated voxel editor that features skeletal rigging and timeline animation.",
+            "job": "Professional Voxel Artist",
+            "author": "Alex Florez"
+          },
+          "2": {
+            "text": "「エディタ内で完全に機能するアニメーションシステムを追加すれば、他のプロダクトよりも目立つと思います！将来が楽しみです。」",
+            "job": "プロボクセルアーティスト",
+            "author": "Zach Soares"
+          },
+          "3": {
+            "text": "「ボクセルアートのアニメーションを作成するための最も簡単なツールの1つで、初心者にとってもシンプルで使いやすいインターフェイスです。」",
+            "job": "プロボクセルアーティスト",
+            "author": "Nicolas Morrone"
+          }
+        }
+      },
+      "changelog": "変更履歴",
+      "play": {
+        "title": "ルールに沿ってプレイ",
+        "text1": "当社のルールに沿って、プロダクトをご利用ください。",
+        "text2": "デフォルトのサイズは32×32×32で、これはThe Sandboxの世界では1メートル(3.2フィート)です。キャラクターなどのASSETはこの数字に準じて作成してください。このサイズを目一杯に利用する必要はありませんが、32×32×32は1㎥内に収める必要があることを理解しておくと良いでしょう。",
+        "text3": "アバターの作成：人間のキャラクターの平均の身長を1.8ｍ(5.9フィート)とすると、そのキャラクターを作るには32×32×32のキューブが2つ必要になります。",
+        "buttonText": "アバターのスペック"
+      },
+      "funding": {
+        "title": "200万ドル",
+        "subtitle": "当社のプラットフォームで、あなたの素敵なボクセルクリエーションの作成・提供・販売のお手伝いをします。",
+        "how": {
+          "title": "クリエイターファンドの仕組み",
+          "cards": {
+            "1": "First, you'll sign up so we can evaluate your work, as we want to encourage the best voxel ASSETS",
+            "2": "Get paid for each asset you make AND get 100% of profits from each of your sales!",
+            "3": "Overall goal for the fund is to generate 10,000 voxel ASSETS for the game",
+            "4": "In addition to the grant, you'll be able to sell your creations to players when The Sandbox launches"
+          }
+        },
+        "text": "このプログラムは先着1000ユーザーまで応募を受けつけます。報酬を受け取れるこの絶好の機会を逃さないように、ぜひサインアップしてください。",
+        "buttonText": "Known More"
+      },
+      "download": {
+        "title": "Download VoxEdit",
+        "buttonText": "Download"
+      }
+    },
+    "avatar": {
+      "meta": {
+        "title": "Create your Avatar inside The Sandbox",
+        "description": "The Sandbox Avatar. Customize your look, boost it with equipment and get ready to play with your friends in The Sandbox metaverse.",
+        "keywords": "sandbox, create, create voxel art, 3D voxel game, voxel artists, voxel game art, voxel market, blockchain dapp, avatar, avatar creator",
+        "og": {
+          "title": "The Sandbox | Create your Avatar inside The Sandbox",
+          "description": "The Sandbox Avatar. Customize your look, boost it with equipment and get ready to play with your friends in The Sandbox metaverse.",
+          "url": "https://sandbox.game/create/avatar/",
+          "site_name": "The Sandbox",
+          "image": "https://www.sandbox.game/images/logo.png"
+        },
+        "twitter": {
+          "title": "The Sandbox | Create your Avatar inside The Sandbox",
+          "description": "The Sandbox Avatar. Customize your look, boost it with equipment and get ready to play with your friends in The Sandbox metaverse.",
+          "card": "Create your Avatar inside The Sandbox",
+          "site": "@thesandboxgame",
+          "creator": "@thesandboxgame",
+          "image": "https://www.sandbox.game/images/logo.png"
+        }
+      },
+      "header": {
+        "title": "The Sandbox Avatar",
+        "description": "Customize your look, boost it with equipment and get ready to play with your friends in The Sandbox metaverse.",
+        "buttonText": "Create Avatar"
+      },
+      "section1": {
+        "1": {
+          "title": "Create your style",
+          "description": "Quickly combine different outfits, hairstyles and colors to get a unique look."
+        },
+        "2": {
+          "title": "Get Social",
+          "description": "Meet with friends and socialize with thousands of players in The Sandbox virtual world."
+        },
+        "3": {
+          "title": "Equip your avatar and Play",
+          "description": "Boost your attributes with equipment and get ready to play."
+        }
+      },
+      "section2": {
+        "title": "Select an avatar",
+        "subtitle": "Find your own style to stand out from the crowd",
+        "description": "Get started easily with a predesigned avatar. Choose between more than 20 models designed by our best artists and join The Sandbox metaverse !",
+        "buttonText": "Create yout avatar"
+      },
+      "section3": {
+        "comingSoon": "Coming soon",
+        "title": "Customize your Avatar",
+        "description": "Quickly combine different outfits, hairstyles and colors to create a unique style"
+      },
+      "section4": {
+        "title": "Socialize into the virtual world",
+        "description1": "Meet and interact with thousands of users with different styles. Explore, discover and play with them in the virtual lands of The Sandbox.",
+        "description2": "Become who you truly are: the possibilities are endless.",
+        "buttonText": "Download"
+      },
+      "section5": {
+        "title": "Boost your Avatar’s attributes with Equipment",
+        "subtitle": "Coming soon",
+        "part1": {
+          "title": "Equip your avatar and get special skills.",
+          "text1": "All avatars come with a specific set of Attributes that define their abilities in",
+          "gameMakerLinkText": " The Sandbox Game Maker : ",
+          "text2": "Power, Luck, Defense, Speed and Magic.",
+          "text3": "Want a stronger avatar? Visit the",
+          "marketplaceLinkText": " marketplace ",
+          "text4": "and choose the right weapon from thousands of options created by the Community. They will soon become available."
+        },
+        "part2": {
+          "title": "Create custom Equipment with VoxEdit",
+          "description": "Equipment are Tokens that can be traded. They have Catalysts and Gems just as other assets do. Yes, you can also create and mint Equipment through VoxEdit !",
+          "link": "Learn more"
+        }
+      },
+      "section6": {
+        "title": "What are you waiting for ?",
+        "description": "Join the Community of thousands of users that have already registered in TheSandbox with their unique avatars.",
+        "buttonText": "Create avatar now"
+      }
+    }
+  },
+  "estate": {
+    "title": "Edit estate",
+    "previewDisclaimer": "You can upload up to 3 images to preview your land (JPG, PNG, WEBP). The file size should be less than 90kb.",
+    "name": "Name",
+    "description": "Description",
+    "url": "URL",
+    "logo": "Logo",
+    "logoDisclaimer": "You can upload an image to be shown on the map (WEBP or JPG). the file size should be less than 90kb.",
+    "howTo": "How to edit your ESTATE",
+    "errors": {
+      "assetNameRequired": "Asset name is required",
+      "assetNameTooShort": "Asset name too short",
+      "assetDescriptionTooLong": "Asset description too long",
+      "logo": "The format or size of the logo file is incorrect, should be WEBP or JPG and the file size should be less than 90kb",
+      "preview": "The format or size of the preview file is incorrect, should an image and the file size should be less than 90kb",
+      "pleaseSignInFirst": "Please sign in first"
+    }
+  },
+  "experience": {
+    "form": {
+      "portrait": "Portrait",
+      "portraitWarning": "The accepted image formats are WEBP and JPEG. The file size should be less than 90kb.",
+      "banner": "Banner",
+      "bannerWarning": "You should upload a cover image for this experience. The accepted formats are WEBP and JPG.",
+      "name": "Name",
+      "description": "Description",
+      "multiplayer": "Experience multiplayer",
+      "date": "Publish date",
+      "landLink": "Land to link with",
+      "experienceSize": "Your experience size is",
+      "linkLands": "You should link",
+      "publish": "Publish",
+      "unpublish": "Unpublish"
+    },
+    "publish": {
+      "title": "Publish experience"
+    },
+    "edit": {
+      "title": "Edit experience"
+    }
+  },
+  "map": {
+    "meta": {
+      "title": "The Sandbox Metaverse Map",
+      "description": "The Sandbox Metaverse is made up of LAND, which are parts of the world, owned by players to create and monetize experiences. Buy it here.",
+      "keywords": "sandbox, map, metaverse, land, world, experiences, create, monetize, sand, own land, create games",
+      "og": {
+        "title": "The Sandbox Metaverse Map",
+        "description": "The Sandbox Metaverse is made up of LAND, which are parts of the world, owned by players to create and monetize experiences. Buy it here.",
+        "url": "https://sandbox.game/map/",
+        "site_name": "The Sandbox",
+        "image": "https://www.sandbox.game/images/logo.png"
+      },
+      "twitter": {
+        "title": "The Sandbox Metaverse Map",
+        "description": "The Sandbox Metaverse is made up of LAND, which are parts of the world, owned by players to create and monetize experiences. Buy it here.",
+        "card": "The Sandbox Metaverse Map",
+        "site": "@thesandboxgame",
+        "creator": "@thesandboxgame",
+        "image": "https://www.sandbox.game/images/logo.png"
+      }
+    },
+    "title": "Map",
+    "loader": {
+      "text1": "Generating metaverse LANDS...",
+      "text2": "Setting parcels boundaries...",
+      "text3": "Combining LANDS into ESTATES...",
+      "text4": "Placing voxels...",
+      "text5": "Positioning Sandbox ESTATES...",
+      "text6": "Locating Landowners parcels...",
+      "text7": "Hiding treasures around the metaverse...",
+      "text8": "Did you know? LANDS can be combined to form ESTATES to create bigger game experiences.",
+      "text9": "Did you know? You’ll be able to rent and sell your game experiences within The Sandbox",
+      "text10": "GEMS are the tokens that define your ASSETS attributes just as Power and Defense",
+      "text11": "Did you know? The Creator Fund’s artists are responsible for creating the ASSETS in The Sandbox.",
+      "text12": "You can create and sell your own ASSETS using VoxEdit, our free voxel editor."
+    },
+    "discover": {
+      "text1": "Discover",
+      "text2": "LAND NFT's",
+      "text3": "for sale",
+      "buttonText": "Buy LAND"
+    },
+    "countdown": {
+      "titleNextPresale": "The next wave starts in:",
+      "titleStartsIn": "The Sale starts in:",
+      "titleFinishesIn": "The current Sale finishes in:",
+      "buttonText": "Buy LAND",
+      "returnFullMap": "Return to full map",
+      "days": "days",
+      "hours": "hours",
+      "minutes": "minutes",
+      "seconds": "seconds",
+      "btn": "Buy LAND"
+    },
+    "caption": {
+      "my": "現在の所有地",
+      "available": "購入可",
+      "booked": "予約済み",
+      "purchased": "購入済",
+      "premium": "プレミアム",
+      "unavailable": "利用不可",
+      "opensea": "At OpenSea",
+      "onSale": "On sale"
+    },
+    "presales": {
+      "metaverse": "Metaverse",
+      "pororo": "PORORO",
+      "twd1": "THE WALKING DEAD (1)",
+      "twd2": "THE WALKING DEAD (2)",
+      "twd3": "THE WALKING DEAD (3)",
+      "twd4": "THE WALKING DEAD (4)",
+      "summer_jam": "SUMMER JAM",
+      "euphoria": "EUPHORIA",
+      "innovators": "INNOVATORS",
+      "pranksy_metapurse": "PRANKSY METAPURSE",
+      "coinmarketcap": "COINMARKETCAP",
+      "the_smurfs": "THE SMURFS",
+      "care_bears": "CARE BEARS",
+      "binance": "BINANCE",
+      "moon": "MOON",
+      "atari": "ATARI",
+      "hub2": "THE HUB (Part 2)",
+      "hub1": "THE HUB (Part 1)"
+    },
+    "booked": "Booked by",
+    "visit": "Visit site",
+    "errors": {
+      "coordinates": "Please provide coordinates"
+    },
+    "detail": {
+      "land": "LAND",
+      "estate": "ESTATE",
+      "signIn": "Sign In to enable more features",
+      "onSaleOpensea": "On sale on Opensea",
+      "about": "About",
+      "back": "Back",
+      "landsIncluded": "Lands included in the Estate",
+      "available": "Available",
+      "unavailable": "購入不可",
+      "owner": "OWNER",
+      "cost": "Cost",
+      "location": "位置",
+      "assetsOwned": "Assets Owned",
+      "assetsIncluded": "Assets Included",
+      "blocksIncluded": "Blocks Included",
+      "addToCheckout": "Add to checkout",
+      "viewLands": "LANDをみる",
+      "viewMap": "View Map",
+      "buyNow": "Buy Now",
+      "currentPrice": "Current Price",
+      "nearLands": "Neighbours",
+      "reachOut": "How to reach out your Neighbours",
+      "askSellMarket": "Do you want sell this Land in our Market?",
+      "putOnSale": "Put On Sale",
+      "buyLand": "Buy LAND",
+      "buyEstate": "Buy ESTATE",
+      "bid": "Bid",
+      "placeBid": "¨Place Bid",
+      "cancel": "Cancel",
+      "landNFT": "LAND NFT",
+      "parcels": "区画",
+      "size": "size",
+      "price": "price",
+      "seeAll": "See all",
+      "viewInMap": "View in Map",
+      "readMorePremium": "Read more about premium"
+    },
+    "onboarding": {
+      "title": "Sandbox Map",
+      "description": "Welcome to the",
+      "buttonText": "Continue",
+      "lastButtonText": "Buy LAND now!",
+      "slide1": "Navigate the Sandbox map to find the LANDS and ESTATES of our upcoming playable metaverse. Make sure to set your wallet with SAND to get yourself a piece of the Sandbox.",
+      "slide2": "We are holding a series of special lunar-themed LAND presales beginning this June 4th through July 2nd. Get a hold of one of the 7,254 LANDS of this MoonSale at a 20% discount and get ready to join the metaverse."
+    },
+    "landEdit": {
+      "title": "Edit a LAND",
+      "uploadInfo": "Upload an image to preview your land (JPG, PNG, WEBP). The file size should be less than 90kb.",
+      "name": "LAND name",
+      "description": "LAND description",
+      "url": "URL",
+      "errors": {
+        "signin": "Please sign-in first",
+        "assetNameRequired": "Asset name is required",
+        "assetNameTooShort": "Asset name too short",
+        "assetDescriptionTooLong": "Asset description too long",
+        "preview": "The format or size of the preview file is incorrect, should an image and the file size should be less than 90kb"
+      },
+      "viewInMap": "View in Map",
+      "notifications": {
+        "not1": {
+          "text": "Find out when is the next PreSale",
+          "btn": "Sign in"
+        },
+        "not2": {
+          "text": "Search and buy NFTs in our Market",
+          "btn": "Go to Market"
+        }
+      }
+    },
+    "notifications": {
+      "not1": {
+        "text": "Find out when is the next PreSale",
+        "button": "Sign in"
+      },
+      "not2": {
+        "text": "Search and buy NFTs in our Market",
+        "button": "Go to Market"
+      }
+    }
+  },
+  "about": {
+    "meta": {
+      "title": "About The Sandbox Team",
+      "description": "Learn about the team behind The Sandbox, a voxel-based blockchain gaming ecosystem.",
+      "keywords": "sandbox, sandbox team, voxel art, voxel market, blockchain dapp, voxel team, PC voxel game, PC voxel art, blockchain gaming, blockchain game",
+      "og": {
+        "title": "The Sandbox | About Us",
+        "description": "Learn about the team behind The Sandbox, a voxel-based blockchain game platform.",
+        "url": "https://sandbox.game",
+        "site_name": "The Sandbox",
+        "image": "https://www.sandbox.game/images/logo.png"
+      },
+      "twitter": {
+        "title": "The Sandbox | About Us",
+        "description": "Learn about the team behind The Sandbox, a voxel-based blockchain gaming ecosystem.",
+        "card": "A Decentralized Gaming Platform Made By Players.",
+        "site": "@thesandboxgame",
+        "creator": "@thesandboxgame",
+        "image": "https://www.sandbox.game/images/logo.png"
+      }
+    },
+    "title": "Welcome",
+    "description": "is a community-driven platform where creators can monetize voxel ASSETS and gaming experiences on the blockchain",
+    "menu": {
+      "sandbox": "The Sandbox",
+      "sand": "SAND",
+      "blog": "Blog"
+    },
+    "sandbox": {
+      "products": {
+        "title": "Learn About Our Products",
+        "voxedit": {
+          "title": "VoxEdit",
+          "description": "ボクセルアートを作成してアニメーション化する無料ツール"
+        },
+        "marketplace": {
+          "title": "マーケットプレイス",
+          "description": "所持中もしくは、作成した アセットの売買をする場所"
+        },
+        "gameMaker": {
+          "title": "Game Maker",
+          "description": "ゲーム制作から提供までの トータル環境"
+        },
+        "land": {
+          "title": "Land",
+          "description": "ユーザーが所有する資産。土地の 購入チャンスは逃さずに！"
+        },
+        "gameMakerProduct": {
+          "title": "Game Maker",
+          "description": "The Sandboxのゲームエコノミー内で流通する通貨"
+        },
+        "fund": {
+          "title": "ファンド",
+          "description": "ボクセルアートの作成を支援する ファンド。報酬ゲットのチャンス！"
+        }
+      },
+      "partners": "パートナー",
+      "roadmap": {
+        "title": "ロードマップ",
+        "description": "詳細を見る"
+      },
+      "team": {
+        "title": "チームメンバーの紹介",
+        "ceo": "CEO",
+        "coo": "COO",
+        "cfo": "CFO",
+        "cto": "CTO",
+        "headDesign": "Head of Design",
+        "headArt": "Head of Art",
+        "headMarketing": "Head of Marketing",
+        "leadVoxedit": "Lead VoxEdit Developer",
+        "leadWeb": "Lead Web Developer",
+        "leadGameDev": "Lead Game Developer",
+        "leadGameDesign": "Lead Game Designer",
+        "leadBlockchain": "Lead Blockchain Architect",
+        "gpm": "Game Project Manager",
+        "uiux": "UX/UI Designer",
+        "cm": "Community Manager",
+        "qa": "Quality Assurance",
+        "front": "Frontend Developer",
+        "back": "Backend Developer",
+        "devops": "DevOps",
+        "gdesign": "Game Designer",
+        "gdev": "Game Developer"
+      }
+    },
+    "sand": {
+      "meta": {
+        "title": "The Sandbox | SAND token",
+        "description": "SAND is the utility token used throughout The Sandbox ecosystem as the basis of transaction and interaction. It is an ERC-20 utility token built on the Etherum blockchain. There is a finite supply of 3,000,000,000 SAND. ",
+        "keywords": "sandbox, voxel art, 3D voxel game, voxel artists, 3D online PC game, community, blockchain dapp, PC voxel game, PC voxel art, decentralized game, SAND, token",
+        "og": {
+          "title": "The Sandbox | About SAND",
+          "description": "sandbox, voxel art, 3D voxel game, voxel artists, 3D online PC game, community, blockchain dapp, PC voxel game, PC voxel art, decentralized game, SAND, token",
+          "url": "https://www.sandbox.game/en/about/sand/",
+          "site_name": "The Sandbox SAND Token",
+          "image": "https://www.sandbox.game/images/logo.png"
+        },
+        "twitter": {
+          "title": "The Sandbox | About SAND",
+          "description": "SAND is the utility token used throughout The Sandbox ecosystem as the basis of transaction and interaction. It is an ERC-20 utility token built on the Etherum blockchain. There is a finite supply of 3,000,000,000 SAND. ",
+          "card": "A Decentralized Gaming Platform Made By Players.",
+          "site": "@thesandboxgame",
+          "creator": "@thesandboxgame",
+          "image": "https://www.sandbox.game/images/logo.png"
+        }
+      },
+      "header": {
+        "description": "SANDは、The Sandboxエコシステム全体で取引とインタラクション時に使用され、イーサリアムブロックチェーン上で活用できるERC-20ユーティリティートークンです。SANDは3,000,000,000,000個の有限の仮想通貨です。",
+        "mainButtonText": "$SANDを買う",
+        "secondaryButtonText": "$SANDを賭ける",
+        "link": "Read Binance Research on"
+      },
+      "platforms": "is available on",
+      "brands": {
+        "sandbox": {
+          "name": "The Sandbox",
+          "description": "The Sandboxは、イーサリアムブロックチェーン上に構築された仮想世界で、ユーザーはゲームを制作したり、アイテムをマネタイズすることができます。"
+        },
+        "sand": {
+          "name": "$SAND",
+          "description": "SANDトークンはERC-20のユーティリティー・トークンであり、販売だけでなく、配当やガバナンスにも使用されています。"
+        }
+      },
+      "products": {
+        "title1": "",
+        "title2": "プラットフォーム上の現在の製品には以下のものがあります：",
+        "voxedit": {
+          "title": "VoxEdit",
+          "description": "Software to create voxel ASSETS, which can then become Non-Fungible Tokens (NFTs) and be imported to the Marketplace."
+        },
+        "marketplace": {
+          "title": "マーケットプレイス",
+          "description": "A visual scripting toolbox that allows anyone to build 3D games for free."
+        },
+        "gameMaker": {
+          "title": "Game Maker",
+          "description": "A visual scripting toolbox that allows anyone to build 3D games for free."
+        }
+      },
+      "metrics": {
+        "title": "キーメトリクス（2020年8月5日現在）",
+        "ticket": {
+          "title": "Ticket",
+          "circulating": "Circulating Supply",
+          "total": "Total Token Supply",
+          "binance": "Binance Launchpad Sale Price"
+        }
+      },
+      "sandbox": {
+        "title": "「The Sandbox」 (SAND)とは？",
+        "text1": "The Sandboxは、仮想通貨であるSANDを使用してイーサリアムブロックチェーン上でゲーム体験を構築、所有、収益化できる仮想空間です。プレイヤーは、トークンで資産を作成し、マーケットプレイスにアップロードし、Game Makerにより、ゲームに実装することができます。",
+        "text2": "LANDとは、プレイヤーが購入し、その上に色々構築することができる仮想空間の土地のことです。プレイヤーがLANDを所有すると、プレイヤーはそのLANDにゲームやASSETを配置することができます。複数のLANDを組み合わせて、ESTATEと呼ばれる地域も作ることができます。",
+        "text3": "The Sandboxのメタバースは、永久に合計166,464のLANDの有限の資産です。",
+        "text4": "ジェムとカタリストはASSETのランク、希少性、属性を定義します。カタリストは、ジェムで埋められるNFTに空のソケットを追加します。カタリストの品質が高いほど、ASSETが持つソケットの数が多くなります。",
+        "text5": "ユーザーは、プラットフォーム上で時間をマネタイズすることができます。SANDの95%をレベニューシェアいただいた：",
+        "monetize": {
+          "1": {
+            "title": "Selling ASSETS",
+            "description": "Users can create and sell ASSETS on the marketplace as NFTs."
+          },
+          "2": {
+            "title": "Owning a LAND",
+            "description": "Buy a LAND in one of the LAND sales. Players can then rent them or populate them with content to increase the LAND's value."
+          },
+          "3": {
+            "title": "Building Games on the Game Maker",
+            "description": "Build and monetize games using the Game Maker on the LANDs that are owned by players."
+          }
+        },
+        "text6": "ERC-1776を使用することで、The Sandboxは、プラットフォームのユーザーがEthereumブロックチェーン上で取引を開始することを可能にし、取引のガス代はプラットフォームによって支払われ、全体的なユーザーエクスペリエンスを最適化します。",
+        "text7": "50% of all SAND transaction volume, collected from LAND sales, Premium NFT sales, transaction fees and subscription services is going to the Foundation",
+        "text8": "The Foundation supports the ecosystem of The Sandbox, contributing to the growth of awareness about NFTs, Metaverse, and $SAND adoption.",
+        "text9": "The Foundation currently is involved with",
+        "foundation": {
+          "1": "Managing the Game Makers Fund and Creators Fund, offering grants to incentivize high quality content and game production in The Sandbox.",
+          "2": "Funcing over 17 game projects, some of which have been unveiled to the public at https://www.sandbox.game/game/top",
+          "3": "Distributing grants to 100 artists to produce NFTs, most of which can be seen at http://www.sandbox.game/shop",
+          "4": "Supporting local community managers to grow awareness around the globe about The Sandbox, NFTs and blockchain gaming via our Community Rewards and Ambassadors program https://medium.com/sandbox-game/the-sandbox-ambassador-program-4f00bb5c9c24",
+          "5": "Sponsoring prizes to the various contests organized by The Sandbox team (VoxEdit Contests and Game Jams) to stimulate the creativity of users around the world and get them to engage with the tools of our platform.",
+          "6": "Supporting play-to-earn tournaments and cross-gaming with activities that encourage the broader adoption of SAND."
+        }
+      }
+    },
+    "land": {
+      "header": {
+        "title": "LANDS",
+        "description": "The Sandbox Metaverse is made up of LAND, which are parts of the world, owned by players to create and monetize experiences. There will only ever be 166,464 LANDs available, which can be used to host games, build multiplayer experiences, create housing, or offer social experiences to the community",
+        "mainButton": "Buy LAND",
+        "secondaryButton": "Discover the Map"
+      },
+      "what": {
+        "title": "What can you do with an NFT LAND in THE SANDBOX",
+        "cards": {
+          "host": {
+            "text1": "Host",
+            "text2": "contests and events"
+          },
+          "monetize": {
+            "text1": "Monetize",
+            "text2": "ASSETS and experiences"
+          },
+          "play": {
+            "text1": "Play",
+            "text2": "games that you or others create"
+          },
+          "vote": {
+            "text1": "Vote",
+            "text2": "in the metaverse governance"
+          },
+          "sand": {
+            "text1": "Stake SAND",
+            "text2": "to earn and customize assets"
+          }
+        }
+      },
+      "buy": {
+        "title": "Never bought a LAND before?",
+        "description": "It's easier than you think! Check out our extensive online resource to learn more. Join our Discord server to speak directly with The Sandbox community members regarding your questions.",
+        "buttonText": "Learn more"
+      },
+      "cards": {
+        "land": {
+          "title": "Buy LAND",
+          "description": "Start with buying a LAND. Use that LAND to build anything you can imagine."
+        },
+        "create": {
+          "title": "Create",
+          "description": "Create NFT Assets, Games, Experiences & More."
+        },
+        "monetize": {
+          "title": "Monetize",
+          "description": "Make money by selling your Creations in the NFT Marketplace or charging access to them."
+        }
+      },
+      "sandbox": {
+        "title": "What is THE SANDBOX?",
+        "description": "The Sandbox is a multiplayer virtual world backed by a real cash economy. The Players are the Creators and can build anything they can imagine. Register now!",
+        "buttonText": "Create account"
+      },
+      "play": {
+        "title": "Play-to-Earn",
+        "description": "Free-to-play is so 2010… With The Sandbox, you will be able to monetize the games you create! Play-to-Earn is unlocked through our rewarding model for players and creators, who will have strong incentives to play and create with rewards that have real-world value.",
+        "listTitle": "How to earn in The Sandbox ?",
+        "earn": {
+          "play": "Play GAMES, earn rewards",
+          "build": "Build GAMES, monetize them",
+          "create": "Create ASSETS, market them"
+        }
+      },
+      "buttonText": "Explore NFT Lands for sale"
+    },
+    "blog": {
+      "meta": {
+        "title": "The Sandbox Blog",
+        "description": "Check out The Sandbox blog. Read our latest news, updates and stories on The Sandbox Game.",
+        "keywords": "sandbox, blog, metaverse, news, up-to-date, weekly news, the sandbox",
+        "og": {
+          "title": "The Sandbox | The Sandbox Blog",
+          "description": "Check out The Sandbox blog. Read our latest news, updates and stories on The Sandbox Game.",
+          "url": "https://sandbox.game/about/blog/",
+          "site_name": "The Sandbox",
+          "image": "https://www.sandbox.game/images/logo.png"
+        },
+        "twitter": {
+          "title": "The Sandbox Blog",
+          "description": "Check out The Sandbox blog. Read our latest news, updates and stories on The Sandbox Game.",
+          "card": "The Sandbox Blog",
+          "site": "@thesandboxgame",
+          "creator": "@thesandboxgame",
+          "image": "https://www.sandbox.game/images/logo.png"
+        }
+      },
+      "title": "ブログ"
+    }
+  },
+  "user": {
+    "signin": "サインイン",
+    "menu": {
+      "profile": "Profile",
+      "inventory": "Inventory",
+      "avatar": "Avatar",
+      "edit": "Edit",
+      "logout": "Log Out"
+    },
+    "profile": {
+      "sandAmount": "あなたのSAND",
+      "sandButtonText": "SANDを買う",
+      "sandLinkText": "SANDの購入方法",
+      "wallet": "あなたのウォレット",
+      "socialNetworks": "Social Networks",
+      "websiteUrl": "Website",
+      "referral": {
+        "title": "この紹介リンクを共有する",
+        "description1": "報酬 ",
+        "description2": "の紹介料。 ",
+        "description3": "",
+        "priceTable": "価格表",
+        "referred": "referred"
+      },
+      "earning": "総収入",
+      "learnMoreButtonText": "TSB紹介プログラムについて詳しく知る",
+      "createAvatarButtonText": "Create avatar",
+      "editAvatarButtonText": "Create avatar",
+      "errors": {
+        "errorUsername1": "The username is too short. Should be 3 characters minimum",
+        "errorUsername2": "Username should be alphanumeric",
+        "errorUsername3": "ユーザー名は必須フィールドです。必ず入力してください。",
+        "titleTooLong": "The title is too long",
+        "descriptionTooLong": "The title is too long",
+        "emailIsRequired": "Email is required",
+        "emailIsIncorrect": "Email is incorrect",
+        "emailAlreadyInUse": "Email already in use",
+        "emailsDoNotMatch": "Emails do not match",
+        "oldPasswordIsRequired": "Old Password is required",
+        "oldPaswordDoesNotMatch": "Old password does not match",
+        "newPasswordIsRequired": "New Password is required",
+        "newPasswordTooShort": "New Password too short",
+        "passwordDoNotMatch": "Passwords do not match"
+      },
+      "edit": {
+        "editTitle": "Edit your profile",
+        "title": "Title",
+        "description": "説明",
+        "email": "メールアドレス",
+        "newEmail": "新しいメールアドレスを確認",
+        "oldPassword": "以前のパスワードを入力",
+        "newPassword": "新しいパスワードを入力",
+        "repeatPassword": "ここに新しいパスワードを再入力",
+        "buttonText": "送信する",
+        "validated": "ユーザー情報が更新されました"
+      }
+    },
+    "inventory": {
+      "filters": {
+        "assets": "Assets",
+        "lands": "Lands",
+        "estates": "Estates",
+        "experiences": "Experiences"
+      },
+      "sort": {
+        "title": "Sort by",
+        "readyMint": "Ready to mint",
+        "unpublished": "Unpublished",
+        "exclusive": "Exclusive",
+        "basic": "Basic",
+        "pending": "Pending",
+        "iterating": "Iterating",
+        "rejected": "Rejected",
+        "approved": "Approved",
+        "published": "Published",
+        "readySell": "Ready to sell",
+        "add": "Added"
+      },
+      "saleInfo": {
+        "sell": "Sell",
+        "wallet": "Wallet",
+        "gift": "Select copies to send gift",
+        "forCopy": "Select price for copy",
+        "forSell": "Select copies for sell",
+        "forGift": "Send Gift",
+        "sortBy": "Sort By",
+        "continue": "Continue",
+        "filters": "Filters",
+        "readyToMint": "Ready to Mint",
+        "assetToSell": "Asset to Sell",
+        "viewAssetDetail": "View asset detail",
+        "priceIn": "Price in",
+        "datePickerStep": {
+          "date-from": "Date from",
+          "date-to": "Date to",
+          "noPastDates": "The start date should be +5 min from now",
+          "confirmDates": "Confirm",
+          "nextDate": "Next"
+        }
+      },
+      "minting": {
+        "purchaseGems": "Purchase Gems",
+        "mint": "Mint",
+        "commonmint": "Common Mint",
+        "commonMintDisclaimer": "Remember to set these assets to ART type",
+        "catalystmint": "Mint with Gems",
+        "purchaseGemsDisclaimer": "You need to purchase catalyst and gems to continue",
+        "removing": "All attributes are going to be removed.",
+        "wishToContinue": " Do you wish to continue?"
+      },
+      "search": "検索する",
+      "preview": "Preview",
+      "name": "Name",
+      "tier": "Tier",
+      "gems": "Gems",
+      "catalyst": "Catalyst",
+      "location": "Location",
+      "size": "Size",
+      "startEndDate": "Date",
+      "price": "Price",
+      "viewInMap": "View in map"
+    },
+    "avatar": {
+      "title": "Avatar Manager",
+      "empty": "This list is empty",
+      "loading": "Loading...",
+      "notCompatible": "Your browser cannot run avatar creator.",
+      "body": {
+        "listItems": {
+          "1": "body",
+          "2": "head",
+          "3": "torso",
+          "4": "legs",
+          "5": "feet"
+        },
+        "1": "Predesigned",
+        "2": "Head",
+        "3": "Shirt",
+        "4": "Pants",
+        "5": "Shoes",
+        "6": "Inventory",
+        "7": "Market - Get your Premium Avatar !",
+        "8": "New Avatars",
+        "9": "Premium Avatars Owned"
+      },
+      "tabs": {
+        "1": "Inventory",
+        "2": "Market",
+        "3": "Avatar Creator"
+      },
+      "saveButtonText": "Save changes",
+      "mobileSaveButtonText": "Save",
+      "discoverBannerText": "Discover the new exclusive avatars",
+      "discoverButtonText": "Discover them",
+      "pickButtonText": "Pick Avatar",
+      "mobilePickButtonText": "Pick",
+      "editButtonText": "Edit Avatar",
+      "mobileEditButtonText": "Edit",
+      "buyButtonText": "Buy",
+      "goBackButtonText": "Go back",
+      "sort": {
+        "title": "Sort by",
+        "default": "Default",
+        "name": "Name",
+        "owned": "Owned",
+        "search": "検索する",
+        "az": "Name (A-Z)",
+        "za": "Name (Z-A)",
+        "recent": "Recent",
+        "newest": "Newest",
+        "oldest": "Oldest",
+        "priceHigh": "Price Hight",
+        "priceLow": "Price Low"
+      },
+      "tooltips": {
+        "randomize": "Randomize",
+        "reset": "Reset"
+      },
+      "colors": {
+        "skin": "Skin tone",
+        "custom": "Custom color",
+        "disabledSkin": "Sorry, the selected item does not support Skin Color changes.",
+        "disabledCustom": "Sorry, the selected item does not support Custom Color changes."
+      },
+      "notSaveModal": {
+        "title": "Hey! You forgot to save your Avatar",
+        "description1": "If you leave this page, any changes you have made will be lost.",
+        "description2": "Do you want to save your avatar before leaving?",
+        "okButtonText": "Save avatar",
+        "cancelButtonText": "Leave"
+      },
+      "savePopup": {
+        "title": "Avatar saved !",
+        "description": "Try it now in the Game Maker.",
+        "alternative": "Your Avatar has been saved !",
+        "buttonText": "Go to Game Maker"
+      },
+      "congratulationPopup": {
+        "description": "Congratulations on your new purchase!",
+        "question": "Do you want to equip it right away?",
+        "buttonYes": "Yes",
+        "buttonNo": "No"
+      },
+      "errorPopup": "Some parts of your avatar are missing. Please complete it.",
+      "updatePopup": {
+        "title": "Update Preset",
+        "description": "Avatar was updated successfully"
+      },
+      "createPopup": {
+        "title": "Create Preset",
+        "description": "Avatar was created successfully",
+        "presetName": "Preset name"
+      },
+      "deletePopup": {
+        "title": "Delete preset",
+        "description": "Avatar was deleted successfully",
+        "text": "Are you sure that you want to delete the follow avatar preset"
+      },
+      "oversizedPopup": {
+        "title": "Warning",
+        "text": "This part may not be compatible with all the equipment.",
+        "button": "OK"
+      },
+      "bundles": {
+        "create": "Create",
+        "delete": "Delete",
+        "edit": "Edit",
+        "public": "Public",
+        "update": "Update",
+        "cancel": "Cancel",
+        "name": "Name",
+        "presetName": "Preset Name"
+      }
+    },
+    "loginModal": {
+      "title": "Login or Create an account",
+      "description": "You have to link your crypto-wallet in order to login",
+      "wallet": "What's a crypto-wallet ?",
+      "whatsAWallet": "A crypto-wallet is the place where you can safely store all your cryptocurrencies and digital game ASSETS.",
+      "continue": "Continue with",
+      "agree": "By creating an account and linking your crypto-wallet to it, you agree to our",
+      "terms": "Terms and Conditions",
+      "allowWallet": "Please allow your wallet",
+      "bitski": {
+        "title": "Bitski",
+        "value": "Connect your wallet",
+        "signin": "Please sign-in with Bitski"
+      },
+      "email": {
+        "title": "Email",
+        "value": "Connect your wallet"
+      },
+      "web": {
+        "title": "Web 3",
+        "value": "Install your wallet"
+      },
+      "social": {
+        "title": "Social",
+        "value": "Continue with",
+        "signin": "Please sign-in with Arkane"
+      },
+      "login": "I already have an account",
+      "waiting": "Please login / sign-up with Arkane"
+    },
+    "signinModal": {
+      "title": "Login",
+      "description": "You'll need to be logged in to upload to the Marketplace.",
+      "forgotPassword": "I forgot my password",
+      "buttonText": "Login",
+      "withWallet": "You can also login with your Wallet.",
+      "walletButtonText": "Login with your wallet",
+      "placeholders": {
+        "usernameOrEmail": "Your username or email",
+        "password": "Your password"
+      },
+      "errors": {
+        "usernameEmailMissing": "Username / email is missing",
+        "passwordMissing": "Password is missing",
+        "userPasswordMismatches": "User or password mismatches"
+      }
+    },
+    "forgotModal": {
+      "title": "Recover Password",
+      "emailOrUsername": "Your Email or Username",
+      "recover": "Recover",
+      "sent": "Email has been sent to your email",
+      "emailTo": "We have sent you an email to",
+      "changeAfterEmail": "so you can change your password.",
+      "errors": {
+        "emailUsernameIsRequired": "Email or username is required"
+      }
+    },
+    "changePasswordModal": {
+      "title": "Change my password",
+      "new": "Type your new password",
+      "confirm": "Repeat your new password",
+      "placeholders": {
+        "new": "Enter here your new password",
+        "confirm": "Repeat your new password"
+      },
+      "strength": {
+        "weak": "Weak",
+        "strong": "Strong",
+        "good": "Good"
+      },
+      "errors": {
+        "newPasswordIsRequired": "Your new password is required",
+        "newPasswordTooShort": "Your new password is too short",
+        "passwordDoNotMatch": "Your new passwords doesn't match"
+      }
+    },
+    "metamaskWalletModal": {
+      "title": "You are almost there!",
+      "description": "Complete this fields with your email and nickname",
+      "required": "This field is required",
+      "confirm": "I hereby confirm I approved the",
+      "terms": "Terms of use",
+      "errors": {
+        "emailIsRequired": "Your email is required",
+        "emailIsIncorrect": "Your email is not a valid email address",
+        "emailAlreadyInUse": "Your email is already in use",
+        "usernameIncorrect": "Your username is incorrect",
+        "usernameTooShort": "Your username is too short",
+        "usernameTooLong": "Your username is too long",
+        "usernameAlreadyInUse": "Your username is already in use"
+      }
+    },
+    "signupPasswordModal": {
+      "title": "Last step !",
+      "description": "Set your password to use it in the Game Maker",
+      "password": "Password",
+      "repeatPassword": "Repeat your password",
+      "errors": {
+        "newPasswordIsRequired": "New Password is required",
+        "newPasswordTooShort": "New Password too short",
+        "passwordDoNotMatch": "Passwords do not match"
+      },
+      "completeSteps": "Complete this step to login into the Game Maker, you could always",
+      "skip": "skip",
+      "completeLater": "this and complete it later."
+    },
+    "assets": {
+      "sidebar": {
+        "title": "Inventory",
+        "all": "All",
+        "sale": "On sale",
+        "added": "Added",
+        "published": "Published",
+        "purchased": "Purchased"
+      },
+      "noAssets": "There is no items in this category",
+      "sections": {
+        "sale": "On Sale Assets",
+        "added": "Added Assets",
+        "published": "Published Assets",
+        "purchased": "Purchased",
+        "assets": "Assets",
+        "lands": "Lands",
+        "estates": "Estates"
+      }
+    }
+  },
+  "moderator": {
+    "title": "Moderator",
+    "startQueue": "Start queue",
+    "noAssets": "There is no items in this category",
+    "artists": "Artists",
+    "sidebar": {
+      "title": "Moderator",
+      "market": "Market",
+      "assets": "Assets",
+      "all": "All",
+      "pending": "Pending",
+      "iterating": "Iterating",
+      "rejecting": "Rejecting",
+      "approved": "Approved"
+    },
+    "sections": {
+      "pending": "Pending Assets",
+      "iterating": "Iterating Assets",
+      "rejected": "Rejected Assets",
+      "approved": "Approved assets"
+    },
+    "approve": {
+      "writeIteratingRejectedReason": "Write an Iterating/Rejected reason",
+      "comments": "Comments",
+      "addNewComment": "Add new comment"
+    }
+  },
+  "admin": {
+    "title": "Admin",
+    "sidebar": {
+      "header": "Admin",
+      "users": "Users",
+      "featured": "Featured Users",
+      "assets": "Assets",
+      "claims": "Assets Claims",
+      "avatar": "Avatar",
+      "categories": "Categories",
+      "biomes": "Biomes",
+      "types": "Types",
+      "experiences": "Experiences",
+      "opensea": "OpenSea",
+      "roles": "Roles",
+      "collections": "Collections",
+      "seasons": "Seasons",
+      "assetCreator": "Asset Creator",
+      "assetOwnership": "Asset Ownership"
+    },
+    "users": {
+      "profile": "Profile",
+      "id": "Copy ID",
+      "featured": "Featured",
+      "dateStep": {
+        "title": "Feature",
+        "description": "Choose the range of dates to feature"
+      },
+      "assetStep": {
+        "title": "Feature",
+        "desc": "Choose 5 assets to feature"
+      },
+      "reviewStep": {
+        "title": "Summary",
+        "date-from": "Date from:",
+        "date-to": "Date to:"
+      }
+    },
+    "featured": {
+      "table": {
+        "artist": "Artists",
+        "role": "Roles",
+        "dates": "Dates",
+        "assets": "Assets",
+        "action": "Actions"
+      }
+    },
+    "assets": {
+      "view": "View",
+      "ban": "Ban",
+      "unban": "Unban",
+      "edit": {
+        "edit": "Edit ASSET",
+        "upload": "Upload ASSET",
+        "warning": "Warning",
+        "error": "Error!",
+        "error1": "Cannot delete asset. This asset is being used in the following experiences:",
+        "warningMessage": "To edit the Asset, previous approval would be cancelled, continue?",
+        "goBack": "Go Back",
+        "steps": {
+          "name": "Name",
+          "categories": "Categories",
+          "summary": "Summary"
+        }
+      }
+    }
+  },
+  "whitelist": {
+    "sand": {
+      "title": "Participate",
+      "description": "Your wallet",
+      "buttonText": "Add to your wallet"
+    },
+    "registered": "Thanks for pre-registering! We’ll notify you when it becomes available.",
+    "news": "See the latest news!",
+    "experiences": "BE NOTIFIED WHEN EXPERIENCES ARE AVAILABLE"
+  },
+  "sand": {
+    "buy": {
+      "availableSand": "SAND is available on",
+      "buySand": "Buy SAND",
+      "howToBuySand": "How to buy SAND",
+      "viewEtherscan": "View on etherscan",
+      "txHash": "Your transaction hash is",
+      "txSent": "Transaction sent",
+      "buyMore": "Buy more",
+      "buyWithETH": "Buy SAND with ETH",
+      "fieldRequired": "Field required",
+      "valueTooLow": "Value too low",
+      "valueTooHigh": "Value too high",
+      "unlockWallet": "Please unlock your wallet",
+      "invalidNetwork": "Invalid network, please change to one of the following:",
+      "changeNetwork": "Change"
+    }
+  },
+
+  "addedDisclaimer": "Added ASSETS could be used in the GameMaker",
+  "replay": "Replay tutorial",
+  "helpAlone": "Help",
+  "readAboutPremium": "Read about Premium ASSETS",
+  "assetsIncludes": "Assets included in Premium Land",
+  "landPresale": "LAND Public Sale",
+  "fluid": "Fluid",
+  "transparency": "Transparency",
+  "tokenEc": "Token Economics",
+  "newPlay": {
+    "discoverHub": "Discover The Sandbox Hub",
+    "buyLand": "Buy LAND",
+    "TWD": "The Walking Dead",
+    "seeRewards": "See Rewards",
+    "endingSoon": "The Alpha is ending soon",
+    "dontOwnSeasonPass": "You don’t own a Season Pass",
+    "learnMore": "Learn more about the Alpha",
+    "welcome": "Welcome",
+    "earn": "Earn SAND",
+    "welcomeAlpha": "Welcome to the Alpha",
+    "enterHub": "Enter to Metaverse",
+    "daily": "Daily Quests",
+    "achievements": "Achievements",
+    "artifacts": "Artifacts",
+    "coming": "Coming soon",
+    "selectAvatar": "Select your avatar",
+    "infoTooltip": "Get 1 extra lottery ticket for every LAND you own"
+  },
+  "tutorialStepDisplay": {
+    "back": "Back",
+    "next": "Next",
+    "finish": "Finish"
+  },
+  "playMapFTUE": {
+    "finish": "Understood!",
+    "step1": {
+      "title": "Welcome!",
+      "text": "Let me show you around! Are you ready to start?"
+    },
+    "step2": {
+      "title": "Select an Experience",
+      "text": "Click on an experience on the map to see its details."
+    },
+    "step3": {
+      "title": "Ready to Play",
+      "text": "Click on 'More details' if you want to find out more, or press 'Play' to jump into the game!"
+    }
+  },
+  "afterDownload": {
+    "thanks": "Thanks for playing The Sandbox",
+    "step1": "Click to run The Sandbox installer.",
+    "step2": "Right-Click and choose “Run as administrator”.",
+    "step3": "Click in “Finish” to end the install process.",
+    "step4": "After installation, click Play below!"
+  },
+  "experiencePage": {
+    "progressSeason": "Season Progress",
+    "goBack": "Back",
+    "editExperience": "Edit experience",
+    "edit": "Edit",
+    "play": "Play",
+    "playAgain": "Play again",
+    "discover": "Discover",
+    "howDoIJoin": "How do I join it?",
+    "summary": "Summary",
+    "tags": "Tags",
+    "published": "Published",
+    "lastUpdate": "Last update",
+    "gameVersion": "Game version",
+    "experienceSize": "Experience size",
+    "assetsIncluded": "Unique assets included",
+    "recommended": "Recommended experiences",
+    "publish": "Publish",
+    "unpublish": "Unpublish",
+    "experience": "Experience",
+    "portrait": "Portrait",
+    "acceptedFormat": "The accepted image formats are WEBP and JPEG. The file size should be less than 90kb.",
+    "banner": "Banner",
+    "coverImage": "You should upload a cover image for this experience. The accepted formats are WEBP and JPG.",
+    "experienceMulti": "Experience Multiplayer",
+    "landLinks": "Lands to link with:",
+    "expSIzeDisclaimer01": "Your experience size is",
+    "expSIzeDisclaimer02": "You should link",
+    "insertId": "Insert the IDs of the Lands separated with commas.",
+    "save": "Save",
+    "playing": "Playing",
+    "visits": "Visits",
+    "maxPlayers": "Max Players",
+    "website": "Web Site",
+    "socialMedia": "Social media",
+    "collaborator": "Collaborator",
+    "moreSimilarExperiences": "More similar experiences",
+    "shareIn": "Share in:",
+    "landsLinkedToTheExperience": "Lands linked to the experience",
+    "assetsOnSaleFromCreator": "Assets on sale from creator",
+    "publishDate": "Publish date",
+    "tokenId": "Token Id",
+    "explore": "Explore",
+    "complete": "Complete",
+    "moreDetail": "More details",
+    "singleplayer": "Singleplayer",
+    "multiplayer": "Multiplayer",
+    "and": "and {nft}",
+    "nftPresaleHeader": {
+      "nftPresale": "NFT Presale",
+      "recommendedAssets": "Recommended",
+      "featuring": "Featuring "
+    },
+    "experienceLocks": {
+      "date": "This game will unlock on {date}.",
+      "nft": "You need a {nft} to enter the game.",
+      "nfts": "You need certain NFTs to enter the game.",
+      "faction": "This game is locked by faction.",
+      "ambassador": "This game is locked by ambassador.",
+      "moderator": "This game is locked by a moderator."
+    }
+  },
+  "collectionPage": {
+    "goBack": "Back",
+    "addedAssets": "Added",
+    "selectAssets": "Check all the assets you want in the collection"
+  },
+  "sandPage": {
+    "aboutUs": {
+      "theSandbox": "The Sandbox",
+      "theSandboxDescription": "The Sandboxは、イーサリアムブロックチェーン上に構築された仮想世界で、ユーザーはゲームを制作したり、アイテムをマネタイズすることができます。",
+      "sand": "SAND",
+      "sandDescription": "SANDトークンはERC-20のユーティリティー・トークンであり、販売だけでなく、配当やガバナンスにも使用されています。",
+      "title1": "The Sandboxプラットフォーム上の現在の製品には以下のものがあります：",
+      "title2": "キーメトリクス（2020年8月5日現在）",
+      "title3": "「The Sandbox」 (SAND)とは？",
+      "paragraph1": "The Sandboxは、仮想通貨であるSANDを使用してイーサリアムブロックチェーン上でゲーム体験を構築、所有、収益化できる仮想空間です。プレイヤーは、トークンで資産を作成し、マーケットプレイスにアップロードし、Game Makerにより、ゲームに実装することができます。",
+      "paragraph2": "LANDとは、プレイヤーが購入し、その上に色々構築することができる仮想空間の土地のことです。プレイヤーがLANDを所有すると、プレイヤーはそのLANDにゲームやASSETを配置することができます。複数のLANDを組み合わせて、ESTATEと呼ばれる地域も作ることができます。",
+      "paragraph3": "The Sandboxのメタバースは、永久に合計166,464のLANDの有限の資産です。",
+      "paragraph4": "ジェムとカタリストはASSETのランク、希少性、属性を定義します。カタリストは、ジェムで埋められるNFTに空のソケットを追加します。カタリストの品質が高いほど、ASSETが持つソケットの数が多くなります。",
+      "paragraph5": "ユーザーは、プラットフォーム上で時間をマネタイズすることができます。SANDの95%をレベニューシェアいただいた：",
+      "paragraph6": "ERC-1776を使用することで、The Sandboxは、プラットフォームのユーザーがEthereumブロックチェーン上で取引を開始することを可能にし、取引のガス代はプラットフォームによって支払われ、全体的なユーザーエクスペリエンスを最適化します。",
+      "paragraph7": "50% of all SAND transaction volume, collected from LAND sales, Premium NFT sales, transaction fees and subscription services is going to the Foundation",
+      "paragraph8": "The Foundation supports the ecosystem of The Sandbox, contributing to the growth of awareness about NFTs, Metaverse, and $SAND adoption.",
+      "subtitle1": "Recent news",
+      "list1": {
+        "title1": "Selling ASSETS",
+        "title2": "Owning a LAND",
+        "title3": "Building Games on the Game Maker",
+        "text1": "Users can create and sell ASSETS on the marketplace as NFTs.",
+        "text2": "Buy a LAND in one of the LAND sales. Players can then rent them or populate them with content to increase the LAND's value.",
+        "text3": "Build and monetize games using the Game Maker on the LANDs that are owned by players."
+      },
+      "list2": {
+        "text1": "Managing the Game Makers Fund and Creators Fund, offering grants to incentivize high quality content and game production in The Sandbox.",
+        "text2": "Funding over 50 game projects, some of which have been unveiled to the public at https://www.sandbox.game/game/top",
+        "text3": "Distributing grants to 100 artists to produce NFTs, most of which can be seen at http://www.sandbox.game/shop",
+        "text4": "Supporting local community managers to grow awareness around the globe about The Sandbox, NFTs and blockchain gaming via our Community Rewards and Ambassadors program https://medium.com/sandbox-game/the-sandbox-ambassador-program-4f00bb5c9c24",
+        "text5": "Sponsoring prizes to the various contests organized by The Sandbox team (VoxEdit Contests and Game Jams) to stimulate the creativity of users around the world and get them to engage with the tools of our platform.",
+        "text6": "Supporting play-to-earn tournaments and cross-gaming with activities that encourage the broader adoption of SAND."
+      },
+      "list3": {
+        "description1": "Software to create voxel ASSETS, which can then become Non-Fungible Tokens (NFTs) and be imported to the Marketplace.",
+        "description2": "A decentralized marketplace for trading in-game ASSETS created in VoxEdit.",
+        "description3": "A visual scripting toolbox that allows anyone to build 3D games for free."
+      }
+    },
+    "products": {
+      "title1": "既存製品",
+      "title2": "技術インフラ",
+      "subtitle1": "VoxEdit",
+      "subtitle2": "マーケットプレイス",
+      "subtitle3": "Game Maker",
+      "paragraph1": "The Sandbox は、4つのプロダクトで構成されております。The Sandbox は、NFTの標準実装を通じてUGCの著作権所有権を確保することを可能にすることで、ユーザーに安心な取引を提供します。",
+      "paragraph2": "積み木に似た正方形の3Dピクセルに相当するボクセルは、VoxEditを使って簡単に作成できます。VoxEditは、3Dボクセルモデリングパッケージで、人物、動物、葉、ツールなどの3Dオブジェクトを作成してアニメーション化することができます。",
+      "paragraph3": "The Sandbox のマーケットプレイスでは、ユーザーがVoxEditで作ったASSETをアップロード、公開、販売することができます。ASSETはまずIPFS（InterPlanetary File System）ネットワークにアップロードされ、イーサリアムブロックチェーンに登録されることでユーザーは所有権を確保します。ASSETはマーケットプレイスで売却の申し出をすることで売却することができます。",
+      "paragraph4": " Game Makerは無料で3Dゲームを構築する為のツールです。ビジュアルスクリプトツールにより、コーディングの知識は必要ありません。",
+      "paragraph5": "The Sandboxは現在イーサリアムのみで動作しており、トークンの所有権を記録し、所有者が安全にトークンを譲渡、売却、使用できるようにするために使用されています。IPFSはASSETSのすべての関連情報を保存するために使用され、それぞれの所有者の許可なしにこの情報を変更できないことを保証します。",
+      "paragraph6": "ERC-20規格はSAND、ジェム、カタリストのトークンに、ERC-1155規格とERC-721規格はLANDとASSETの管理と取引に使用されています。",
+      "paragraph7": "The Sandbox のアーキテクチャ全体の概要は以下の通りです。",
+      "paragraph8": "The SandboxのゲームエンジンはUnityです。UnityのUniversal Render Pipeline（URP）を使用することで、The Sandboxはゲームの品質を犠牲にすることなく、将来的にはモバイルプラットフォームにも対応します。また、このゲームエンジンは、VoxEditのカスタムVoxelモデル、リグ、アニメーションフォーマット（VXM、VXR、VXA）にも対応しています。"
+    },
+    "economics": {
+      "viewCharts": "インタラクティブチャートを見る",
+      "title1": "トークンセールスとエコノミックス",
+      "title2": "SANDトークンの概要とユースケース",
+      "subtitle1": "トークンの割り当て",
+      "subtitle2": "トークン販売データ",
+      "subtitle3": "トークンのガバナンスとファンドの使用用途",
+      "paragraph1": "The Sandboxチームは、以下の配分に従って調達した資金の約65.00％以上を使用しました。",
+      "paragraph2": "SANDトークンには以下のようなユースケースがあります。",
+      "list1": {
+        "label1": "Binance Launchpadセール",
+        "label2": "シードセール",
+        "label3": "戦略的なセール",
+        "label4": "ファウンド",
+        "label5": "チーム",
+        "label6": "アドバイザー",
+        "label7": "会社資本金",
+        "value1": "トークン供給量の12.00%",
+        "value2": "トークン供給量の17.18%",
+        "value3": "トークン供給量の4.00%",
+        "value4": "トークン供給量の12.00%",
+        "value5": "トークン供給量の19.00%",
+        "value6": "トークン供給量の10.00%",
+        "value7": "トークン供給量の25.82%"
+      },
+      "list2": {
+        "label1": "シード販売の割当",
+        "label2": "シード販売のトークン価格",
+        "label3": "戦略的な売却配分",
+        "label4": "戦略的な販売のトークン価格",
+        "label5": "Binance Launchpad の配分",
+        "label6": "Binance Launchpadセールのトークン価格",
+        "label7": "Binance（バイナンス）のローンチパッドの販売日"
+      },
+      "list3": {
+        "title1": "交換手段",
+        "title2": "ガバナンス",
+        "title3": "ステーキング",
+        "text1": "プレイヤーはゲームプレイを通じてSANDを獲得し、その後、SANDを使ってゲームをプレイしたり、装備品を購入したり、アバターのキャラクターをカスタマイズしたりすることができます。クリエイターはSANDを使ってASSETとLANDを獲得することができます。アーティストはSANDを使ってマーケットプレイスにASSETをアップロードしたり、アイテムのレア度を決めるジェムの購入ができます。",
+        "text2": "SANDの保有者は、ガバナンスの判断に口出しをすることができます。SANDの所有者は、自分自身で投票することもできますし、投票権を他のプレイヤーに委任することもできます。",
+        "text3": "ユーザーはSANDトークンをステークして報酬を得ることができ、ASSET作成に必要なジェムやカタリストも獲得することができます。"
+      }
+    },
+    "roadmap": {
+      "title1": "プロジェクトチーム",
+      "title2": "ロードマップ、アップデート、事業展開",
+      "subtitle1": "オリジナルロードマップと実績",
+      "subtitle2": "ロードマップの更新",
+      "header1": "予定日",
+      "header2": "マイルストーン",
+      "header3": "実際の日付",
+      "header4": "タイミング",
+      "header5": "コメント"
+    }
+  },
+  "presaleToast": {
+    "button": "今すぐ参加する",
+    "presale4": "満月にLANDプレセールが始まりました！",
+    "presale5": "新しい月のエリアがこのLANDプレセールでアンロックされました！",
+    "presale6": "月の形も変わったタイミングで、新しいLANDプレセールが始まります！",
+    "presale7": "メタバース上の日食の日が、LANDプレセールの開始を知らせます！",
+    "presale8": "最後のLANDプリセールの1つが開始しました！チャンスをお見逃しなく！",
+    "presale9": "The Sandboxの月への旅は終わりました。最後のLANDプレセールにご参加ください！",
+    "presale10": "LANDのプレセールが始まりました！"
+  },
+  "support": {
+    "title": "ヘルプが必要ですか？",
+    "marketplace": "マーケットプレイス",
+    "voxedit": "VoxEdit",
+    "gamemaker": "Game Maker"
+  },
+  "mapLoader": {
+    "text1": "メタバース上にLANDを生成中....",
+    "text2": "土地の境界線を設定中....",
+    "text3": "LANDをESTATEに再編中....",
+    "text4": "ボクセルを配置中....",
+    "text5": "ESTATEのポジショニング中....",
+    "text6": "LAND所有者の区画を特定中....",
+    "text7": "メタバース内にお宝隠し中....",
+    "text8": "知ってるかな？複数のLANDを統合することでESTATEとなり、より大きなゲームの構築が可能になります。",
+    "text9": "知ってるかな？The Sandbox内で作ったゲームを貸したり、売ったりすることが出来ます。",
+    "text10": "ジェムはパワーや防御のように、ASSETの属性を定義します。",
+    "text11": "知ってるかな？The SandboxのASSETはクリエイターファンドに参加中のアーティストが制作したものです。",
+    "text12": "無料ボクセルエディター、VoxEditを使って、販売用にASSETを作成しませんか？"
+  },
+  "landOwnerOnboarding": {
+    "title1": "おめでとうございます！",
+    "text1": "Game Makerのアルファ版のお試し隊員に選ばれました！",
+    "continue": "続ける",
+    "title2": "プロフィールの記入をしてください！",
+    "errorUsername1": "ユーザー名は半角3文字以上を入力してください。",
+    "errorUsername2": "ユーザー名は英数字である必要があります。",
+    "errorUsername3": "ユーザー名は必須フィールドです。必ず入力してください。",
+    "confirmPass": "パスワードを確認してください",
+    "title3": "やっと準備が整いました！",
+    "text3": "The Sandboxのメタバースに参加してゲームで遊んだり、制作したりして稼ぎませんか？"
+  },
+  "editAsset": {
+    "editAsset": "ASSETを編集する",
+    "warning": "警告",
+    "warningMessage": "ASSETを編集をするには、以前の承認がキャンセルになりますが続けますか？",
+    "yes": "はい",
+    "no": "いいえ"
+  },
+  "gems": {
+    "power": "パワーのジェム",
+    "defense": "防御のジェム",
+    "magic": "魔法のジェム",
+    "speed": "すばやさのジェム",
+    "luck": "幸運のジェム",
+    "propertyName": {
+      "power": "パワー",
+      "defense": "防御",
+      "magic": "魔法",
+      "speed": "すばやさ",
+      "luck": "幸運"
+    }
+  },
+  "uploadSteps": {
+    "continue": "続ける",
+    "stepName": {
+      "name": "名前",
+      "description": "説明",
+      "nameAndDescription": "名前と説明欄",
+      "minError": "ASSET名が短すぎます。3文字以上入力して下さい。",
+      "requiredError": "ASSETの名前は、必ず入力してください。",
+      "animationDefault": "デフォルト アニメーション ：",
+      "fluidRequiredError": "ブロックASSETに流動性は必要です。",
+      "transparenciRequiredError": "ブロックASSETの透過度は性は必要です。"
+    },
+    "stepAttributes": {
+      "availableCopies": "入手可能なコピー",
+      "results": "結果",
+      "assetBehaviorReq": "ASSETには、動作が必要です。動作を1つ選択してください。",
+      "fieldRequired": "赤い欄の入力は必須です",
+      "dragAndDrop": "ジェムをドラッグまたはクリックして、カタリストの中に追加または削除してください。"
+    },
+    "stepCategories": {
+      "themeRequired": "ASSETにはテーマが必要です",
+      "chooseOne": "テーマを1つ選択してください",
+      "requiredError1": "ASSETにはカテゴリーが必要です",
+      "requiredError2": "ASSETには1～3つまでカテゴリーが必要です",
+      "title": "3つまでカテゴリーを選択してください"
+    },
+    "stepSummary": {
+      "categories": "カテゴリー",
+      "themes": "テーマ",
+      "send": "審査のために送信する",
+      "sendExclusive": "Save as Exclusive"
+    }
+  },
+  "onboarding": {
+    "gems": {
+      "step1": "あなたのASSETに行動を追加してください",
+      "step2": "ASSETがゲームでどのように行動をするのかが決まります。",
+      "step3": "ASSETに推奨するカタリスト（触媒）はこちら",
+      "step4": "カタリスト（触媒）はあなたのASSETのランクを決めます。",
+      "step5": "ランクが高いほど、多くのソケットを持ちます。",
+      "step6": "またこれにより、複製される数も決まります。",
+      "step7": "ここで使用するカタリスト（触媒）を変更することができます。",
+      "step8": "カタリスト（触媒）はジェムと一緒にソケットされます。",
+      "step9": "異なるジェムにより、各ASSETは異なる属性を持つことができます。",
+      "step10": "クリックもしくはドラッグ＆ドロップしてカタリスト（触媒）にジェムを追加してください。",
+      "step11": "同じタイプのジェムが多いほど、より高い属性を獲得できます。",
+      "step12": "クリックもしくはドラッグ＆ドロップでカタリスト（触媒）からジェムを取り除くことができます。"
+    },
+    "minting": {
+      "1": {
+        "title": "Your first time minting?",
+        "description": "We recommend you read this short article to know more about it",
+        "link-content": "Read the article"
+      },
+      "2": {
+        "title": "Don't have Cata & Gems?",
+        "description": "A button to the Cata & Gems shop will be shown. Buying process may take a few minutes."
+      }
+    }
+  },
+  "uploadLand": {
+    "uploadLandName": "LAND名を変更する",
+    "uploadLandDescription": "紹介文を追加する",
+    "editUrl": "Edit your lands's url (http://example.com)"
+  },
+  "device": {
+    "sorry": "申し訳ありません！",
+    "incompatible": "このデバイスではマップを開けません。",
+    "tryInDesktop": "デスクトップからアクセスしてください。"
+  },
+  "legend": {
+    "onSale": "On sale",
+    "available": "購入可",
+    "notAvailable": "購入不可",
+    "purchased": "購入済",
+    "myLands": "現在の所有地",
+    "unavailable": "利用不可",
+    "booked": "予約済み",
+    "opensea": "On OpenSea",
+    "premium": "プレミアム"
+  },
+  "homePageInfos": {
+    "section1": {
+      "title": "Build, own and control your gaming destiny",
+      "paragraphs": {
+        "1": "The Sandbox is your chance to create a piece of gaming history. Join our extraordinary metaverse; own and monetize everything you build.",
+        "2": "Our platform is based on the Ethereum blockchain and uses SAND as its primary utility token. You can use it to buy LAND, create digital assets, and upload them to trade in the marketplace. Or use your assets to create gaming experiences in The Sandbox Game Maker. It’s easy to do, and you don’t need coding experience.",
+        "3": "When other players buy your assets or play your games, you earn SAND in return. It’s a brilliant, decentralized economy that rewards your participation.",
+        "4": "If building and monetizing content is not your thing, you can explore the vast virtual world and see how others have developed their LAND. It’s engaging, fun, and ever-changing as our growing community continues to add exciting new characters, landscapes, and games."
+      }
+    },
+    "section2": {
+      "title": "The Sandbox metaverse",
+      "paragraphs": {
+        "1": "The Sandbox metaverse is split into 166,464 LANDS, creative sandbox areas owned by you, the players. You can create and monetize online games on your land or rent it to someone else to publish their own creation. Each piece of LAND has a pre-defined default terrain, but you can modify this as you build your own content."
+      }
+    },
+    "section3": {
+      "paragraphs": {
+        "1": "Three pillars of technology work together to support your user-generated content production (UGC). Everything you create on The Sandbox is your copyright, and that will always be provable beyond doubt thanks to the blockchain and smart contracts. The three integrated UGC products that you can access are:"
+      },
+      "list": {
+        "1": "Voxel editor to create voxel models, rig and animate them fast",
+        "2": "Marketplace to view or trade assets to use on your LAND",
+        "3": "Game Maker to build, share and monetize your online games"
+      }
+    },
+    "section4": {
+      "title": "Join big-name gaming partners",
+      "paragraphs": {
+        "1": "The Sandbox has already forged more than 50 partnerships with leading brands to develop crypto game content, including Shaun the Sheep, ATARI, and Square Enix, to name but a few. You will see these partners on the game map (see the main menu), alongside thousands of individual users planning their own content. There is plenty of real estate for newcomers."
+      }
+    },
+    "section5": {
+      "title": "Purchasing SAND",
+      "paragraphs": {
+        "1": "SAND is the fundamental virtual currency for all of The Sandbox ecosystem’s transactions and interactions. It is a utility token built on the Ethereum blockchain that you can purchase with your e-wallet, much like any other cryptocurrency. There is a finite supply of 3,000,000,000 SAND. Owning it is not only fundamental to gameplay and The Sandbox economy, SAND also gives holders the right to vote on governance decisions for the platform. Click on SAND in the main menu to find out more."
+      }
+    },
+    "section6": {
+      "title": "Create your account today",
+      "paragraphs": {
+        "1": "Intrigued? Create your account from the main menu to begin exploring everything that The Sandbox blockchain game has to offer. See what other players like you have created. Become inspired, purchase SAND (the game’s money), buy LAND, and let your creative side take over. The Sandbox is only just beginning, and you can be part of the journey ahead."
+      }
+    }
+  },
+  "mapSidebar": {
+    "premiumTooltip": "Premium lands include an exclusive set of assets",
+    "countdownBuyLand": "Here you can search and buy LAND with SAND to start building your own world",
+    "discover": "Discover",
+    "landNft": "LAND NTF",
+    "onSale": "for sale",
+    "findLand": "Find LANDs at OpenSea",
+    "buyLand": "Buy LAND",
+    "title": "MAP",
+    "clearFilters": "Clear",
+    "forSale": "On Sale",
+    "premium": "Premium",
+    "onOpensea": "On OpenSea",
+    "myLands": "My Lands",
+    "1x1": "1x1",
+    "3x3": "3x3",
+    "6x6": "6x6",
+    "12x12": "12x12",
+    "24x24": "24x24",
+    "tsb": "TSB",
+    "careBears": "Care Bears",
+    "atari": "Atari",
+    "theSmurf": "The Smurfs",
+    "binance": "Binance",
+    "coinMarketCap": "CoinMarketCap",
+    "avengedSevenfold": "Avenged Sevenfold",
+    "gemini": "Gemini",
+    "revv": "REVV",
+    "zepeto": "Zepeto",
+    "pranksy": "Pranksy NFT Boxes",
+    "deadMau": "Deadmau5",
+    "metaverse": "Metaverse",
+    "summerJam": "Summer Jam",
+    "euphoria": "Euphoria",
+    "innovators": "Innovators",
+    "pranksyMetapurse": "Pranksy & Metapurse",
+    "moon": "Moon",
+    "theHub1": "The Hub (Part 1)",
+    "theHub2": "The Hub (Part 2)",
+    "sizes": "SIZE",
+    "coordinates": "COORDINATES",
+    "wallet": "WALLET",
+    "partners": "PARTNERS",
+    "sectors": "SECTORS",
+    "goToNewMap": "A new version of the MAP is available! Switch to the ",
+    "newMapLink": "new version here.",
+    "goToOldMap": "Go back to the ",
+    "oldMapLink": "Legacy MAP",
+    "noResults": "No results were found in your search",
+    "liteMapTooltip": "The Lite Map will show Estate images depending on the zoom level.",
+    "applyButton": "Apply",
+    "disclaimer": "Experimental mode. The Map may not work correctly on some mobile devices. We continue making improvements."
+  },
+  "assetAproval": {
+    "writeIteratingRejectedReason": "繰り返す/拒否の理由を書く",
+    "comments": "コメントする",
+    "addNewComment": "新しいコメントを追加"
+  },
+  "bottomBar": {
+    "terms": "利用規約",
+    "stayTunned": "今後のアナウンスに乞うご期待",
+    "joinCommunity": "コミュニティに参加しませんか？",
+    "joinCommunityInfo": "一緒に新しい冒険に旅立とう！",
+    "joinUs": "参加する",
+    "copyright": "Copyright © 2012-",
+    "rights": ", The Sandbox. All Rights Reserved.",
+    "pages": "ページ",
+    "news": "ニュース",
+    "play": "プレイ",
+    "shop": "ショップ",
+    "social": "ソーシャル",
+    "whitepaper": "ホワイトペーパー",
+    "onepager": "概要",
+    "presskit": "プレス関連"
+  },
+  "datePicker": {
+    "time": "Time"
+  },
+  "signOut": {
+    "viewProfile": "プロフィールを表示する",
+    "getETH": "ETHを手に入れる"
+  },
+  "sellAssets": {
+    "pleaseInputYourName": "名前を入力してください",
+    "name": "名",
+    "sellYourAsset": "アセットを売る",
+    "startingPrice": "開始価格",
+    "endingPrice": "終了価格",
+    "duration": "期間",
+    "validValues00007OrGreater": "有効な値：0.0007以上",
+    "unitsForSale": "セール用ユニット",
+    "unitsPerSale": "セールごとのユニット",
+    "replicable": "複製可能",
+    "sale": "セール",
+    "assetHasToBePublishedFirst": "まずASSETを公開してください",
+    "assetAlreadyPublished": "ASSETはすでに公開されています",
+    "extractNFT": "NFTを取り出す",
+    "pleaseAssociateYourCurrentWalletInYour": "現在のウォレットに関連づけてください",
+    "theAssetWasSaveWithSuccess": "ASSETの保存に成功しました。",
+    "thereWasAnErrorSavingAsset": "エラー：ASSET保存にエラーがありました"
+  },
+  "profileEdit": {
+    "title": "Title",
+    "addNewTitle": "Add New Title",
+    "titleTooLong": "The Title Is Too Long",
+    "changeEmail": "メールアドレスの変更",
+    "EditProfile": "プロフィールの編集",
+    "yourMehasBeenChanged": "ユーザー情報が更新されました",
+    "newPassword": "新しいパスワードを入力",
+    "oldPassword": "以前のパスワードを入力",
+    "confirmNewMail": "新しいメールアドレスを確認",
+    "newEmail": "新しいメールアドレスを入力",
+    "passwordDoNotMatch": "パスワードが一致しません！",
+    "enterHereYourNewPassword": "ここに新しいパスワードを入力",
+    "repeatHereYourNewPassword": "ここに新しいパスワードを再入力",
+    "newPasswordIsRequired": "新しいパスワードが必要です！",
+    "newPasswordTooShort": "新しいパスワードは短すぎます！",
+    "oldPasswordIsRequired": "以前のパスワードが必要です！",
+    "oldPaswordDoesNotMatch": "以前のパスワードが一致しません！",
+    "enterHereYourNewEmail": "ここに新しいメールアドレスを入力",
+    "repeatHereYourNewMail": "ここに新しいメールアドレスを再入力",
+    "emailsDoNotMatch": "メールアドレスが一致しません！",
+    "enterHereYourOldPassword": "ここに以前のパスワードを入力"
+  },
+  "adminUsers": {
+    "userRoles": "ユーザーの役割"
+  },
+  "assetView": {
+    "requestApproval": "リクエスト承認"
+  },
+  "assetKit": {
+    "quantity": "量",
+    "packAmount": "パック金額",
+    "fieldRequired": "必須入力フィールド",
+    "validValues": "有効値：1",
+    "totalAmount": "合計金額",
+    "selectAssets": "ASSETを選択",
+    "thereAreNoPublishedAssets": "公開アセットはありません",
+    "paginationMode": "改ページモード",
+    "showAll": "すべてを表示する",
+    "selectAtLeastTwoAsset": "少なくとも2つのアセットを選択してください",
+    "validValues0Greater": "有効値：0以上",
+    "packs": "パック",
+    "sell": "売る"
+  },
+  "auctionInfo": {
+    "description": "説明",
+    "packSeller": "パックセラー",
+    "uniqueItems": "ユニークな商品",
+    "packForSale": "販売用パック",
+    "pricePerPack": "1パックあたりの価格",
+    "buyAmount": "購入金額",
+    "total": "合計",
+    "cancel": "キャンセル",
+    "buy": "購入",
+    "noPacksLeftForSale": "販売用のパックはありません",
+    "notEnoughSAND": "SANDが足りません"
+  },
+  "theSandboxGame": {
+    "launchGameStartMakingExperiencesPlacingYourAssets": "あなたのアセットをセットし、The Sandboxの世界観を体験してみましょう！",
+    "launchingGame": "準備中",
+    "gameNotLaunched": "ゲームを始められませんでしたか？",
+    "installGame": "ゲームをインストール！"
+  },
+  "gameLauncher": {
+    "title": "Game Makerの立ち上げ",
+    "text": "Game Makerは起動中です",
+    "cta": "Game Makerを起動する"
+  },
+  "gameDownload": {
+    "title": "Game MakerのAlpha版をゲット",
+    "cta": "Game Makerをダウンロード",
+    "downloadClient": "Is time to play The Sandbox!",
+    "ctaClient": "Download and install"
+  },
+  "voxeditDownload": {
+    "title": "Get the VoxEdit Alpha",
+    "cta": "Download VoxEdit"
+  },
+  "restore": {
+    "yourNewPassword": "新しいパスワードを入力",
+    "repeatYourNewPassword": "新しいパスワードを再入力",
+    "changePassword": "パスワードを変更"
+  },
+  "configUser": {
+    "referalTableDisclaimer": "この表では、購入相手の内容に基づいて、潜在的な収入を確認することができます",
+    "referalTableHiglight": "稼げる割合：",
+    "youWillGet": "獲得内容：",
+    "shareReferral": "この紹介リンクを共有する",
+    "learnReferral": "TSB紹介プログラムについて詳しく知る",
+    "recieve": "報酬",
+    "referralFee": "%の紹介料。",
+    "fee": "のフィー",
+    "duration": "期間",
+    "days": "日",
+    "referred": "紹介",
+    "total": "総収入",
+    "uniqueLink": "紹介リンク：",
+    "getMoreSand": "SANDを増やす",
+    "exclamation": "！",
+    "hi": "こんにちは",
+    "linkYourWalletToCompleteProcess": "下のオプションから仮想通貨ウォレットを選択して、プロセスを完了させましょう。",
+    "youAreAlmostThere": "もうすぐです！",
+    "linkYourWallet": "お持ちの仮想通貨ウォレットにリンク",
+    "downloadWalletOrderToCompleteTheLinking": "アカウントの紐づけに、仮想通貨ウォレットをダウンロードする",
+    "walletNotFound": "ウォレットが見つかりません",
+    "metamask": "Metamask",
+    "yourCoins": "あなたのSAND",
+    "email": "メールアドレス",
+    "password": "パスワード",
+    "logOut": "ログアウト",
+    "yourWallet": "あなたのウォレット",
+    "thisWalletAlreadyLinkedAnotherAccount": "このウォレットはすでに別のアカウントにリンクされています",
+    "ifYouLostAccountpassYouCanStillLoginWallet": "アカウントのパスワードを紛失した場合、あなたのウォレットを使ってログインできます。ページ内のログインの設定から「ウォレットでログインする」を選択してください。"
+  },
+  "banners": {
+    "bannerInfoLeft": "もうすぐ完了です"
+  },
+  "UserSignUp": {
+    "stepEmailTitle": "もうすぐ完了です",
+    "stepEmailText": "メールアドレスとニックネームを入力してください。",
+    "stepPassTitle": "最後のステップです！",
+    "stepPassText": "Game Maker内で使用するパスワードを設定してください。",
+    "requiredField": "入力が必須の項目です",
+    "completeSteps": "Game Makerのサインインをする為にこのステップを完了してください",
+    "skip": "スキップ",
+    "completeLater": "あとで完了する。",
+    "loginCreate": "サインイン/新規作成",
+    "signUp": "サインアップする",
+    "confirm": "アカウントを作成する",
+    "join": "最後のステップ！",
+    "confirmText": "以下の情報を入力してください：",
+    "finish": "完了する",
+    "confirmNewPassword": "新しいパスワードを確認する",
+    "emailIsRequired": "メールアドレスが必要です",
+    "emailIsIncorrect": "メールアドレスが間違っています",
+    "emailAlreadyInUse": "メールアドレスはすでに使用されています",
+    "usernameIncorrect": "無効なユーザー名です",
+    "usernameIsRequired": "ユーザー名が必要です",
+    "enterYourUsername": "ニックネーム",
+    "loginWithCurrentWallet": "現在のウォレットでログインする",
+    "theWalletThatAreYouTryingRegisterAlreadyUse": "登録しようとしているウォレットはすでに使用されています。",
+    "walletInuse": "使用されているウォレットです",
+    "usernameTooShort": "ユーザー名が短かすぎます",
+    "optional": "オプション",
+    "passwordIsRequire": "パスワードが必要です",
+    "passwordTooShort": "パスワードが短すぎます",
+    "pleaseRepeatPassword": "パスワードを再度入力してください",
+    "ifYouDontHaveAccountYouCanCreateIt": "新しくアカウントを作成する：",
+    "youWillNeedToFillTheFromToCreateYourUser": "ユーザー登録するためにフォームを入力してください",
+    "enterYourEmail": "メールアドレスを入力する",
+    "enterPassword": "パスワードを入力する",
+    "register": "登録する",
+    "youCanAlsoCreateUserRegisteringYourWallet": "ウォレットを登録することで、ユーザー登録ができます。",
+    "walletAlreadyInUsePleaseSignIn": "このウォレットはすでに使用されています。新しくウォレットを追加するか、別のウォレットをご利用ください。",
+    "textSayingThatEverythingWenWell": "うまくいきました！",
+    "succeed": "おめでとうございます！",
+    "joinRegisterINFO": "参加することで、個人情報を保存し、メールでプロダクト/サービス、イベント、最新ニュース等の情報を受け取ることに同意したことになります。詳しく知りたい方はこちらをクリックしてください。",
+    "registerWallet": "ウォレットを登録する",
+    "continueWith": "",
+    "terms": "Terms and Conditions",
+    "agree": "By creating an account and linking your crypto-wallet to it, you agree to our"
+  },
+  "assetInfo": {
+    "missingAttr": "ASSETのステータスが足りません。",
+    "inAdition": "ASSETのメタデータ入力に加え、各ステップでのステータスの入力を完了してください。",
+    "completeEdition": "完全版",
+    "attributes": "属性",
+    "copies": "コピー",
+    "copy": "コピー",
+    "button1": "情報を編集する",
+    "buy": "Buy",
+    "creator": "CREATOR",
+    "owner": "OWNER",
+    "seeMore": "See more",
+    "website": "Web Site",
+    "socialMedia": "Social Media",
+    "nftCreator": "NFT From Creator",
+    "buyButton": "ASSETを購入する",
+    "sellButton": "ASSETを売却する",
+    "isOnSale": "このASSETの有効期限は後15日です。",
+    "creatingAnAsset": "ASSETを作成する",
+    "creatingAnAssetText": "クリエイターがASSETのデザインをするとき、選択した属性に対してポイントを分配する必要があります。",
+    "preview": "preview",
+    "previewAsset": "Preview asset",
+    "name": "name",
+    "catalyst": "Tier",
+    "location": "Location",
+    "gems": "Gems",
+    "size": "Size",
+    "startEndDate": "Start-end date",
+    "price": "Price",
+    "claim": {
+      "claim-asset": "Claim asset",
+      "claiming-asset": "Claiming...",
+      "already-claimed": "Asset already claimed",
+      "read-more": "Read more"
+    },
+    "disclaimer": {
+      "item01": "クリエーターは、ASSETの制作中に属性のポイント配分を変更できます。",
+      "item02": "Game Makerのアップデートがリリースされると、新しいメカニックは、既存の属性または新しい属性の使用ができます。"
+    },
+    "playerSide": {
+      "title": "プレイヤー側",
+      "item01": "属性はゲーム内でボーナスを付与します。",
+      "item02": "属性がない場合でも、プレーができないことはありません。",
+      "item03": "ゲーム説明欄に使用されている属性が表示されます。"
+    },
+    "creatorSide": {
+      "title": "クリエーター側",
+      "item01": "ゲームメカニックには、プリセットの属性がついてきます。",
+      "item02": "ASSETをゲームメカニックで使用するに必須の属性があります。",
+      "item03": "クリエイターは、ゲームメカニックが必要とする属性の変更ができます。"
+    },
+    "finalDisclaimer": "このシステムは、クリエイター（ゲーム開発、調整）とプレーヤー（プレイ、報酬の対象）の両サイドに対して柔軟に対応致します。"
+  },
+  "assetUpload": {
+    "assetModelOBJ": "ASSETのモデルはOBJファイル(7z、zip、rarで圧縮)",
+    "updateAssetViewer": "ASSETビューワーを更新",
+    "edit": "ASSETを編集",
+    "upload": "アップロード",
+    "uploadAssetThumbnail": "サムネイルをアップロード中…",
+    "enterTitleYourAsset": "ASSETのタイトルを入力",
+    "enterShortDescriptionAsset": "ASSETの簡単な説明を入力",
+    "chooseUpTo": "選んでください",
+    "youAlreadySelected": "すでに選択しています",
+    "assetNameRequired": "ASSET名が必要です",
+    "assetNameTooShort": "ASSET名が短すぎます",
+    "assetDescriptionTooLong": "ASSETの説明が長すぎます！",
+    "supplyMustBeBetween": "サプライは1~1000の間である必要があります",
+    "biomeNotSelected": "バイオームを選択",
+    "pleaseSignInFirst": "最初にサインインしてください！",
+    "uptitle": "新しいASSETを作成",
+    "editTitle": "ASSETを編集",
+    "copies": "コピー数",
+    "biomes": "バイオームを選択",
+    "saveButton1": "保存",
+    "saveButton2": "保存＆公開",
+    "saveButton3": "ASSETを作成",
+    "loadingAsset": "ASSETの読み込み",
+    "pleaseWait": "お待ちください",
+    "errorLoadingAsset": "ASSETの読み込みエラー",
+    "problemLoading": "ASSETの処理中に問題が発生したか、リンクの有効期限が切れている可能性があります",
+    "pleaseExportAgain": "VoxEditからもう一度エクスポートしてみてください",
+    "goToShop": "ショップに行く"
+  },
+  "theGame": {
+    "title": "メタバースに遊びに来てね！",
+    "text": "新しい世界に飛び立とう！: The Sandboxはまもなく公開です。",
+    "play": {
+      "title": "沢山のゲームをプレイしてみましょう！",
+      "text": "The Sandboxは、ユーザー自身がコンテンツやプラットフォームを作るゲームでは世界最大規模です。ソーシャル空間には多くのプレイやーがいて、そしてそのプレイヤー達が作成したゲームを、アバターを通して体験できます！",
+      "hash": "ゲームをプレイする"
+    },
+    "create": {
+      "title": "自分だけのアドベンチャーを制作する",
+      "text": "The Sandboxではコミュニティが制作したボクセルモデルを利用することができます。色々組み立てて、自分だけの世界、ストーリーを描き、お友達と一緒にその世界を堪能しましょう！他のユーザーが作った世界もぜひ冒険してみてください！",
+      "hash": "冒険の制作"
+    },
+    "share": {
+      "title": "他のプレイヤーと共有",
+      "text": "あなたのモデルをインポートし、マップを作り、ストーリーを考え、秘密を隠して、野生の動物たちを配置して、みんなにあなたの世界を楽しんでもらいましょう！他のプレイヤーたちが作ったストアにあるたくさんのASSETからネタを探しましょう！",
+      "hash": "シェアする"
+    },
+    "mediumPosts": {
+      "title": "Game Experiences"
+    },
+    "features": {
+      "play": {
+        "title": "メタバースで遊ぶ",
+        "text": "The Sandboxのメタバースは、ユーザーが作成した巨大なゲームプラットフォームとなり、独自のゲーム体験を提供します。"
+      },
+      "create": {
+        "title": "共同作業で制作",
+        "text": "コミュニティがVoxEditで作成した沢山のボクセルモデルから選んで、ゲームを作成に使用できます。ボクセルモデルを組み立てて、独自の空間を作成し、お友達を沢山作りましょう！"
+      },
+      "social": {
+        "title": "交友関係の構築",
+        "text": "友だちと共同制作と管理を楽しむマルチプレイ。お友達と仮想空間でリアルなゲーム体験をお楽しみください。"
+      }
+    },
+    "earn": {
+      "title": "Play to Earn",
+      "text": "Free to Playの時代から、ついにPlay to Earnの時代がやってきた！The Sandboxで作成したゲームを収益化しましょう！Play to Earnは、プレイヤーとクリエイター間の仮想通貨の安全な取引を保証があった上で成り立っています。",
+      "listTitle": "The Sandboxで稼ぐには?",
+      "list": {
+        "item01": "GAMEを遊び、報酬を稼ぐ",
+        "item02": "GAMEを構築し、マネタイズする",
+        "item03": "ASSETを作成し、マーケットで販売する"
+      }
+    },
+    "canDo": {
+      "title": "建設・遊ぶ・作成",
+      "build": {
+        "title": "自分の世界を創り上げる",
+        "list": {
+          "item01": "環境の設計と構築：アイテム、建物、生物を土地に配置します。動作をカスタマイズし、ゲームプレイブリックを追加して、やめられないゲーム体験を制作しましょう",
+          "item02": "シンプルなドラッグアンドドロップレベルビルダーを使用して、すぐに使用できる動作のテンプレートを使い物体を作りましょう。",
+          "item03": "直感的に使用できるビジュアルスクリプトエディターを使用して、アセットとアイテムを調整します。",
+          "item04": "または、独自のカスタムスクリプトを記述して、ゲーム空間にインタラクションを作成しよう。",
+          "item05": "プレイを押して、あなたの作品に命を吹き込み、あなたの世界を共有し、あなたの意志でそれを変えていきましょう。",
+          "item06": "The Sandboxでは、「あなた」がゲームのルールを作るのです！"
+        }
+      },
+      "play": {
+        "title": "一緒に遊ぶ",
+        "list": {
+          "item01": "The Sandboxは、最大のユーザー生成コンテンツゲームプラットフォームの1つです",
+          "item02": "ソーシャルやマルチプレイヤーゲームなど、プレイヤーが作成した無数のゲームを体験しましょう！",
+          "item03": "ボクセル空間とゲームで構成されたメタバースを探検しよう！",
+          "item04": "有名なゲームやブランドのLANDにアクセスしよう！",
+          "item05": "メタバースを探索する前に、アバターを選択してカスタマイズしよう！",
+          "item06": "友達をあなたのLANDに招待し、共同構築機能を使用して壮大なジオラマを一緒に作ろう！",
+          "item07": "他のプレイヤーと遊ぶ; PvPバトルで戦ったり、交流イベントでパーティーを組んだりしてください。",
+          "item08": "他のユーザーと交流する準備をしてください！バーチャル交流会を開催し、友達を招待し、ビジターとチャットをしましょう！"
+        }
+      },
+      "participate": {
+        "title": "メタバースのガバナンスに参加する",
+        "list": {
+          "item01": "SANDトークンを使用して投票することにより、メタバースの方向性と未来を決めるメンバーになることができます。",
+          "item02": "誰もがメタバースでの体験を評価できます。評価の高い体験はThe Sandboxで大きく紹介されます。",
+          "item03": "自分のLANDを他のユーザーに一般公開、非公開にすることもできます。コンテストを開催して、自分の作品を展示したり、他のクリエイターにスペースのレンタルもできます。"
+        }
+      }
+    },
+    "changelog": {
+      "title": "変更履歴",
+      "log": {
+        "item01": {
+          "date": "January 30th, 2020",
+          "title": "Alpha Engine Release",
+          "subtitle": "Will include:",
+          "01": "Land support, terraforming",
+          "02": "Manage PostProcess ligthing",
+          "03": "Placement of Entities on Land",
+          "04": "Manage input",
+          "05": "Collisions w/ terrain & Entities",
+          "06": "UI Screens",
+          "07": "Accesor for Assets loaded",
+          "08": "Manage events",
+          "09": "Authentitcation, Client server interaction",
+          "10": "土地のロードとセーブ",
+          "11": "VXM、VXR、VXA、VXEの管理",
+          "12": "アバターコントローラー。.",
+          "13": "経路探索",
+          "14": "VXBサポート",
+          "15": "ブロック相互作用",
+          "16": "アンビエント・オクルージョン（ＡＯ）",
+          "17": "トリガー"
+        },
+        "item02": {
+          "date": "May 4th, 2020",
+          "title": "Closed Alpha Release",
+          "subtitle": "Will include:",
+          "01": "Multisize land support",
+          "02": "Saves retro-compatibility",
+          "03": "New UI/UX",
+          "04": "Basic workflow",
+          "05": "Water and Lava behaviour",
+          "06": "HP & damage system",
+          "07": "Dialog system V1 (questions/answers)",
+          "08": "Behaviour: Healer",
+          "09": "Behaviour: Replace entity",
+          "10": "画像放送 V1",
+          "11": "サウンド放送V1",
+          "12": "行動：はしご",
+          "13": "行動：勝利",
+          "14": "行動：無効",
+          "15": "行動：乗算",
+          "16": "高度なアニメーションシステム",
+          "17": "業績パフォーマンス向上",
+          "18": "ビジュアルを磨く",
+          "19": "様々なバグ修正と最適化"
+        },
+        "item03": {
+          "date": "2020年8月4日",
+          "title": "バージョン0.2",
+          "subtitle": "含む：",
+          "01": {
+            "title": "アバターの改良",
+            "list": {
+              "item01": "アップグレードされた動作。剣を身に着けて戦うための能力がつき、より楽しく！",
+              "item02": "アバターが本物の忍者に！？"
+            }
+          },
+          "02": {
+            "title": "ファイトシステム",
+            "list": {
+              "item01": "敵はあなたを感知し、設定されている場合はアバターや他のエンティティを攻撃します。また、攻撃する前に体力を回復してくれるので、素早く対応しましょう。"
+            }
+          },
+          "03": {
+            "title": "目標システム",
+            "list": {
+              "item01": "勝利やゲームオーバーの条件を設定するミニゲームを作成し、時間制限、ピックアップ可能なアイテムや報酬を使用して - あなたの経験を向上させるためにいくつかのクエストを構築し、プレイヤーにそれを共有します。"
+            }
+          },
+          "04": {
+            "title": "生物・空白地域",
+            "list": {
+              "item01": "経験を開始し、経験のサイズを決定する際に、特定のバイオームを選択してテーマ化することができます（砂漠、雪、自然...）。"
+            }
+          },
+          "05": {
+            "title": "新しいコレクション習性",
+            "list": {
+              "item01": "目標システム内での新たな可能性を提供する（ローカルセーブのみ）"
+            }
+          },
+          "06": {
+            "title": "レアなコンポーネント",
+            "list": {
+              "item01": "The Sandboxのあなたの資産を見る助けをします。"
+            }
+          },
+          "07": {
+            "title": "あらゆる改良",
+            "list": {
+              "item01": "素早い動きを得る為に行動をアップグレード",
+              "item02": "ダッシュボード上のASSETとGame Maker との間でより良いフローを実現するためのライブシンク",
+              "item03": "テラフォーミングツールのプレビューと複数の選択により、建築体験を容易にします。",
+              "item04": "保存ファイルサイズの最適化とランドローディングの改善"
+            }
+          }
+        },
+        "item04": {
+          "date": "2020年9月17日",
+          "title": "クローズドアルファ v0.3",
+          "subtitle": "今回のリリースでは、新機能や戦闘の変更、UIの刷新など、さまざまな変更があります。新機能はこちら。",
+          "01": {
+            "title": "新機能：エクスペリエンスギャラリー",
+            "list": {
+              "item01": "Game Maker でマップや体験を作成して公開し、体験ギャラリーで誰もが見て遊べるようにしましょう。",
+              "item02": "アーティストやデザイナーが作成した「The Sandboxの体験談」をご覧ください。",
+              "item03": "他のプレイヤーの体験をプレイして評価する。お気に入りの体験には星をつけましょう。"
+            }
+          },
+          "02": {
+            "title": "新機能：プリセットシステム",
+            "list": {
+              "item01": "プリセットを使用すると、ロジックパラメータ、すべてのプロパティ、値、子ASSETなど、すべての変更されたコンテンツを含むアセットを作成、設定、保存することができます。",
+              "item02": "プリセットはテンプレートとして使え、クリエイターはGame Makerで新しいプリセットインスタンスを作成することができます。"
+            }
+          },
+          "03": {
+            "title": "改善：拡張戦闘システム",
+            "list": {
+              "item01": "ジャンプとかわす機能を改善しました。",
+              "item02": "アバターの攻撃を敵に集中させるオートターゲティングシステムを追加しました。",
+              "item03": "かわされた時の攻撃キャンセル機能を追加しました。",
+              "item04": "新しい敵のインジケーターにより、攻撃が簡単に識別できるようになりました。",
+              "item05": "ヘビーアタックと突き刺しアタックを追加しました。",
+              "item06": "アバター、敵、その他の物体のための新しいVFXとアニメーションを追加しました。"
+            }
+          },
+          "04": {
+            "title": "改善：クエストUI",
+            "list": {
+              "item01": "クエストトラッカーのUIが改善され、グラフィックアセットやアニメーションが改善されました。"
+            }
+          },
+          "05": {
+            "title": "改善点： 一般的な改善点",
+            "list": {
+              "item01": "敵の行動や道案内システムを改善しました。",
+              "item02": "カメラシステムの改善",
+              "item03": "一般的なパフォーマンスの最適化",
+              "item04": "現在の問題点の対応"
+            }
+          },
+          "06": {
+            "title": "現在の問題点",
+            "list": {
+              "item01": "3x3と4x4の経験を一時的に無効にしました。チームは現在問題の解決に取り組んでいます。",
+              "item02": "新しい世界でゲームやエキサイティングな体験を創造。オリジナルモデルを作成してもよし、マーケットプレイスからインポートしてもよし。友達やコミュニティとの共有だってできてしまう！",
+              "item03": "勝利の時は、すべてのクエストを同時に表示します。",
+              "item04": "一部のクエストでは、管理者に話しかける前にタスクを実行するとタスクが完了できないことがあります。",
+              "item05": "アバターASSETを持たないデフォルトアバターは、正しくアニメーション化しません。"
+            }
+          }
+        },
+        "item05": {
+          "date": "October 6th, 2020",
+          "title": "Closed Alpha v0.3.5",
+          "01": {
+            "title": "NEW FEATURE: AVATAR CREATOR",
+            "list": {
+              "item01": "We’ve added the possibility to select your own Avatar to play experiences in game.",
+              "item02": "Users will be able to access the Avatar creator website, log into their accounts and select the Avatar they want to use to play and create experiences.",
+              "item03": "Select from 28 different preset Avatars to use on the Game Maker."
+            }
+          },
+          "02": {
+            "title": "IMPROVEMENTS: EXPERIENCE GALLERY",
+            "list": {
+              "item01": "Added improvements on the flow and UI to make it more understandable for users on how to publish an experience into the Gallery.",
+              "item02": "Added pop-ups and messages indicating possible errors users may encounter while publishing an experience.",
+              "item03": "Added featured experiences published by the TSB team."
+            }
+          },
+          "03": {
+            "title": "IMPROVEMENTS: GENERAL IMPROVEMENTS",
+            "list": {
+              "item01": "Improved game stability and performance issues.",
+              "item02": "Fixed some experiences not being able to be opened due to retrocompatibility issues.",
+              "item03": "Improved Avatar behavior.",
+              "item04": "Known issues addressed."
+            }
+          },
+          "04": {
+            "title": "KNOWN ISSUES",
+            "list": {
+              "item01": "We’ve temporarily disabled 3x3 and 4x4 experiences as the team is working on resolving some issues related to them.",
+              "item02": "For experiences saved using previous versions, image thumbnails won’t load in the Experience Gallery until they are opened and saved in this new version.",
+              "item03": "Victory condition shows all the quests at the same time.",
+              "item04": "Some quests can't be completed when you do the tasks previous to talking to the person that gives them, possibly blocking the advancement."
+            }
+          }
+        },
+        "item06": {
+          "date": "October 26th, 2020",
+          "title": "Closed Alpha v0.3.7",
+          "01": {
+            "title": "NEW FEATURE: MULTIPLAYER SOCIAL HUBS",
+            "list": {
+              "item01": "We’ve implemented our first instance of Multiplayer gameplay into the game.",
+              "item02": "Inside the Experience Gallery you’ll find an experience called “Social Park” which is featured on our list.",
+              "item03": "Visiting the experience will enable Multiplayer mode, where you’ll be able to explore the experience and chat with other players.",
+              "item04": "As this is a Social Hub, combat controls will be disabled."
+            }
+          }
+        }
+      }
+    },
+    "milestones": {
+      "item01": {
+        "date": "2020",
+        "title": "プレアルファ版",
+        "text01": "仮想空間の初期ツール開発",
+        "text02": "エレメントの追加",
+        "text03": "初期動作機能の追加",
+        "text04": "エレメント間の動作確認",
+        "text05": "初期のジオラマ機能追加（ドア、移動プラットフォーム、ボタン、ダイアログ）",
+        "month": "2月"
+      },
+      "item02": {
+        "date": "2020",
+        "title": "アルファ版（プライベート公開）",
+        "text01": "仮想空間の改造ツール",
+        "text02": "エレメントの追加",
+        "text03": "ジオラマ機能の追加",
+        "text04": "一部のGMFクリエイターとLAND所有者へリリース",
+        "month": "3月"
+      },
+      "item03": {
+        "date": "2020",
+        "title": "【今後の予定】",
+        "text01": "ジオラマ機能の追加",
+        "text02": "エレメントの追加",
+        "text03": "ゲームプレイ機能リリース（近日公開）",
+        "text04": "アバターシステムの追加",
+        "text05": "共同作成モードの追加",
+        "text06": "ソーシャル機能: チャット, フレンドリスト.追加",
+        "month": "Q2"
+      }
+    }
+  },
+  "downloadGame": {
+    "title": "まもなくThe Sandbox登場！",
+    "text": "新しい世界でゲームやエキサイティングな体験を創造。オリジナルモデルを作成するか、マーケットプレイスからインポートして、友達やコミュニティとの共有だってできてしまう！",
+    "loginToStart": "ログインしてThe Sandboxを開始する",
+    "retry": "リトライ"
+  },
+  "downloadVoxEdit": {
+    "overview": {
+      "title": "Create. Animate. Play",
+      "userCreationsTitle": "アーティストが制作中のアート",
+      "subtitle": "VoxEditは、あなたのボクセルアートの作成、編集、アニメーション化を実現するツールです。",
+      "features": {
+        "title": "VoxEditの機能",
+        "card1Title": "モデリング",
+        "card1Text": "ユーザーフレンドリーなUIの優れたツールだから、制作物の可能性は無限大！",
+        "card2Title": "アニメーション",
+        "card2Text": "ついにボクセルアートの世界に革命が起きた！VoxEditのスケルトンシステムの採用によりキーフレームモードを使って、誰もが簡単にボクセル作品の編集、ボクセル作品のアニメーション化ができるようになりました！"
+      },
+      "creationsTitle": "アーティストが制作中のアート"
+    },
+    "title": "VoxEditへようこそ",
+    "subtitle": "VoxEditは、あっという間に自分の好きなボクセルモデルを作り、リギングし、アニメ化することができる初のソフトウエアです。",
+    "soon": "(近日公開)",
+    "clients": {
+      "win": "Windows 7 以降",
+      "winBtn": "Windows",
+      "mac": "Mavericks 以降",
+      "macBtn": "macOS",
+      "linux": "Linux x64(近日対応)",
+      "linuxBtn": "Linux"
+    },
+    "v-info": {
+      "version": "アルファ版リリース v0.3.15.",
+      "disclaimer1": "VoxEditの起動には、コンピューターに最新のJavaをインストールする必要があります。",
+      "button1": "ここからダウンロード",
+      "disclaimer2": "VoxEditについてもっと知りたい場合には、ウェブサイトをチェック：",
+      "button2": "VOXEDIT.IO"
+    }
+  },
+  "found": {
+    "buttons": {
+      "princpal": "今すぐ申し込む",
+      "secondary": "ガイドライン",
+      "knowMore": "Know more"
+    },
+    "principalTitle": "200万ドル",
+    "titleCreatorFund": "クリエーターファンド",
+    "subtitle": "当社のプラットフォームで、あなたの素敵なボクセルクリエーションの作成・提供・販売のお手伝いをします。",
+    "principalList": {
+      "item1": "PCゲーム業界で最新ゲームプラットフォームとして注目を浴びているThe Sandboxでオリジナル作品を作りませんか？",
+      "item2": "あなたのオリジナル作品を無料で掲載します。ボクセル作品を制作し、ゲームクリエーターやユーザーに販売しよう！",
+      "item3": "作品の著作権はあなたのまま保持が可能です。",
+      "item4": "作る作品は、自由自在。",
+      "item5": "あなたが制作したボクセル作品の売り方を学びましょう。是非稼いでください！",
+      "item6": "私たちのクリエーターコミュニティの一員となって新しいゲームの未来を一緒に作っていきましょう。"
+    },
+    "subtitle1": "クリエイターファンドの仕組み",
+    "subtitle1List": {
+      "item01": "まずはサインアップしてThe Sandboxがあなたの作品を評価できるようにしてください。",
+      "item02": "ASSET毎に支払われる助成金は＄10～＄1,000です。",
+      "item03": "目標は、1万のボクセルASSETをゲーム内に作成することです。",
+      "item04": "作品をThe Sandboxが正式リリースされた後に販売することも可能です。"
+    },
+    "subtitle2": "このプログラムは先着1000ユーザーまで応募を受けつけます。報酬を受け取れるこの絶好の機会を逃さないように、ぜひサインアップしてください。",
+    "guidelinesTitle": "助成金のガイドライン",
+    "guidelines": {
+      "guideline1": {
+        "title": "資格",
+        "text": "The Sandboxのクリエーターファンドは年齢、性別、国、出自を問わず誰もが参加することができます。"
+      },
+      "guideline2": {
+        "title": "当社が求めていること",
+        "text": "",
+        "list": {
+          "itm1": "ボクセルASSETのクリエーター(作品がアニメーション化されているか否かは問いません)",
+          "itm2": "ゲーム内でプレイヤーが活用できるASSETを作成したクリエーター",
+          "itm3": "作品内で素晴らしい芸術的センスを披露したクリエーター",
+          "itm4": "他のプレイヤーが購入・利用するアセットを作り、プレイヤーや開発者と協力関係のあるクリエーター",
+          "itm5": "見た目の魅力のみならず、ゲームプレイヤー・ディベロッパーに適したアセットを作ったクリエーター"
+        }
+      },
+      "guideline3": {
+        "title": "著作権・所有権",
+        "text": "制作者は、制作コンテンツのすべての権利と所有権を保有します。あなたのコンテンツに対して当社は一切所有権を主張しません。"
+      },
+      "guideline4": {
+        "title": "ライセンシング",
+        "text": "The Sandboxのマーケットプレイスにコンテンツをアップロードする際に、当社がそのコンテンツをより良く見せて、ユーザーの購買などを促進することを許可してください。例えば、翻訳して世界中のユーザーに認識してもらえるようにするなど。このライセンスは非独占的、ロイヤリティフリー、永続的かつ譲渡も可能、ですが、改定はできません。"
+      },
+      "guideline5": {
+        "title": "ゲーム内マーケットプレースでの紹介",
+        "text": "The Sandboxのマーケットプレイスの特集スポットに、6か月間無料であなたのコンテンツを公開します"
+      },
+      "guideline6": {
+        "title": "必要条件/手順",
+        "text": "",
+        "list": {
+          "itm1": "1.申し込みフォームに必要事項を記載をする",
+          "itm2": "2.ボクセルアートスタイルのガイドラインを読む",
+          "itm3": "3.解説を読む",
+          "itm4": "4.VoxEditを利用し、3Dモデルを作成、公開する",
+          "itm5": "5. クリエイターファンドのアーティストの利用規約に同意する"
+        }
+      },
+      "guideline7": {
+        "title": "規約の確認をする",
+        "text": "The Sandboxコミュニティチームの判定員。 こちらが我々が審査する点です。",
+        "list": {
+          "itm1": "芸術的センス・クオリティ",
+          "itm2": "オリジナリティ、ゲームとアセットの親和性",
+          "itm3": "創造性"
+        }
+      },
+      "guideline8": {
+        "title": "アセットパラメータ",
+        "text": "各アセットはThe Sandboxの以下の情報を追加して提出されます",
+        "list": {
+          "itm1": "名前",
+          "itm2": "価格",
+          "itm3": "希少性",
+          "itm4": "説明",
+          "itm5": "VOX/OBJ モデルファイル、",
+          "itm6": "PNGレビューサムネイル"
+        }
+      },
+      "guideline9": {
+        "title": "パートナー",
+        "text": "",
+        "list": {
+          "itm1": "Sketchfab",
+          "itm2": "OPSkins"
+        }
+      },
+      "guideline10": {
+        "title": "倫理/動機",
+        "text": "ファンドの目的はボクセルアートのクリエーターがブロックチェーン上でNFT(代替不可能なトークン)として作品を公開した際に、ブロックチェーンの恩恵を知り、ブロックチェーンの恩恵を受けられるように支援するものです。",
+        "list": {
+          "itm1": "本物の所有権",
+          "itm2": "共同で運用を可能にすること",
+          "itm3": "取引",
+          "itm4": "レア度",
+          "itm5": "分散型マーケットプレイス"
+        }
+      }
+    },
+    "faqTitle": "よくある質問",
+    "faq": {
+      "goToThe": "行く",
+      "page": "ページ",
+      "fillForm": "フォームに記入する",
+      "faq1": {
+        "title": "申請に必要な情報は何ですか？",
+        "text": "基本的な個人情報の提出、そしてオンラインポートフォリオを我々のサービスとつなげることが必要になります。また写真を3枚まで追加することはできますが、こちらは必須ではありません。"
+      },
+      "faq2": {
+        "title": "オンラインで個人情報を提出した際、個人情報は公開されますか？",
+        "text": "The Sandboxは、あなたの許可なく、情報を一般公開することはありません。"
+      },
+      "faq3": {
+        "title": "以前のプロジェクトやゲーム用に作成したアセットを提出することはできますか？",
+        "text": "はい。あなたがASSETの著作権、ライセンスを保有していれば大丈夫です。"
+      },
+      "faq4": {
+        "title": "ASSETごとに補助金はいくらもらえますか？",
+        "text": "ASSETの補助金は、スケールや内容に応じて＄10～＄1,000の範囲となります。"
+      },
+      "faq5": {
+        "title": "提出可能なASSETの数は？",
+        "text": "上限はありません。"
+      },
+      "faq6": {
+        "title": "クリエーターファンドから助成金をもらったASSETでもマーケットプレイスで販売することはできますか？",
+        "text": "はい。あなたは自身のコンテンツの所有権を有するため、作品をマーケットプレイスで販売することが可能です。我々はマーケットプレイス上で、あなたのコンテンツに対して非独占的な使用の許可をいただくだけです。"
+      },
+      "faq7": {
+        "title": "クリエーターファンドでは何人のアーティストが助成金を受け取れますか？",
+        "text": "最大で1000人がクリエーターファンドから助成金を受け取ることができます。"
+      },
+      "faq8": {
+        "title": "助成金を受け取ったASSETの著作権を失いますか？",
+        "text": "アーティストはコンテンツのすべての権利と所有権を維持します。あなたのコンテンツに対して、当社はどんな所有権も主張しません。"
+      },
+      "faq9": {
+        "title": "The SandboxにアップロードしたASSETでどのようなライセンス権を得られますか？",
+        "text": "The Sandboxのマーケットプレイスにコンテンツをアップロードする際に、当社がそのコンテンツをより良く見せて、ユーザーの購買などを促進することを許可してください。例えば、翻訳して世界中のユーザーに認識してもらえるようにするなど。このライセンスは非独占的、ロイヤリティフリー、永続的かつ譲渡も可能、ですが、改定はできません。"
+      }
+    }
+  },
+  "guidelines": {
+    "principalSection": {
+      "title": "ボクセルアートガイドライン",
+      "text": "ここでは、ピクセルアートからボクセルアートに切り替える方法や当社の考えや操作手順を説明します。唯一の方法というわけではありませんが、作成する際のアイデアになればと思っています！",
+      "buttons": {
+        "download": "ダウンロード",
+        "btn1": "アセットをダウンロード",
+        "btn2": "画像をダウンロード"
+      }
+    },
+    "rulesSection": {
+      "title": "ルールに沿ってプレイ",
+      "text1": "当社のルールに沿って、プロダクトをご利用ください。",
+      "text2": "デフォルトのサイズは32×32×32で、これはThe Sandboxの世界では1メートル(3.2フィート)です。キャラクターなどのASSETはこの数字に準じて作成してください。このサイズを目一杯に利用する必要はありませんが、32×32×32は1㎥内に収める必要があることを理解しておくと良いでしょう。",
+      "text3": "アバターの作成：人間のキャラクターの平均の身長を1.8ｍ(5.9フィート)とすると、そのキャラクターを作るには32×32×32のキューブが2つ必要になります。",
+      "buttons": {
+        "btn3": "アバターのスペック"
+      }
+    },
+    "marketSection": {
+      "title": "ASSETのマーケットプレース公開準備",
+      "subtitle": "制作完了後、マーケットプレイスにASSETのアップロードする準備をしましょう"
+    },
+    "hintsSection": {
+      "title": "ヒントやコツ",
+      "subtitle": "実際に利用されるシーンを想像して、詳細までこだわってみてください",
+      "tipGroup1": {
+        "tip1": {
+          "title": "詳細",
+          "text": "全体の質感にボリュームを加えるとより素晴らしいです。やりすぎは禁物です。ほんの少しのバリエーションを加えましょう。"
+        },
+        "tip2": {
+          "title": "テクスチャー",
+          "text": "テクスチャーを編集する際は、そのモデルが遠くから見ても何かがわかるようにしましょう。明るくしたり、必要であれば湿った感じや暗さを演出したりして、古びた感じを出すのもよいでしょう。"
+        },
+        "tip3": {
+          "title": "明るさ調製",
+          "text": "光の感度を編集(影やハイライト付け)することで、よりリアルに見せることができます。レンダリングによって既に光と影の調整はされますので、この調整はほんの少しで構いません。"
+        }
+      },
+      "tipGroup2": {
+        "tip1": {
+          "title": "斜線",
+          "text": "斜線はできるだけブロックと同じ数/割合にして下さい"
+        },
+        "tip2": {
+          "title": "全体の大きなスケール",
+          "text": "地形のキューブにディテールを加える場合は、アトラスシステムを通してください"
+        },
+        "tip3": {
+          "title": "テクスチャー #2",
+          "text": "ピクセルモックアップで提案された四角いパターンはここで再現でき、モデルにまとまりと読み取りやすさを追加します。"
+        }
+      },
+      "tipGroup3": {
+        "tip1": {
+          "title": "スケール",
+          "text": "モンスターの大きさを設定するには、まずは眼から考えて下さい。黒いドットの下に白いドットがあればキャラクター感がでて、寸法を設定しやすくなります。"
+        },
+        "tip2": {
+          "title": "アニメーション化とは何か？",
+          "text": "アニメーション化されるパーツは、異なるモデルであり、VoxEditでリギングする際にリンクされます。"
+        }
+      },
+      "tipGroup4": {
+        "tip1": {
+          "title": "スケール",
+          "text": "どの自然の小道具よりも、木をモデリングをシンプルに保つのは難しいです。このねじれた木の葉には、ごちゃごちゃした枝がありますが、大きな葉のブロックがあれば、問題は解決するでしょう。"
+        },
+        "tip2": {
+          "title": "ディテール",
+          "text": "モデルに一つの光をつけて調整しましょう。その後、穴や根などのディテールを追加しましょう。"
+        }
+      },
+      "tipGroup5": {
+        "tip1": {
+          "title": "特殊効果",
+          "text": "溶岩や水のタイルは前述のアトラスシステムを通して対応してください"
+        },
+        "tip2": {
+          "title": "ディテール",
+          "text": "モデルに一つの光をつけて調整しましょう。その後、穴や根などのディテールを追加しましょう。"
+        }
+      }
+    }
+  },
+  "sidebars": {
+    "left": {
+      "option0": "開始",
+      "option1": "ショップ",
+      "option2": "作成",
+      "option3": "Alpha",
+      "option4": "自分",
+      "option5": "マップ",
+      "option6": "SAND",
+      "option7": "モデレータ",
+      "option8": "管理者"
+    },
+    "shop": {
+      "header": "ショップ",
+      "soon": "Soon",
+      "collections": {
+        "nftCollections": "COLLECTIONS",
+        "sandbox": "The Sandbox",
+        "featured": "Featured"
+      }
+    },
+    "admin": {
+      "header": "管理者",
+      "section1": {
+        "title": "管理者",
+        "option1": "ユーザー",
+        "option2": "ASSET",
+        "option3": "カテゴリー(近日公開)",
+        "option4": "役割(近日公開)",
+        "option5": "Collections"
+      },
+      "section2": {
+        "title": "ASSET",
+        "option1": "非公開",
+        "option2": "公開中",
+        "option3": "禁止"
+      }
+    },
+    "artist": {
+      "section1": {
+        "title": "マネジメント",
+        "option1": "ASSETマネージャー",
+        "option2": "アーティストマネージャー"
+      },
+      "section2": {
+        "title": "ASSET"
+      }
+    },
+    "start": {
+      "header": "ホーム",
+      "section1": {
+        "title": "The Sandbox",
+        "option1": "概要",
+        "option1-1": "当社の製品",
+        "option1-2": "チーム紹介",
+        "option1-3": "パートナー",
+        "option2": "私たちについて",
+        "option3": "沿革",
+        "option4": "チーム紹介",
+        "option5": "ブログ",
+        "option6": "フィードバック"
+      }
+    },
+    "create": {
+      "header": "作成",
+      "section1": {
+        "title": "VoxEdit",
+        "option1": "概要",
+        "option2": "ダウンロード",
+        "option2-1": "概要",
+        "option2-2": "アーティストの作品"
+      },
+      "section2": {
+        "title": "クリエーターファンド",
+        "option1": "ファンド情報",
+        "option1-1": "クリエーターファンドの仕組み",
+        "option1-2": "ファンドのガイドライン",
+        "option1-3": "FAQ",
+        "option2": "アートガイドライン",
+        "option2-1": "ルールに沿ってプレイ",
+        "option2-2": "ヒントやコツ"
+      }
+    },
+    "inventory": {
+      "filters": {
+        "assets": "Assets",
+        "lands": "Lands",
+        "estates": "Estates",
+        "experiences": "Experiences"
+      },
+      "sort": {
+        "title": "Sort by",
+        "readyMint": "Ready to mint",
+        "unpublished": "Unpublished",
+        "exclusive": "Exclusive",
+        "basic": "Basic",
+        "pending": "Pending",
+        "iterating": "Iterating",
+        "rejected": "Rejected",
+        "approved": "Approved",
+        "published": "Published",
+        "readySell": "Ready to sell",
+        "add": "Added"
+      },
+      "saleInfo": {
+        "sell": "Sell",
+        "wallet": "Wallet",
+        "gift": "Select copies to send gift",
+        "forCopy": "Select price for copy",
+        "forSell": "Select copies for sell",
+        "forGift": "Send Gift",
+        "sortBy": "Sort By",
+        "continue": "Continue",
+        "filters": "Filters",
+        "readyToMint": "Ready to Mint",
+        "assetToSell": "Asset to Sell",
+        "viewAssetDetail": "View asset detail",
+        "priceIn": "Price in",
+        "datePickerStep": {
+          "date-from": "Date from",
+          "date-to": "Date to",
+          "noPastDates": "The start date should be +5 min from now",
+          "confirmDates": "Confirm",
+          "nextDate": "Next"
+        }
+      },
+      "search": "検索する",
+      "preview": "Preview",
+      "name": "Name",
+      "tier": "Tier",
+      "gems": "Gems",
+      "catalyst": "Catalyst",
+      "location": "Location",
+      "size": "Size",
+      "startEndDate": "Date",
+      "price": "Price"
+    },
+    "lockedModal": {
+      "title": "Season Pass is locked",
+      "subTitle": "You need to own the following NFTs to unlock the content",
+      "text1": "Owning that NFTS unlocks the Season Pass Rewards.",
+      "text2": "You need to keep it to continue enjoying this content, separating from the NFTs will cause you to lose access to the content.",
+      "text3": "Some of them might be for sale on the marketplace depending on if some users are willing to part with it",
+      "button": "Find them in our Marketplace"
+    },
+    "lottery": {
+      "ready": "Alpha Registration",
+      "description": "Get 1 ticket by registering and another for each of the LAND that you own. The more tickets you have the greater your chances to win are!",
+      "howItWorks": "How does it work",
+      "preRegister": "Register",
+      "alreadyRegistered": "You are now successfully Registered!",
+      "preRegistering": "Registering",
+      "landWallet": "Each Land in your wallet",
+      "tooltip": "To participate you have to be a Land Owner.",
+      "inPreseason": "IN ALPHA",
+      "outPreseason": "NOT IN ALPHA"
+    },
+    "uponUs": {
+      "buyLand": "Buy Land",
+      "preRegister": "Pre-register",
+      "findOpen": "Find a Pass on Opensea"
+    },
+    "currentBalance": {
+      "balance": "Your Current Balance",
+      "noLandsText": "You have lost the Land that allows you to enjoy all the Pre-Season content. You need to have a Land to unlock it",
+      "preRegistered": "You are already successfully Pre-Register",
+      "go": "Go To The Pre-Season"
+    },
+    "lotteryEnded": {
+      "wantToJoin": "Do you want to join to the season?",
+      "buySeasonPass": "You can get the Season Pass if someone put it up for sale on OpenSea",
+      "goOpenSea": "Go to Opensea",
+      "findOpen": "Find it on Opensea",
+      "gotSeasonPass": "You got the Season Pass!",
+      "descriptionExplore": "Our first Season is ongoing now. You can explore and win rewards playing our experiences.",
+      "discover": "Discover the Season",
+      "congrats": "Congratulations!",
+      "descriptionWinner": "You won a Season Pass! Claim it now and hold on to it, the Alpha starts soon!",
+      "claim": "Claim the Pass",
+      "betterLuck": "Better luck next time",
+      "learnMore": "Learn more about the season",
+      "paragraphLooser": "Don’t be too sad! You will still be able to access The Sandbox Hub and participate in Social Events to earn rewards.",
+      "descriptionLooser": "You did not win a Season Pass, but perhaps one of the lucky winners is willing to sell theirs.",
+      "close": "Close"
+    },
+    "cannotPreRegister": {
+      "title": "Pre-register for the season",
+      "mustLandOwn": "You have to be a LAND Owner to pre-register for the season",
+      "learnMore": "Learn more about the season"
+    },
+    "noArtist": {
+      "title": "あなたはクリエーターですか？",
+      "text1": "このアカウントではコンテンツのアップロードができません。アップロードするためにはアーティストアカウントをご利用ください。",
+      "text2": "クリエーターファンドで入手してください",
+      "button": "クリエーターファンドに行く"
+    },
+    "suscribe": {
+      "title": "取引準備中",
+      "text": "ASSETの売買が可能になるタイミングで知りたい方は、The Sandboxのニュースレターに登録してください。",
+      "button": "登録する"
+    },
+    "uploadAsset": {
+      "step1": {
+        "title": "ASSETをアップロードする",
+        "step1Title": "新しいASSET",
+        "step2Title": "ASSETを交換する"
+      },
+      "step2": {
+        "title": "3Dモデルをアップロードする",
+        "text": "ドロップダウンメニューから入れ替えたいASSETを選んでください"
+      }
+    },
+    "signIn": {
+      "createAccount": "アカウントを作成する",
+      "usernameEmailMissing": "ユーザー名/メールアドレスがありません！",
+      "passwordMissing": "パスワードがありません！",
+      "userPasswordMismatches": "ユーザー名/パスワードが間違っています",
+      "logWithWallet": "ウォレットでログインする",
+      "walletIsNotAssociatedAnyUser": "ウォレットはどのユーザーにも関連付けられていません！",
+      "signIn": "サインイン",
+      "title": "ログイン",
+      "subtitle": "マーケットプレイスにアップロードするにはログインする必要があります。",
+      "placeholder1": "ユーザー名/メールアドレス",
+      "placeholder2": "パスワード",
+      "forgotPass": "パスワードを忘れました",
+      "walletLoginMsg": "ウォレットでログインも可能です",
+      "walletDownloadMsg": "仮想通貨ウォレットの入手方法",
+      "walletDownloadMsgLink": "ここをクリック！",
+      "youCanAlsoLoginWithYourWallet": "ウォレットでログインも可能です"
+    },
+    "claimAssets": {
+      "claim-action": "Claim Now",
+      "SmurfGiveaway": {
+        "title": "The Sandbox ft. The Smurfs",
+        "desc": "As a way to thank our loyal community who’s been contributing to The Sandbox since the very beginning, we’ll be giving away 1 Smurf NFT to ALL LAND owners."
+      },
+      "GildedGiveaway": {
+        "title": "Here's your reward for staking SAND!",
+        "desc": "We have a special reward to thank those who joined our liquidity mining and staked SAND until January 25th. Enjoy this epic Gilded Mage NFT."
+      }
+    },
+    "bid": {
+      "sand": "$SAND",
+      "minimumBid": "Minimum Bid $SAND ",
+      "minimumBidInvalid": "Minimun Bid invalid",
+      "saleEnds": {
+        "text": "Sale ends in ",
+        "days": "days",
+        "hours": "hours",
+        "minutes": "minutes"
+      },
+      "placeBid": "Place Bid",
+      "cancel": "Cancel"
+    }
+  },
+  "catGemShop": {
+    "title": "カタリスト＆ジェム ショップ",
+    "subtitle": "",
+    "catalyst": "カタリスト",
+    "gems": "ジェム"
+  },
+  "marketplace": {
+    "title": "マーケットプレイス",
+    "assets": "Entities",
+    "forSale": "For sale",
+    "onSale": "On sale",
+    "newestAssets": "最新のASSET",
+    "searchResult": "検索結果",
+    "searchNoResult": "検索結果はありません",
+    "welcomePopup": {
+      "title": "Get your very own LAND NFT",
+      "paragraph": "Head over to OpenSea and discover a wide range of LANDs and NFTs for sale.",
+      "button": "Buy Land"
+    },
+    "MarketBetaPopup": {
+      "title": "The Marketplace Beta is live",
+      "paragraph": "Be the first to get one of the 100+ launch-NFTs in our newly launched Marketplace Beta!",
+      "button": "Get me here"
+    }
+  },
+  "inventory": {
+    "title": "Inventory",
+    "asset": "assets",
+    "purchaseGems": "Purchase Gems",
+    "mint": "Mint",
+    "commonmint": "Common Mint",
+    "commonMintDisclaimer": "Remember to set these assets to ART type",
+    "catalystmint": "Mint with Gems",
+    "purchaseGemsDisclaimer": "You need to purchase catalyst and gems to continue",
+    "removing": "All attributes are going to be removed.",
+    "wishToContinue": " Do you wish to continue?",
+    "saleInfo": {
+      "sell": "Sell",
+      "wallet": "Wallet",
+      "gift": "Select copies to send gift",
+      "forCopy": "Select price for copy",
+      "forSell": "Select copies for sell",
+      "forGift": "Send Gift",
+      "sortBy": "Sort By",
+      "continue": "Continue",
+      "filters": "Filters",
+      "readyToMint": "Ready to Mint",
+      "assetToSell": "Asset to Sell"
+    }
+  },
+  "profile": {
+    "land": "land",
+    "updatePwd": "Update Password!"
+  },
+  "oldVoxEdit": {
+    "wrongVersion": "異なるVoxEditのバージョン",
+    "assetExported": "ASSETは古いVoxEditのバージョンでエクスポートされました",
+    "downloadLatest": "最新版をダウンロードしてください"
+  },
+  "start": {
+    "experiencesTitle": "Game Experiences",
+    "blogSection": {
+      "title": "Tha Sandbox ブログ"
+    },
+    "aboutUsSection": {
+      "title": "チームメンバーの紹介"
+    },
+    "carousel": {
+      "title1": "ようこそ",
+      "title2": "The Sandboxへ",
+      "title3": "The Sandbox",
+      "preRegisterStart": "Are you ready to play the experiences in our first Season? Pre-register in the lottery to get the pass",
+      "preRegisterEnd": "Get ready! Now you can participate in the lottery that will allow you to access our first Season",
+      "preRegisterLottery": "The lottery to win a Season Pass is ongoing right now. Cross your fingers, you might win!",
+      "seasonStartWon": "You got the season pass! \n Get ready! The Seasons starts in a few hours",
+      "seasonStartLost": "Unfortunately you do not own a Season Pass.\n Do you want to join the Season anyway?",
+      "seasonStartClaimed": "This is the pass that allows you to enter the Season.\nGet ready! The Seasons starts in a few hours",
+      "seasonOngoing": "The Season is NOW ON GOING",
+      "seasonIncoming": "Claim your Season Pass and hold on to it, be ready!",
+      "discoverIncoming": "SEASON STARTS IN:",
+      "discoverPreStart": "PRE-REGISTERING STARTS IN:",
+      "discoverPreEnd": "PRE-REGISTERING ENDS IN:",
+      "discoverLottery": "LOTTERY RESULTS IN:",
+      "info": "The Sandboxはブロックチェーン技術を基盤とした「ユーザー主導のゲームプラットフォーム」です。土地を所有したり、ASSETを作成したり、ゲームを作成したり、可能性は無限大！",
+      "info2": "Customize your look, boost it with equipment and get ready to play with your friends in The Sandbox metaverse.",
+      "info3": "The Sandbox is a community-driven platform where creators can monetize voxel ASSETS and gaming experiences on the blockchain",
+      "playInfo": "Play, Create, Own, and Govern a virtual world made by players",
+      "discoverPreseason": "Discover our very first Season",
+      "discoverAlpha": "Discover the Alpha"
+    },
+    "sandbox": {
+      "voxEdit": {
+        "title": "VoxEdit",
+        "info": "ボクセルアートを作成してアニメーション化する無料ツール"
+      },
+      "colors": {
+        "skin": "Skin tone",
+        "custom": "Custom color",
+        "disabledSkin": "Sorry, the selected item does not support Skin Color changes.",
+        "disabledCustom": "Sorry, the selected item does not support Custom Color changes."
+      },
+      "notSaveModal": {
+        "title": "Hey! You forgot to save your Avatar",
+        "description1": "If you leave this page, any changes you have made will be lost.",
+        "description2": "Do you want to save your avatar before leaving?",
+        "okButtonText": "Save avatar",
+        "cancelButtonText": "Leave"
+      }
+    },
+    "loginModal": {
+      "title": "Login or Create an account",
+      "description": "You have to link your crypto-wallet in order to login",
+      "wallet": "What's a crypto-wallet ?",
+      "whatsAWallet": "A crypto-wallet is the place where you can safely store all your cryptocurrencies and digital game ASSETS.",
+      "continue": "Continue with",
+      "agree": "By creating an account and linking your crypto-wallet to it, you agree to our",
+      "terms": "Terms and Conditions",
+      "allowWallet": "Please allow your wallet",
+      "bitski": {
+        "title": "Bitski",
+        "value": "Connect your wallet",
+        "signin": "Please sign-in with Bitski"
+      },
+      "email": {
+        "title": "Email",
+        "value": "Connect your wallet"
+      },
+      "web": {
+        "title": "Web 3",
+        "value": "Install your wallet"
+      },
+      "social": {
+        "title": "Social",
+        "value": "Continue with",
+        "signin": "Please sign-in with Arkane"
+      },
+      "login": "I already have an account",
+      "waiting": "Please login / sign-up with Arkane"
+    },
+    "signinModal": {
+      "title": "Login",
+      "description": "You'll need to be logged in to upload to the Marketplace.",
+      "forgotPassword": "I forgot my password",
+      "buttonText": "Login",
+      "withWallet": "You can also login with your Wallet.",
+      "walletButtonText": "Login with your wallet",
+      "placeholders": {
+        "usernameOrEmail": "Your username or email",
+        "password": "Your password"
+      },
+      "errors": {
+        "usernameEmailMissing": "Username / email is missing",
+        "passwordMissing": "Password is missing",
+        "userPasswordMismatches": "User or password mismatches"
+      }
+    },
+    "forgotModal": {
+      "title": "Recover Password",
+      "emailOrUsername": "Your Email or Username",
+      "recover": "Recover",
+      "sent": "Email has been sent to your email",
+      "emailTo": "We have sent you an email to",
+      "changeAfterEmail": "so you can change your password.",
+      "errors": {
+        "emailUsernameIsRequired": "Email or username is required"
+      }
+    },
+    "articles": {
+      "title": "参考記事（英文記事あり）",
+      "sandbox": {
+        "title": "The Sandbox",
+        "info": "2Dから3Dへ"
+      },
+      "erc1155": {
+        "title": "ERC-1155",
+        "info": "新しい基準"
+      },
+      "minecraft": {
+        "title": "マインクラフト",
+        "info": "作品をインポートする"
+      },
+      "nfts": {
+        "title": "NFTs",
+        "info": "ユーザー作成コンテンツ"
+      },
+      "link": "最新ニュースを見る！"
+    },
+    "partners": {
+      "title": "パートナー"
+    },
+    "modules": {
+      "zero": {
+        "title": "Liquidity Mining",
+        "paragraph1": "The Sandbox is a virtual world where players can play, build, own, and monetize their virtual experiences.. You can also Invert your crypto currency and earn more SAND",
+        "button": "Stake now"
+      },
+      "first": {
+        "title": "DISCOVER THE SANDBOX",
+        "paragraph1": "The Sandbox is a virtual world where players can play, build, own, and monetize their virtual experiences. We empower artists, creators, and players to build the platform they always envisioned, providing the means to unleash your creativity."
+      },
+      "second": {
+        "title": "BECOME A LAND OWNER",
+        "paragraph1": "A LAND is a piece of The Sandbox metaverse, providing access to exclusive content as well as granting the possibility to monetize your own part of The Sandbox’s Metaverse. Build experiences, host events, invite friends.",
+        "button": "Buy LAND",
+        "button2": "Discover the Map"
+      },
+      "third": {
+        "title": "WHY SAND?",
+        "paragraph1": "$SAND is our main utility token that allows you to buy and sell LANDS and ASSETS in The Sandbox metaverse.",
+        "button": "Buy Now"
+      },
+      "fourth": {
+        "title": "NFT",
+        "paragraph1": "Non-Fungible Tokens (NFTs) are virtual tokens minted on the blockchain for digital scarcity, security, and authenticity. They are unique, indivisible, and non-interchangeable - allowing true digital ownership of in-game assets.",
+        "button": "Buy Assets"
+      }
+    },
+    "metamaskWalletModal": {
+      "title": "You are almost there!",
+      "description": "Complete this fields with your email and nickname",
+      "required": "This field is required",
+      "confirm": "I hereby confirm I approved the",
+      "terms": "Terms of use"
+    }
+  },
+  "lottery": {
+    "currentBalanceModal": {
+      "header": "Your current balance",
+      "landTitle": "Land",
+      "preRegistering": "Because you are pre-registering",
+      "accumulated": "Total:"
+    },
+    "modalLotteryEnded": {
+      "wantToJoin": "Do you want to join to the season?",
+      "buySeasonPass": "You can get the Season Pass if someone put it up for sale on OpenSea",
+      "goOpenSea": "Go to Opensea",
+      "findOpen": "Find it on Opensea",
+      "gotSeasonPass": "You got the Season Pass!",
+      "descriptionExplore": "Our first Season is ongoing now. You can explore and win rewards playing our experiences.",
+      "discover": "Discover the Season",
+      "congrats": "Congrats!",
+      "descriptionWinner": "You were drawn as one of the 1.000 players for the Explorer Season. Good luck seeker",
+      "claim": "Claim",
+      "betterLuck": "Better luck next time…",
+      "learnMore": "Learn more about the season",
+      "paragraphLooser": "Don’t be too sad! You will still be able to access The Sandbox Hub and participate in Social Events to earn rewards.",
+      "descriptionLooser": "You did not win a Season Pass, but perhaps one of the lucky winners is willing to sell their pass",
+      "close": "Close"
+    },
+    "avatar": {
+      "alphaRegistrationTitle": "Alpha Registration",
+      "wonSeasonPassTitle": "You won a Season Pass",
+      "endedTitle": "The Alpha is over",
+      "endedSubtitle": "Thank you very much to everyone who participated in The Sandbox Alpha!",
+      "endedSubtitle2": "Thank you for your precious feedback!\n We hope to see you again soon!",
+      "drawInProgressTitle": "Lottery draw in progress",
+      "lostSeasonPassTitle": "You didn't win a Season Pass",
+      "notStartSubtitle": "Get a chance to be one of the firsts to \n play and earn in the Alpha.",
+      "startSubtitle": "The sandbox alpha will start soon. \nRegister to get a chance to play and earn!",
+      "startCountDown": "REGISTERING STARTS IN:",
+      "endCountDown": "REGISTERING ENDS IN:",
+      "lotteryCountDown": "LOTTERY RESULTS IN:",
+      "AlphaCountDown": "ALPHA STARTS IN:",
+      "registeredSubtitle": "You are registered for the alpha with",
+      "notRegisteredSubtitle": "You are not registered for the Alpha.",
+      "lostAccessSubtitle": "You need to be a land owner to access the lottery.",
+      "findInOpenButton": "Find it on OpenSea",
+      "registerButton": "Register",
+      "claimPassButton": "Claim the Pass",
+      "seeRewardsButton": "See rewards",
+      "notClaimedSubtitle": "Claim your season pass and hold on to it, the Alpha starts soon!",
+      "alreadyClaimedSubtitle": "You succesfully claimed your season pass NFT",
+      "purchaseFromAnotherSubtitle": "You may still be able to find a Season Pass by purchasing it from another player."
+    },
+    "modalLottery": {
+      "cannotPreRegister": {
+        "title": "Pre-register for the season",
+        "mustLandOwn": "You have to be a LAND Owner to pre-register for the season",
+        "learnMore": "Learn more about the season"
+      },
+      "ready": "Alpha Registration",
+      "description": "Get 1 ticket by registering and another for each of the LAND that you own. The more tickets you have the greater your chances to win are!",
+      "howItWorks": "How does it work",
+      "preRegister": "Register",
+      "great": "Great!",
+      "alreadyRegistered": "You are now successfully Registered!",
+      "preRegistering": "Registering",
+      "landWallet": "Each Land in your wallet",
+      "tooltip": "To participate you have to be a Land Owner.",
+      "inPreseason": "IN ALPHA",
+      "outPreseason": "NOT IN ALPHA"
+    }
+  },
+  "press": {
+    "topSection": {
+      "branding": "ブランディング",
+      "images": "イメージ",
+      "videos": "ビデオ",
+      "fullkit": "フルキット",
+      "sandboxBrandPage": "The Sandboxのブランドページ",
+      "textSandboxBrandPage": "情報の拡散に興味を持っていただきありがとうございます。以下に必要なものが見つかるかもしれません。足りない場合は、下記までお問い合わせください。",
+      "contact": "contact@sandbox.game"
+    },
+    "logoSection": {
+      "logo": "ロゴ",
+      "alternativeLogo": "代替ロゴ",
+      "textLogo": "The Sandbox のプレスキットを編集、変更、色つけ、リセットしないでください。",
+      "textAlternativeLogo": "The Sandbox のブランドが明確に分かる場合、またはページ内やデザインに正しく含まれている場合にのみ使用してください。(疑わしい場合は、他のものを使用してください)",
+      "sandboxWhite": "The Sandbox 白",
+      "sandboxBlack": "The Sandbox 黒",
+      "sandboxGray": "The Sandbox グレー",
+      "isotype": "The Sandbox アイソタイプ",
+      "png": ".PNG",
+      "svg": ".SVG",
+      "download": "ダウンロード"
+    },
+    "colorSection": {
+      "colors": "色",
+      "blueTop": "#0084FF",
+      "blueDown": "HSB 209 100 100",
+      "yellowTop": "#E5C64A",
+      "yellowDown": "HSB 48 68 90",
+      "greyTop": "#A0A4A7",
+      "greyDown": "HSB 206 4 65",
+      "greenTop": "#04C940",
+      "greenDown": "HSB 138 98 79",
+      "redTop": "#DD4656",
+      "redDown": "HSB 354 68 87",
+      "whiteTop": "#FFFFFF",
+      "whiteDown": "HSB 0 0 100"
+    },
+    "hqImagesSection": {
+      "hq-images": "hq イメージ",
+      "imgDescription1": "ドラコリックバナー",
+      "imgDescription2": "シティウォール",
+      "imgDescription3": "アイスランド",
+      "imgDescription4": "スプラッシュスクリーンの神",
+      "imgDescription5": "The Sandbox キャラクター",
+      "imgDescription6": "The Sandboxキャラクターズ2",
+      "imgDescription7": "Game Maker アルファ ...",
+      "imgDescription8": "ドラコリックバナー2",
+      "imgDescription9": "チェストギフ",
+      "download": "ダウンロード",
+      "gif": ".GIF",
+      "png": ".PNG"
+    },
+    "videosSection": {
+      "videos": "videos",
+      "videosDescription1": "Pillars of The Sandbox",
+      "videosDescription2": "Islands in the sky",
+      "videosDescription3": "Model, Animate & Play",
+      "videosDescription4": "Creating A Canyon ...",
+      "videosDescription5": "Virtual concert",
+      "videosDescription6": "Make a Game with Atari NFTs"
+    },
+    "fullkitSection": {
+      "fullkit": "フルキット",
+      "fullkitText": "The Sandbox のプレスキットをダウンロードして、サービスのアイコン、ポスター、ロゴなどを入手してください。",
+      "getPressKit": "プレスキットを入手する"
+    }
+  },
+  "install": {
+    "install": "インストールする",
+    "metamask": "\"Metamaskを\"",
+    "metamask1": "インストールする",
+    "opera": "Operaをダウンロード",
+    "opera1": "(モバイルウォレットのみ）"
+  },
+  "privacyPolicy": {
+    "title": "Bacasable  Privacy Policy",
+    "text1": "GDPR – Privacy-By-Design and Record of Processing Activities",
+    "text2": "We are committed to a lawful, fair and transparent processing of personal data, adhering to the EU General Data Protection Regulation (GDPR).This privacy policy documents our general privacy-by-design considerations (articles 5, 25 and 26 GDPR) and records our processing activities (article 30(1) GDPR). This privacy policy describes the type of information we may collect from you or that you may provide when you visit the website",
+    "text3": ", all platforms and services offered thereon, and through our mobile applications (collectively, our “Website”) and our practices for collecting, using, maintaining, protecting, and disclosing that information.",
+    "text4": "Company name: BACASABLE Global Limited Address Unit 418, Level 4, Cyberport 1, 100 Cyberport Road, Hong Kong, Mail: privacy@sandbox.game",
+    "text5": "* Not formally a DPO under the GDPR. Note that the below uses the “you” and “us” pronouns in paragraphs nrs. 1 o 11 to allow inclusion without modification in our information notices provided to data subjects.",
+    "text6": "Our Website is not intended for children under 18 years of age. No one under age 18 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 18. If you are under 18, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, email address, or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 18 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 18, please contact us at privacy@sandbox.game.",
+    "text7": "1. We process the following (categories of) personal data When you play our games, interact with or participate in our gaming platforms, connect to a social networking site through our games, register an account, enter a promo code, or place an order, we process the following personal data:",
+    "text8": "Your IP address, your SIM code, and the country where you are located. Your device type (for example, PC or Mac, iPhone 7, Samsung Galaxy S7) and operating system version.",
+    "text9": "For analytics, most, when you installed and played the game, your progress throughout the game, and events that are connected to your game-play. We generally cannot identify you with this data, but treat it the same as personal data.",
+    "text10": "2. What (purposes) do we use the data for We use this personal data to perform analytics for our games and allow third-parties to sell, buy and deliver advertising in those games that display advertising. We use your IP address and SIM code to comply with legal obligations, specifically to comply with VAT reporting obligations",
+    "text11": "We use social network data to show you personalized content and synchronise your online progression across multiple devices. For example, we might show a list with only your friends in it, or show your name or avatar on an in-game object.",
+    "text12": "We use your email address that you provided when you signed up for our newsletter to send you the newsletter",
+    "text13": "3. What is our legal basis for the processing For both analytics and advertising we base the processing of personal data on the legitimate interest of TSBMV GLOBAL LTD. For analytics, this is our ability to analyze how players progress through our games to make them better, and to know our player-base on an aggregate level. For advertising, this is our ability to be able to off-set development costs and risk with advertising income. We also process your personal data for the legitimate business interest of complying with a legal obligation -- we are subject to certain legal requirements which may require us to process your personal data. We may also be obliged by law to disclose your personal data to a regulatory body or law enforcement agency. For the third-parties we use, their legitimate interest is to be able to offer us their services, and for advertising third-parties and advertisers to be able to show you advertising.",
+    "text14": "4. Where do we obtain the data from (sources) We obtain data from you (when you provide it directly through the Website) and from our third-party services providers:",
+    "text15": "Google Analytics",
+    "text16": "Smartlook",
+    "text17": "Google Tags",
+    "text18": "Bitski",
+    "text19": "5. How long and where do we store data We store the personal data that we collect for up to 5 years, and only aggregate data after that time. Aggregation data means that we can no longer look at data for individual players. We store the data with our third-party services provider, Amazon AWS. When a third-party service provider is a controller, they may keep data as well, either for a shorter or longer period.",
+    "text20": "6. What safeguards have we taken to protect data Taking into account the nature, scope, context and purpose of the processing, we have taken the following technical and organizational measures:",
+    "text21": "Access to our database and user accounts with third-party service providers is protected with access control.",
+    "text22": "Access to the database is limited, not all staff in our organization have full access.",
+    "text23": "Data sent from our games is encrypted in transit where technically possible. We do not actively monitor the security of our databases and need to rely on our processors to notify us of any data breaches.",
+    "text24": "7. Who we share data with We may disclose aggregated data and any information that does not identify an individual without restriction.",
+    "text25": "We may also disclose personal information that we collect or you provide:",
+    "text26": "To our subsidiaries and affiliates.",
+    "text27": "To contractors, service providers, and other third parties we use to support our business.",
+    "text28": "To a buyer or other successor in the event of a merger, reorganization, dissolution, or other transfer or sale of some or all of TSBMV Global Ltd.’s assets.",
+    "text29": "To fulfill the purposes for which you provide it.",
+    "text30": "For any other purpose disclosed by us when you provide the information.",
+    "text31": "With your consent.",
+    "text32": "We share data with the following third-parties. These are either controllers, or processors acting on our behalf. We have linked to their respective policies and given a basic description of what they do:",
+    "text33": "We may also disclose your personal information:",
+    "text34": "To comply with any court order, law, or legal process, including to respond to any government or regulatory request.",
+    "text35": "To enforce or apply our Terms of Use and other agreements, including for billing and collection purposes.",
+    "text36": "If we believe disclosure is necessary or appropriate to protect the rights, property, or safety or TSBMV Global Ltd., our end users, or others.",
+    "text37": "8. Transfer of your personal data You should also know that your personal data may be transferred from your home country to third parties. If you are an EU resident, this could imply that we also transfer data to countries that do not offer an adequate level of protection for your personal data. When we transfer this data, we will do so only when we have put in place appropriate safeguards to protect your personal data. Please contact us to get a copy of the safeguards that we have put in place. Our contact details are at the end of this privacy policy.",
+    "text38": "9. Your Rights You have the right to request access to your personal data that we process. You also have the right to:",
+    "text39": "Rectify incorrect personal data or erase it in certain circumstances.",
+    "text40": "Restrict or object to the processing of your personal data.",
+    "text41": "Receive your data so that you can use it elsewhere (data portability).",
+    "text42": "If you wish to exercise any of the above rights, please send us an email at privacy@sandbox.game. You may also update your personal data in your profile on The Sandbox via the settings. Finally, you have the right to lodge a complaint with a supervisory authority. If you do not know who your supervisory authority is, please contact us and we will tell you.",
+    "text43": "10. How to contact us You can contact us with any questions you may have about the processing of your personal data or the use of cookies and similar technologies by us, or to exercise the above rights: Web: http://www.sandbox.game",
+    "text44": "Company name: BACASABLE Global Limited Address Unit 418, Level 4, Cyberport 1, 100 Cyberport Road, Hong Kong, Mail: privacy@sandbox.game",
+    "text45": "11. Version information: We last updated this notice on August 28, 2020. You can view it at"
+  },
+  "staking": {
+    "poolInfo": "Pool Information",
+    "LP": "LP",
+    "yourRewards": "Your SAND REWARDS",
+    "deposit": "Deposit",
+    "findPool": "Find your Pool",
+    "landAsset": "Land<>Assets",
+    "liquidity": "Liquidity mining",
+    "myShare": "My share",
+    "earning": "Earnings",
+    "totalDeposits": "Total Deposits",
+    "poolRewards": "Pool Rewards",
+    "totalPoolRewards": "Pool Rewards p/week",
+    "tvl": "TVL",
+    "apy": "APY",
+    "share": "Share",
+    "haveLand": "Want to increase your earnings?",
+    "extraInfo": "By being a land owner you have multipliers that increase your rewards",
+    "buyLand": "Buy Land",
+    "titleDeposits": "Your Liquidity deposits",
+    "addLiquidity": "Add Liquidity",
+    "landMultiplier": "Multiplier",
+    "withdraw": "Withdraw",
+    "titleUnclaimed": "Your unclaimed rewards",
+    "claim": "Claim",
+    "claimAndWithdraw": "Claim & Whithdraw",
+    "cashOut": "Do you need to cash out?",
+    "claimAndWithdrawQ": "Do you want to withdraw everythinmg invested and claim your profits?",
+    "rewards": "Rewards",
+    "availableSoon": "Coming Soon",
+    "manage": "Manage",
+    "approve": "Approve",
+    "tip": "Useful Information",
+    "pools": "Pools",
+    "filter": "Sort by",
+    "tipOfDay": "Adding liquidity mining incentives will further seed deep liquidity offering a strong trading venue for those who wish to trade and use SAND in non-custodial",
+    "greeting": "Hello",
+    "wallet": "My wallet",
+    "title": "The Sandbox Liquidity mining",
+    "noResult": "No results found",
+    "tooltipText": {
+      "tvl": "Total Value Locked",
+      "apy": "Anual Percentage Yield",
+      "share": "Your share of the pool!",
+      "earn": "Your earnings in this pool!",
+      "totalDeposits": "Your total deposits in this pool!",
+      "poolRewards": "The reward amount this pool holds this week!",
+      "landOwner": "Land Owner",
+      "landQty": "#Lands",
+      "landMultiplier": "Multiplier"
+    },
+    "modalWithdraw": {
+      "withdraw": "You withdraw",
+      "token": "LP token",
+      "claim": "You earn",
+      "sand": "SAND",
+      "confirm": "Confirm"
+    },
+    "modalStake": {
+      "add": "Add liquidity",
+      "balance": "Balance: ",
+      "stake": "Stake",
+      "more": "Want more Liquidity?",
+      "amount": "Amount"
+    },
+    "transaction": {
+      "contract": "Contract",
+      "fee": "Gas Fee",
+      "block": "Block",
+      "stake": "Add Liquidity",
+      "withdraw": "Withdrawn Liquidity",
+      "claim": "Claim Rewards"
+    },
+    "transactionHistory": {
+      "title": "Transaction History",
+      "noTransactions": "There has been no transactions"
+    },
+    "walletTab": {
+      "mainnetL1Title": "MAINNET NETWORK L1",
+      "eth": "ETH",
+      "sand": "SAND",
+      "usd": "USD",
+      "buy": "Buy",
+      "nftMainnet": "NFTs on Mainnet",
+      "land": "Lands",
+      "asset": "Assets",
+      "matic": {
+        "title": "Active MATIC in your Wallet",
+        "step1": "Open your Wallet",
+        "step2": "Import Matic Network",
+        "step3": "Enjoy benefits of Matic Layer 2",
+        "activate": "Active MATIC now",
+        "tutorial": "Play tutorial",
+        "why": "Why use MATIC?"
+      }
+    },
+    "tutorial": {
+      "step1": {
+        "title": "Dive into your pool",
+        "text": "Selet your liquidity pool before you stake"
+      },
+      "step2": {
+        "title": "Get your LP tokens",
+        "text": "Go to quickswap and get your Liquidity pair tokens"
+      },
+      "step3": {
+        "title": "Deposit your LP tokens",
+        "text": "Invest your LP tokens and start earning rewards"
+      },
+      "step4": {
+        "title": "Claim your rewards",
+        "text": "Ones your deposit is done you can claim the rewards that it generates"
+      }
+    }
+  },
+  "collectionsPage": {
+    "portrait": "Portrait",
+    "acceptedFormat": "The accepted image formats are PNG and JPG. The file size should be less than 2mb.",
+    "banner": "Banner",
+    "coverImage": "You should upload a cover image for this collection. The accepted formats are PNG and JPG.",
+    "icon": "Icon",
+    "iconImage": "You should upload an icon for this collection. This will appear on the marketplace sidebar. The accepted format is PNG."
+  },
+  "login": {
+    "refresh": "Please refresh your browser after plugin's installation",
+    "reload": "Reload page",
+    "choose": "Choose your wallet",
+    "sub-choose": "You dont have a wallet installed, select one to continue"
+  },
+  "licenses": {
+    "license": "LICENSES",
+    "author": "Author",
+    "version": "Version"
+  },
+  "landing": {
+    "snoopdogg": {
+      "bannerTop": {
+        "signin": "Sign In",
+        "title": "Snoop Dogg",
+        "button": "Create account",
+        "subtitle1": "Enters the metaverse",
+        "paragraph1": "Snoop Dogg is building his mansion inside The Sandbox and YOU are invited to the party!",
+        "paragraph2": "Play ball, watch movies, and chill by the pool.",
+        "paragraph3": "Visit Snoop Dogg's mansion and check out the Doggfather's NFTs."
+      },
+      "loginVIP": {
+        "title": "Your VIP Party Pass",
+        "button": "Learn more",
+        "descriptionRegular1": "The Snoop Private Party Pass token gives you access to step into Snoop Dogg's lifestyle. With the Party Pass, you can attend Snoop's private metaverse party and get access to exclusive NFTs."
+      },
+      "loginVIPNow": {
+        "title1": "Get Your Snoop",
+        "title2": "Private Party Pass",
+        "bold": "The Snoop Private Party Pass ",
+        "button": "Get your pass",
+        "descriptionRegular1": "is a limited token which gives you access to step into Snoop Dogg's lifestyle. With the Party Pass, you can attend Snoop's private metaverse party and get access to exclusive NFTs, priceless experiences, and a chance to have Snoop Dogg perform an exclusive concert on your LAND. There will only ever be 1,000 passes available, create your account now to get your pass."
+      },
+      "bannerMiddle": {
+        "title1": "Play, create,",
+        "title2": "own and govern",
+        "subtitle1": "a virtual world made by players",
+        "paragraph1": "Play experiences both single-player and multi-player. Create and animate assets with Voxedit 3D. Build unique game experiences at The Sandbox Metaverse with the Game Maker tool. Buy and Sell assets at the Marketplace to enhance your experience.",
+        "paragraph6": "In The Sandbox, the only limit is your imagination.",
+        "button1": "Get your own LAND",
+        "title3": "Explore and Discover",
+        "subtitle2": "the world of Snoop Dogg like never before. ",
+        "subtitle3": "GET YOUR OWN LAND",
+        "subtitle4": "",
+        "subtitle5": "BECOME THE DOGGFATHER",
+        "paragraph2": "Alongside Snoop’s mansion and hang out with friends, old and new!",
+        "paragraph3": "You will have the chance to become Snoop Dogg himself, thanks to hand-crafted voxel Avatars that can be used in The Sandbox metaverse!",
+        "linkAbout": "Discover The Sandbox"
+      },
+      "hookedup": {
+        "title1": "How to get",
+        "title2": "hooked up:",
+        "button": "Create an account",
+        "paragraphs": {
+          "1": {
+            "text": "Have an account at The Sandbox."
+          },
+          "2": {
+            "text": "There are three ways to obtain one of the 1,000 Party Passes:",
+            "list": {
+              "1": "- Purchase one of 212 Premium LANDS in the upcoming Snoop LAND sale.",
+              "2": "- Purchase one of 650 passes sold on our Marketplace.",
+              "3": "- Be a lucky winner of 138 given away during our airdrops."
+            }
+          },
+          "3": {
+            "text": "Join The Sandbox Discord and get access to the Snoop Dogg VIP Channel."
+          }
+        }
+      },
+      "partners": {
+        "title1": "Brands & IPs already",
+        "title2": "in The Sandbox Metaverse."
+      },
+      "footer": {
+        "title": "Follow us.",
+        "text": "Based on the comic book The Walking Dead by Robert Kirkman, Tony Moore and Charlie Adlard. The Walking Dead is a registered or otherwise protected trademark owned by Robert Kirkman, LLC. Skybound is a registered or otherwise protected trademark owned by Skybound, LLC. Uses with permission.",
+        "socialIcons": {
+          "discord": {
+            "name": "discord",
+            "url": "https://discordapp.com/invite/vAe4zvY "
+          },
+          "telegram": {
+            "name": "telegram",
+            "url": "https://t.me/sandboxgame"
+          },
+          "medium": {
+            "name": "medium",
+            "url": "https://medium.com/sandbox-game"
+          },
+          "twitter": {
+            "name": "twitter",
+            "url": "https://twitter.com/TheSandboxGame"
+          },
+          "instagram": {
+            "name": "instagram",
+            "url": "https://www.instagram.com/thesandboxgame/"
+          },
+          "facebook": {
+            "name": "facebook",
+            "url": "https://www.facebook.com/TheSandboxGame/"
+          },
+          "youtube": {
+            "name": "youtube",
+            "url": "https://www.youtube.com/user/TheSandboxGame"
+          },
+          "twitch": {
+            "name": "twitch",
+            "url": "https://www.twitch.tv/thesandboxgame"
+          },
+          "reddit": {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/TheSandboxGaming/"
+          }
+        }
+      }
+    },
+    "alpha": {
+      "banner": {
+        "title": "Alpha Season",
+        "subtitle": "Playing the",
+        "description": "First glance at the Metaverse and on all the wonderful things you, the player will be able to create and host on your LAND. Welcome!",
+        "button": "Play"
+      },
+      "topInfos": {
+        "title": "The Sandbox",
+        "paragraph": "The Sandbox is a virtual world where players can build, own, and monetize their gaming experiences and assets inside an immense virtual world. The Sandbox offers a suite of tools, tailor-made to empower players to come together and create engaging experiences across the metaverse."
+      },
+      "intro": {
+        "title": "The sandbox is very happy to release its first closed Alpha!",
+        "description": "Please remember the ecosystem is still work in progress so you might still find some fresh paint and bugs. Our main goals are to test our servers infrastructure, social management and user flow. Please help us improve the experience by providing feedback on our website in the Alpha section.",
+        "subtitle": "Have fun"
+      },
+      "alpha": {
+        "title": "Alpha Season",
+        "subtitle": "How does it work, waht can we do and what do we earn? We tell you everything!",
+        "sections": {
+          "1": {
+            "subtitle": "OWN A LAND AND REGISTER TO THE LOTTERY",
+            "title1": "Do you have",
+            "title2": "Season pass?",
+            "paragraphs": {
+              "1": "The Alpha Season is open for holders of the Season Pass NFT ticket.",
+              "2": "Take part in the lottery to try to win one of the 1000 tickets available. To participate you just need to own a Land and to be registered. You don’t have a Land?",
+              "3": "You haven’t won the lottery? The Season Pass is an NFT that can be traded on Opensea!"
+            },
+            "button": "Find it on OpenSea"
+          },
+          "2": {
+            "subtitle": "WON A TICKET? PLAY THE ALPHA",
+            "title1": "Dive into",
+            "title2": "the Alpha",
+            "paragraphs":  {
+              "1": "Explore, Dance, Chat, Play and more activities await you.",
+              "2": "During the 31 days of the Alpha Season, come and discover 15 extraordinary new experiences gradually released.",
+              "3": "Meet other players and participate to Social Events which will take place regularly to win extra rewards."
+            }
+          },
+          "3": {
+            "subtitle": "PLAY TO EARN",
+            "title1": "A metaverse",
+            "title2": "of NFTS",
+            "paragraphs": {
+              "1": "Throughout the Alpha Season, explore the Metaverse to complete objectives and earn great rewards - 7 exclusive to the Alpha Season NFT and",
+              "2": "500 sand",
+              "3": "The Alpha Season includes over nine hundred new NFTs! Everything you can see in the game can be purchased in the Sandbox Marketplace."
+            }
+          }
+        }
+      },
+      "rewards": {
+        "title": "All about the rewards",
+        "paragraph": "How does it work, what can we do and what do we earn? We tell you everything!"
+      },
+      "reward": {
+        "title": "Reward",
+        "subtitle": "+1.000 Sand",
+        "paragraph1": "The total price pool is 1M SAND!",
+        "paragraph2": "Each player can win up to 1,000 SAND. That is, there will be 1,000 winners!"
+      },
+      "explore": {
+        "title": "Explore our best levels",
+        "subtitle": "Everything you can see in the game can be purchased in the marketplace.",
+        "button": "Go to The Marketplace"
+      },
+      "hub": {
+        "title1": "Meet your friends",
+        "title2": "In the Hubs",
+        "button": "Go to The HUB",
+        "paragraph": "The Sandbox Hub is the central place of the Metaverse. You can find here a Gallery where many NTFs are exhibited, access portals to other experiences, a concert space as well as three areas inhabited by our factions: Oracles, Heroes and Scientists."
+      },
+      "glitches": {
+        "title": "Glitches in the Metaverse",
+        "paragraph1": "We don’t know yet what causes this, but you’ll frequently find Metaglitches, those little bits of other places of the Metaverse that spawn where they shouldn’t.",
+        "paragraph2": "This is the opportunity to meet people and see NFTs that we don’t often meet!",
+        "author": {
+          "text": "““I was looking for provisions for Carl and I arrived at this strange place … is it Altanta?””",
+          "name": "Rick Grimes"
+        }
+      },
+      "header": {
+        "topSection": {
+          "alpha": "Alpha Season",
+          "rewards": "Rewards",
+          "hub": "Main Hub",
+          "partners": "Partners"
+        }
+      },
+      "join": {
+        "button": "Join us now"
+      },
+      "partners": {
+        "title": "Partners"
+      }
+    }
+  },
+  "modals": {
+    "tellUsAboutYou": "あなたについて教えてください",
+    "descriptionTooLong": "文字数を減らしてください",
+    "descriptionRequired": "説明文を追加してください",
+    "congratulations": "おめでとうございます！",
+    "usernameAlreadyInUse": "そのユーザー名はすでに使用されています",
+    "apply": "送信する",
+    "doNotShow": "Don't show me again",
+    "chooseCurrency": "Choose the currency",
+    "buy": "Buy",
+    "daiInfo": "DAI operations require two transactions",
+    "sandInfo": "SAND operations require ETH for gas",
+    "buyInfo": "How to buy ETH & DAI",
+    "location": "Location",
+    "transactionHelp1": "You need",
+    "transactionHelp2": "to complete the transaction",
+    "howToBuySand": "How to buy SAND >",
+    "gasHelper": "ETH will be used to pay the necessary amount of Gas, it will affect the price depending on the transaction speed.",
+    "buyEth": "Buy ETH on:",
+    "binance": "Binance",
+    "uniswap": "Uniswap",
+    "simplex": "Simplex",
+    "buyOnBinance": "Buy SAND on Binance",
+    "buyOnUniswap": "Buy SAND on Uniswap",
+    "buyOnSimplex": "Buy SAND on Simplex",
+    "wyre": "Wyre",
+    "land": "Land",
+    "estate": "Estate",
+    "modalVerifyEmail": {
+      "verifyEmail": "Verifying email",
+      "login": "Login",
+      "emailVerification": "Email verification",
+      "emailRetry1": "Email sent, please try again in ",
+      "emailRetry2": "seconds.",
+      "sentEmailVerif": "Send verification email",
+      "setEmail": "Set your email!",
+      "pleaseLogIn": "Please login to request email verification."
+    },
+    "lockedModal": {
+      "title": "Season Pass is locked",
+      "subTitle": "You need to own the following NFTs to unlock the content",
+      "text1": "Owning that NFTS unlocks the Season Pass Rewards.",
+      "text2": "You need to keep it to continue enjoying this content, separating from the NFTs will cause you to lose access to the content.",
+      "text3": "Some of them might be for sale on the marketplace depending on if some users are willing to part with it",
+      "button": "Find them in our Marketplace"
+    },
+    "lottery": {
+      "ready": "Alpha Registration",
+      "description": "Get 1 ticket by registering and another for each of the LAND that you own. The more tickets you have the greater your chances to win are!",
+      "howItWorks": "How does it work",
+      "preRegister": "Register",
+      "alreadyRegistered": "You are now successfully Registered!",
+      "preRegistering": "Registering",
+      "landWallet": "Each Land in your wallet",
+      "tooltip": "To participate you have to be a Land Owner.",
+      "inPreseason": "IN ALPHA",
+      "outPreseason": "NOT IN ALPHA"
+    },
+    "uponUs": {
+      "buyLand": "Buy Land",
+      "preRegister": "Pre-register",
+      "findOpen": "Find a Pass on OpenSea"
+    },
+    "currentBalance": {
+      "balance": "Your Current Balance",
+      "noLandsText": "You have lost the Land that allows you to enjoy all the Pre-Season content. You need to have a Land to unlock it",
+      "preRegistered": "You are already successfully Pre-Register",
+      "go": "Go To The Pre-Season"
+    },
+    "lotteryEnded": {
+      "wantToJoin": "Do you want to join to the season?",
+      "buySeasonPass": "You can get the Season Pass if someone put it up for sale on OpenSea",
+      "goOpenSea": "Go to OpenSea",
+      "findOpen": "Find it on OpenSea",
+      "gotSeasonPass": "You got the Season Pass!",
+      "descriptionExplore": "Our first Season is ongoing now. You can explore and win rewards playing our experiences.",
+      "discover": "Discover the Season",
+      "congrats": "Congratulations!",
+      "descriptionWinner": "You won a Season Pass! Claim it now and hold on to it, the Alpha starts soon!",
+      "claim": "Claim the Pass",
+      "betterLuck": "Better luck next time",
+      "learnMore": "Learn more about the season",
+      "paragraphLooser": "Don’t be too sad! You will still be able to access The Sandbox Hub and participate in Social Events to earn rewards.",
+      "descriptionLooser": "You did not win a Season Pass, but perhaps one of the lucky winners is willing to sell theirs.",
+      "close": "Close"
+    },
+    "cannotPreRegister": {
+      "title": "Alpha Registration",
+      "mustLandOwn": "Only LAND owners can register for the closed Alpha.",
+      "mustLandOwn2": "Don’t worry, everybody will be welcome in the Metaverse soon!",
+      "learnMore": "Learn more about the Alpha"
+    },
+    "noArtist": {
+      "title": "あなたはクリエーターですか？",
+      "text1": "このアカウントではコンテンツのアップロードができません。アップロードするためにはアーティストアカウントをご利用ください。",
+      "text2": "クリエーターファンドで入手してください",
+      "button": "クリエーターファンドに行く"
+    },
+    "suscribe": {
+      "title": "取引準備中",
+      "text": "ASSETの売買が可能になるタイミングで知りたい方は、The Sandboxのニュースレターに登録してください。",
+      "button": "登録する"
+    },
+    "uploadAsset": {
+      "step1": {
+        "title": "ASSETをアップロードする",
+        "step1Title": "新しいASSET",
+        "step2Title": "ASSETを交換する"
+      },
+      "step2": {
+        "title": "3Dモデルをアップロードする",
+        "text": "ドロップダウンメニューから入れ替えたいASSETを選んでください"
+      }
+    },
+    "signIn": {
+      "createAccount": "アカウントを作成する",
+      "usernameEmailMissing": "ユーザー名/メールアドレスがありません！",
+      "passwordMissing": "パスワードがありません！",
+      "userPasswordMismatches": "ユーザー名/パスワードが間違っています",
+      "logWithWallet": "ウォレットでログインする",
+      "walletIsNotAssociatedAnyUser": "ウォレットはどのユーザーにも関連付けられていません！",
+      "signIn": "サインイン",
+      "title": "ログイン",
+      "subtitle": "マーケットプレイスにアップロードするにはログインする必要があります。",
+      "placeholder1": "ユーザー名/メールアドレス",
+      "placeholder2": "パスワード",
+      "forgotPass": "パスワードを忘れました",
+      "walletLoginMsg": "ウォレットでログインも可能です",
+      "walletDownloadMsg": "仮想通貨ウォレットの入手方法",
+      "walletDownloadMsgLink": "ここをクリック！",
+      "youCanAlsoLoginWithYourWallet": "ウォレットでログインも可能です"
+    },
+    "claimAssets": {
+      "claim-action": "Claim Now",
+      "SmurfGiveaway": {
+        "title": "The Sandbox ft. The Smurfs",
+        "desc": "As a way to thank our loyal community who’s been contributing to The Sandbox since the very beginning, we’ll be giving away 1 Smurf NFT to ALL LAND owners."
+      },
+      "GildedGiveaway": {
+        "title": "Here's your reward for staking SAND!",
+        "desc": "We have a special reward to thank those who joined our liquidity mining and staked SAND until January 25th. Enjoy this epic Gilded Mage NFT."
+      }
+    },
+    "bid": {
+      "sand": "$SAND",
+      "minimumBid": "Minimum Bid $SAND ",
+      "minimumBidInvalid": "Minimun Bid invalid",
+      "saleEnds": {
+        "text": "Sale ends in ",
+        "days": "days",
+        "hours": "hours",
+        "minutes": "minutes"
+      },
+      "placeBid": "Place Bid",
+      "cancel": "Cancel"
+    }
+  }
+}

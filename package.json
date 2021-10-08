@@ -1,0 +1,12 @@
+{
+  "name": "remove-translations",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "languagedetect": "^2.0.0"
+  }
+}
